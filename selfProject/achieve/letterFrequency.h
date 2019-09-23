@@ -25,7 +25,7 @@ using namespace std;
 typedef long long ll;
 typedef pair<int, ll> PIL;
 
-bool cmp(P a, P b) {
+bool cmp(PIL a, PIL b) {
     if (a.second == b.second)
         return a.first < b.first;
     return a.second > b.second;
@@ -40,7 +40,7 @@ int letterFrequency(string fileName) {
     string s;
     int size = 26;
     ll sum = 0;
-    P arr[size];
+    PIL arr[size];
     memset(arr, 0, sizeof(arr));
     while (input >> s) {
         for (int i = 0; i < s.length(); i++) {

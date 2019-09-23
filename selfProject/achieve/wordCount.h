@@ -21,7 +21,7 @@
 using namespace std;
 
 typedef pair<string, int> PSI;
-map<string, int> word;
+typedef map<string, int> MSI;
 
 bool cmp1(PSI a, PSI b){
 	if(a.second == b.second)
@@ -29,12 +29,15 @@ bool cmp1(PSI a, PSI b){
 	return a.second > b.second;
 }
 
-int wordCount(string fileName){
+//  功能1：wf.exe -f <file>  输出文件中所有不重复的单词，按照出现次数由多到少排列，出现次数同样多的，以字典序排列。
+
+MSI wordCount(string fileName){
 	ifstream input(fileName);
 	if(!input.is_open()){
 		cout << "文件不存在,请重新输入!" << endl;
-		return 0;
+		exit(-1);
 	}
+	MSI word;
 	string s;
 	string letter;
 	while(getline(input, s)){
@@ -48,15 +51,34 @@ int wordCount(string fileName){
 			}
 			letter += c;
 		}
+		if(letter != ""){
+			word[letter]++;
+			letter = "";
+		}
 	}
-	if(letter != "")
-		word[letter]++;
-	vector<PSI> vec(word.begin(), word.end());
-	sort(vec.begin(), vec.end(), cmp1);
+	return word;
+}
+
+template<typename T>
+void output(T word){
 	cout << "文件中的单词及其个数:" << endl;
-	for(auto& it : vec){
+	for(auto& it : word){
 		cout << it.first << " " << it.second << endl;
 	}
+}
+
+void countSortedWords(string fileName){
+	MSI word;
+	word = wordCount(fileName);
+	vector<PSI> vec(word.begin(), word.end());
+	sort(vec.begin(), vec.end(), cmp1);
+	output(vec);
+}
+
+
+//功能2：wf.exe -d <directory>  指定文件目录，对目录下每一个文件执行  wf.exe -f <file> 的操作。 
+int dirSearch(){
+
 	return 0;
 }
 
