@@ -1,5 +1,7 @@
 package com.ctgu.software;
 
+import org.omg.CORBA.INTERNAL;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -48,27 +50,27 @@ public class BookOperation<E> {
         return list;
     }
 
-    public List<Map.Entry<String, Integer>> wordsCount(String fileName) throws IOException {
+    public Map<String, Integer> wordsCount(String fileName) throws IOException {
         BufferedReader br = getReader(fileName);
         Map<String, Integer> words = new HashMap<>();
         String s;
         while((s = br.readLine()) != null){
-            StringTokenizer st = new StringTokenizer(s, " ,?.!:\"\"“”''\n#");
+            StringTokenizer st = new StringTokenizer(s, " ,?.!:\"\"“”\n#;1234567890()");
             while (st.hasMoreElements()) {
                 String sc = st.nextToken().toLowerCase();
                 words.put(sc, words.getOrDefault(sc, 0) + 1);
             }
         }
-        return toSort(words);
+        return words;
     }
 
-    public void outputWordsCount(String fileName) throws IOException {
-        List<Map.Entry<String, Integer>> words = wordsCount(fileName);
+    public void output(List<Map.Entry<String, Integer>> words){
         System.out.println("单词的个数为:");
         for(Map.Entry<String, Integer> word : words){
             System.out.println(word.getKey() + ":" + word.getValue());
         }
     }
+
 
     public void outputLetterFrequency(String fileName) throws IOException {
         List<Map.Entry<String, Integer>> list = letterFrequency(fileName);
@@ -76,6 +78,58 @@ public class BookOperation<E> {
         for(Map.Entry<String, Integer> letter : list){
             System.out.println(letter.getKey() + ": " +String.format("%.2f", letter.getValue() * 100.0 / letterSum) + "%");
         }
+    }
+
+    public List<String> getAllDirFiles(String dirName) throws IOException {
+        List<String> list = new ArrayList<>();
+        File file = new File(dirName);
+        if(!file.isDirectory()){
+            list.add(file.getPath());
+            return list;
+        }
+        File[] allFile = file.listFiles();
+        String s = null;
+        for(File fileName : allFile){
+            if(fileName.isDirectory()){
+                list.addAll(getAllDirFiles(fileName.getPath()));
+                continue;
+            }
+            list.add(fileName.getPath());
+        }
+        return list;
+    }
+
+    public List<String> getDirFiles(String dirName){
+        List<String> list = new ArrayList<>();
+        File file = new File(dirName);
+        File[] allFile = file.listFiles();
+        for(File fileName : allFile){
+            if(fileName.isDirectory()){
+                continue;
+            }
+            list.add(fileName.getPath());
+        }
+        return list;
+    }
+
+    public List<Map.Entry<String, Integer>> getFilesWords(List<String> list) throws IOException {
+        Map<String, Integer> getWord = new HashMap<>();
+        for(String fileName : list){
+            getWord.putAll(wordsCount(fileName));
+        }
+        return toSort(getWord);
+    }
+
+    public void outputWordsCount(String fileName) throws IOException {
+        output(toSort(wordsCount(fileName)));
+    }
+
+    public void outputDirFilesWords(String dirName) throws IOException {
+        output(getFilesWords(getDirFiles(dirName)));
+    }
+
+    public void outputAllDirFilesWords(String dirName) throws IOException {
+        output(getFilesWords(getAllDirFiles(dirName)));
     }
 
 }

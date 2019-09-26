@@ -12,6 +12,13 @@ public class Main {
             case "-f":
                 bookOperation.outputWordsCount(args[1]);
                 break;
+            case "-d":
+                if(args[1].equals("-s")) {
+                    bookOperation.outputAllDirFilesWords(args[2]);
+                }
+                else
+                    bookOperation.outputDirFilesWords(args[1]);
+                break;
             default:
                 System.out.println("参数错误,请重新输入!");
         }
