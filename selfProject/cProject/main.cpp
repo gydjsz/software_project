@@ -54,6 +54,19 @@ void outputAfterStopWords(string stopFile, string fileName){
 	output(words);
 }
 
+void outputDirWords(string fileName){
+	VS vec = getFileName(fileName);
+	MSI words;
+	for(auto& it : vec) {
+		MSI w = wordCount(fileName + "/" + it);
+		for(auto& it : w){
+			words[it.first] += it.second;
+		}
+	}
+	cout << "所有文件的单词个数为:" << endl;
+	output(words);
+}
+
 int main(int argc, char* argv[]) {
     if(strcmp(argv[1], "-c") == 0){
         outputLetterFrequency(argv[2]);
@@ -63,6 +76,9 @@ int main(int argc, char* argv[]) {
 	}
 	else if(strcmp(argv[1], "-x") == 0 && strcmp(argv[3], "-f") == 0){
 		outputAfterStopWords(argv[2], argv[4]);
+	}
+	else if(strcmp(argv[1], "-d") == 0){
+		outputDirWords(argv[2]);
 	}
     return 0;
 }

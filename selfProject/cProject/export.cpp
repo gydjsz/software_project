@@ -3,6 +3,10 @@
 #include <fstream>
 #include <iostream>
 #include <algorithm>
+#include <dirent.h>
+#include <sys/stat.h>
+#include <cstdio>
+#include <vector>
 using namespace std;
 
 bool cmpLetter(PCL p1, PCL p2){
@@ -42,6 +46,22 @@ ll letterExport(PCL* arr, string fileName) {
 	return sum;
 }
 
+VS getFileName(string file){
+	const char* fileName = file.c_str();
+	VS vec;
+	DIR *directory_pointer;
+	struct dirent *entry;
+	if((directory_pointer=opendir(fileName))==NULL){
+		exit(-1);
+	} else {
+		while((entry=readdir(directory_pointer))!=NULL){
+			if(entry->d_name[0]=='.') continue;
+			vec.push_back(entry->d_name);
+		}
+	}
+	return vec;
+}
+
 MSI wordCount(string fileName){
 	ifstream input = getInput(fileName);;
 	MSI word;
@@ -65,3 +85,4 @@ MSI wordCount(string fileName){
 	}
 	return word;
 }
+
