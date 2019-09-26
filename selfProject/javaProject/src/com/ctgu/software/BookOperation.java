@@ -64,10 +64,14 @@ public class BookOperation<E> {
         return words;
     }
 
-    public void output(List<Map.Entry<String, Integer>> words){
+    public void output(List<Map.Entry<String, Integer>> words, int amount){
         System.out.println("单词的个数为:");
+        int count = 0;
         for(Map.Entry<String, Integer> word : words){
+            count++;
             System.out.println(word.getKey() + ":" + word.getValue());
+            if(amount != 0 && count >= amount)
+                break;
         }
     }
 
@@ -121,15 +125,25 @@ public class BookOperation<E> {
     }
 
     public void outputWordsCount(String fileName) throws IOException {
-        output(toSort(wordsCount(fileName)));
+        output(toSort(wordsCount(fileName)), 0);
     }
 
     public void outputDirFilesWords(String dirName) throws IOException {
-        output(getFilesWords(getDirFiles(dirName)));
+        output(getFilesWords(getDirFiles(dirName)), 0);
     }
 
     public void outputAllDirFilesWords(String dirName) throws IOException {
-        output(getFilesWords(getAllDirFiles(dirName)));
+        output(getFilesWords(getAllDirFiles(dirName)), 0);
+    }
+
+    public void outputTopWords(String dirName, int amount, int flag) throws IOException {
+        if(flag == 1){
+            output(getFilesWords(getAllDirFiles(dirName)), amount);
+        }
+        else{
+            output(getFilesWords(getDirFiles(dirName)), amount);
+        }
+
     }
 
 }
