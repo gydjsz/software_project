@@ -20,6 +20,8 @@
 
 ### 分词项目
 
++ [代码](selfProject/javaProject/src/com/ctgu/bookread)
+
 1. -c <file_name> 输出字母频率
 
 2. -f <file_name> 排序输出文件单词个数
