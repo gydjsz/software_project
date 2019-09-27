@@ -30,7 +30,7 @@ public class AnalysizeBook extends ReadBook{
         List<String> book = new ArrayList<>();
         Map<String, String> nomalizeBook = new HashMap<>();
 
-        if(operator.get("-n") != null){
+        if(operator.get("-n") != null && !operator.get("-n").equals("")){
             setAmount(Integer.valueOf(operator.get("-n")));
         }
 
