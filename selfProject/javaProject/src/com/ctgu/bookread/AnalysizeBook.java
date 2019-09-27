@@ -12,11 +12,14 @@ public class AnalysizeBook extends ReadBook{
     public Map<String, String> getOperation(String[] args){
         Map<String, String>  operator = new HashMap<>();
         String regex = "^-.";
+        String num = "^[0-9]+$";
         for(int i = 0; i < args.length; ++i){
             if(args[i].matches(regex)){
                 operator.put(args[i], "");
                 continue;
             }
+            if(args[i - 1].equals("-n") && !args[i].matches(num))
+                continue;
             operator.put(args[i - 1], args[i]);
         }
         return operator;
@@ -29,6 +32,7 @@ public class AnalysizeBook extends ReadBook{
         BuyBook buyBook = new BuyBook();
         List<String> book = new ArrayList<>();
         Map<String, String> nomalizeBook = new HashMap<>();
+
 
         if(operator.get("-n") != null && !operator.get("-n").equals("")){
             setAmount(Integer.valueOf(operator.get("-n")));

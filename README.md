@@ -28,7 +28,7 @@
 
 4. -d -s <file_name> 排序输出所有文件夹下单词个数
 
-4. -n num 指定输出前n个单词
+4. -n num 指定输出前n个单词, 不加num则默认输出全部
 
 5. -x <stop_file> -f <file_name> 跳过stop_file中的内容输出单词个数
 
