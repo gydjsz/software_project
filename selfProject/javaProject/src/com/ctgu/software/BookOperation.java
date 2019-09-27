@@ -1,20 +1,21 @@
 package com.ctgu.software;
 
-import org.omg.CORBA.INTERNAL;
+import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
-public class BookOperation<E> {
+public class BookOperation {
     int letterSum;
 
     public BufferedReader getReader(String fileName) throws IOException {
         File file = new File(fileName);
         if(!file.exists()){
             System.out.println("文件不存在, 请重新输入!");
+            System.exit(-1);
+        }
+        if(file.isDirectory()){
+            System.out.println("请输入文件名!");
             System.exit(-1);
         }
         FileReader fileReader = new FileReader(fileName);
@@ -55,36 +56,17 @@ public class BookOperation<E> {
         Map<String, Integer> words = new HashMap<>();
         String s;
         while((s = br.readLine()) != null){
-            StringTokenizer st = new StringTokenizer(s, " ,?.!:\"\"“”\n#;1234567890()");
+            StringTokenizer st = new StringTokenizer(s, " ,?.!:\"\"“”\n#;1234567890()-");
             while (st.hasMoreElements()) {
                 String sc = st.nextToken().toLowerCase();
                 words.put(sc, words.getOrDefault(sc, 0) + 1);
             }
         }
+        br.close();
         return words;
     }
 
-    public void output(List<Map.Entry<String, Integer>> words, int amount){
-        System.out.println("单词的个数为:");
-        int count = 0;
-        for(Map.Entry<String, Integer> word : words){
-            count++;
-            System.out.println(word.getKey() + ":" + word.getValue());
-            if(amount != 0 && count >= amount)
-                break;
-        }
-    }
-
-
-    public void outputLetterFrequency(String fileName) throws IOException {
-        List<Map.Entry<String, Integer>> list = letterFrequency(fileName);
-        System.out.println("字母的频率为:");
-        for(Map.Entry<String, Integer> letter : list){
-            System.out.println(letter.getKey() + ": " +String.format("%.2f", letter.getValue() * 100.0 / letterSum) + "%");
-        }
-    }
-
-    public List<String> getAllDirFiles(String dirName) throws IOException {
+    public List<String> getAllDirFiles(String dirName) {
         List<String> list = new ArrayList<>();
         File file = new File(dirName);
         if(!file.isDirectory()){
@@ -124,26 +106,94 @@ public class BookOperation<E> {
         return toSort(getWord);
     }
 
-    public void outputWordsCount(String fileName) throws IOException {
-        output(toSort(wordsCount(fileName)), 0);
-    }
-
-    public void outputDirFilesWords(String dirName) throws IOException {
-        output(getFilesWords(getDirFiles(dirName)), 0);
-    }
-
-    public void outputAllDirFilesWords(String dirName) throws IOException {
-        output(getFilesWords(getAllDirFiles(dirName)), 0);
-    }
-
-    public void outputTopWords(String dirName, int amount, int flag) throws IOException {
-        if(flag == 1){
-            output(getFilesWords(getAllDirFiles(dirName)), amount);
+    public List<String> getSentences(String fileName) throws IOException {
+        BufferedReader br = getReader(fileName);
+        List<String> list = new ArrayList<>();
+        String s;
+        while((s = br.readLine()) != null){
+            StringTokenizer st = new StringTokenizer(s, ",.\n");
+            while (st.hasMoreElements()) {
+                String sc = st.nextToken().toLowerCase();
+                list.add(sc);
+            }
         }
-        else{
-            output(getFilesWords(getDirFiles(dirName)), amount);
-        }
-
+        br.close();
+        return list;
     }
 
+    public Map<String, String> getNormalise(String fileName) throws IOException {
+        BufferedReader br = getReader(fileName);
+        Map<String, String> word = new HashMap<>();
+        String s;
+        while((s = br.readLine()) != null){
+            StringTokenizer st = new StringTokenizer(s, " ");
+            st.hasMoreElements();
+            String sc = st.nextToken().toLowerCase();
+            String index = sc;
+            while (st.hasMoreElements()) {
+                sc = st.nextToken().toLowerCase();
+                word.put(sc, word.getOrDefault(sc, index));
+            }
+        }
+        return word;
+    }
+
+    public List<String> toNormalise(String fileName, Map<String, String> normalise) throws IOException {
+        BufferedReader br = getReader(fileName);
+        String s;
+        List<String> list = new ArrayList<>();
+        while((s = br.readLine()) != null){
+            String sentence = "";
+            StringTokenizer st = new StringTokenizer(s, ",.\n");
+            while (st.hasMoreElements()) {
+                String sc = st.nextToken().toLowerCase();
+                StringTokenizer w = new StringTokenizer(sc, " ");
+                while(w.hasMoreElements()){
+                    String sen = w.nextToken().toLowerCase();
+                    sentence += normalise.getOrDefault(sen, sen) + " ";
+                }
+                list.add(sentence);
+            }
+        }
+        br.close();
+        return list;
+    }
+
+    public List<String> getWords(String s){
+        List<String> words = new ArrayList<>();
+        StringTokenizer st = new StringTokenizer(s, " ");
+        while(st.hasMoreElements()){
+            String sc = st.nextToken().toLowerCase();
+            words.add(sc);
+        }
+        return words;
+    }
+
+    public Map<String, Integer> getPhraseCount(List<String> sentence, List<String> phrase){
+        Map<String, Integer> allPhrase = new HashMap<>();
+        List<String> words;
+        for(String sen : sentence){
+            words = getWords(sen);
+            //序列自动机
+            Map<String, Integer>[] place = new Map[1000];
+            for(int i = words.size() - 1; i >= 0; --i){
+                place[i] = new HashMap<>();
+                if(place[i + 1] != null)
+                    place[i].putAll(place[i + 1]);
+                place[i].put(words.get(i), i + 1);
+            }
+            for(String ph : phrase){
+                List<String> p = getWords(ph);
+                int i = 0, j = 0;
+                while(j < p.size() && i < words.size() && place[i].get(p.get(j)) != null){
+                    i = place[i].get(p.get(j));
+                    j++;
+                }
+                if(j == p.size()){
+                    allPhrase.put(ph, allPhrase.getOrDefault(ph, 0) + 1);
+                }
+            }
+        }
+        return allPhrase;
+    }
 }

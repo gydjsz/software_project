@@ -3,8 +3,13 @@ package com.ctgu.software;
 import java.io.IOException;
 
 public class Main {
+
+    public void solve(){
+
+    }
+
     public static void main(String[] args) throws IOException {
-        BookOperation bookOperation = new BookOperation();
+        OutputAll bookOperation = new OutputAll();
         switch (args[0]){
             case "-c":
                 bookOperation.outputLetterFrequency(args[1]);
@@ -33,7 +38,17 @@ public class Main {
                         bookOperation.outputDirFilesWords(args[1]);
                 }
                 break;
-
+            case "-x":
+                if(args.length == 4 && args[2].equals("-f")){
+                    bookOperation.outputAfterStopWords(args[1], args[3]);
+                }
+                break;
+            case "-p":
+                bookOperation.outputPhraseFrequency(args[1]);
+                break;
+            case "-v":
+                bookOperation.outputAfterNormalise(args[1], args[3]);
+                break;
             default:
                 System.out.println("参数错误,请重新输入!");
         }
