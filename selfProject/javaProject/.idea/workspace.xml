@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/ctgu/bookread/BuyBook.java" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e316119e-b68c-41e6-8796-c8329fc94b7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cProject/test/test" beforeDir="false" afterPath="$PROJECT_DIR$/../cProject/test/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cProject/test/test2" beforeDir="false" afterPath="$PROJECT_DIR$/../cProject/test/test2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/BookOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/BookOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ctgu/software/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ctgu/software/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/OutputAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookStatistics/com/ctgu/software/OutputAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctgu/software/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ctgu/software/OutputAll.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,31 +46,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/BuyBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="58" column="89" selection-start-line="58" selection-start-column="89" selection-end-line="58" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1702">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="154">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/OutputAll.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/AnalysizeBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+            <state relative-caret-position="-1251">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/ReadBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1776">
+              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -86,9 +95,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/ctgu/software/Test.java" />
         <option value="$PROJECT_DIR$/src/allPhrase" />
-        <option value="$PROJECT_DIR$/src/com/ctgu/software/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java" />
         <option value="$PROJECT_DIR$/src/com/ctgu/software/OutputAll.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/bookread/BookOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/software/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/bookread/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/bookread/ReadBook.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/bookread/BuyBook.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/bookread/AnalysizeBook.java" />
       </list>
     </option>
   </component>
@@ -110,7 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,13 +156,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ctgu" type="462c0819:PsiDirectoryNode" />
-              <item name="software" type="462c0819:PsiDirectoryNode" />
+              <item name="bookread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,11 +195,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AnalysizeBook">
+    <configuration name="AnalysizeBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.bookread.AnalysizeBook" />
+      <module name="bookStatistics" />
+      <option name="PROGRAM_PARAMETERS" value="-v &quot;$PROJECT_DIR$/../cProject/test/test&quot; -d &quot;$PROJECT_DIR$/../cProject/test/test&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.bookread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ctgu.software.Main" />
       <module name="bookStatistics" />
-      <option name="PROGRAM_PARAMETERS" value="-v &quot;src/allPhrase&quot; -f &quot;$PROJECT_DIR$/../cProject/data/9.First Fireside Chat.txt&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="-c &quot;src/allPhrase&quot; -n 8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ctgu.software.*" />
@@ -196,8 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AnalysizeBook" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnalysizeBook" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -216,18 +249,18 @@
       <workItem from="1569546815139" duration="9365000" />
       <workItem from="1569556363431" duration="1247000" />
       <workItem from="1569557858216" duration="243000" />
+      <workItem from="1569565637956" duration="17842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29856000" />
+    <option name="totallyTimeSpent" value="47698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.22443488" />
-      <window_info id="Structure" order="1" sideWeight="0.50448835" side_tool="true" visible="true" weight="0.22443488" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.19106567" />
+      <window_info id="Structure" order="1" sideWeight="0.5067568" side_tool="true" visible="true" weight="0.19106567" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -244,7 +277,7 @@
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.4994618" weight="0.39977476" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.4994618" visible="true" weight="0.37274775" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.4994618" weight="0.37274775" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497309" />
@@ -300,6 +333,18 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ctgu/bookread/BuyBook.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -327,31 +372,71 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/allPhrase">
+    <entry file="jar:///usr/java/jdk1.8.0_201/src.zip!/java/util/StringTokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="58" column="89" selection-start-line="58" selection-start-column="89" selection-end-line="58" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1702">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="165">
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+          <folding>
+            <element signature="e#13718#13719#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/OutputAll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        <state relative-caret-position="370">
+          <caret line="67" column="102" lean-forward="true" selection-start-line="67" selection-start-column="102" selection-end-line="67" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/allPhrase">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3182">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/software/BookOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/ReadBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1776">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/BuyBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/bookread/AnalysizeBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1251">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
