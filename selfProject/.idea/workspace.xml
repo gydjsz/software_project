@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677104b6-f8a7-41ac-a9d1-fbd241ceb355" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ctgu/book/GetBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/1.I Have a Dream.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/10.The Four Freedoms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/11.Energy and the National Goals - A Crisis of Confidence.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/12.We Shall Overcome.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/13.Ann Richards 1988 Democratic National Convention Keynote Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/14.The Ballot or the Bullet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/15.Chappaquiddick.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/16.Spiro Theodore Agnew Television News Coverage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/17.1984 Vice Presidential Nomination Acceptance Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/18.Richard M. Nixon Checkers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/19.Who Then Will Speak for the Common Good.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/2.Commencement Address at Wellesley College.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/20.Truth and Tolerance in America.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/21.A Time for Choosing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/22.The Perils of Indifference.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/23.Cambodian Incursion Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/24.First Inaugural Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/25.Thayer Award Acceptance Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/26.Renunciation Speech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/27.Farewell Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/28.Ich bin ein Berliner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/29.Acres of Diamonds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/3.Republican National Convention Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/30.Let Us Continue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/31.Message To The Grass Roots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/32.Remarks at the U.S. Ranger Monument on the 40th Anniversary of D-Day.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/33.Resignation Speech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/34.Sexual Harrassment Hearings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/35.The Great Silent Majority.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/36.The Great Society.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/37.The Space Shuttle Challenger Tragedy Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/38.Inaugural Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/39.Atoms for Peace.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/4.Eisenhower Atoms for Peace.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/40.Have You No Sense of Decency.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/41.Farewell to Baseball Address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/42.Remarks at the Brandenburg Gate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/43.The Truman Doctrine.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/44.Adoption of the Declaration of Human Rights.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/45.A Tale of Two Cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/46.A Time to Break Silence.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/47.Television News Coverage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/48.The Evil Empire.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/49.Remarks at the U.S. Ranger Monument on the 40th Anniversary of D-Day.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/5.The Marshall Plan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/50.Pearl Harbor Address to the Nation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/6.Address to the Nation Pardoning Richard M. Nixon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/7.Speech Accepting the Nobel Prize in Literature.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/8.Adoption of the Declaration of Human Rights.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/9.First Fireside Chat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/data/test/hello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/export.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/export.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/file.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/nomalise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/allPhrase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/practice/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/practice/word/world" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cProject/test/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/bookStatistics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/out/production/bookStatistics/META-INF/bookStatistics.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/out/production/bookStatistics/allPhrase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/out/production/bookStatistics/com/ctgu/bookread/AnalysizeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/out/production/bookStatistics/com/ctgu/bookread/BuyBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/out/production/bookStatistics/com/ctgu/bookread/ReadBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/src/allPhrase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/src/com/ctgu/bookread/AnalysizeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/src/com/ctgu/bookread/BuyBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaProject/src/com/ctgu/bookread/ReadBook.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="book" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/GetPath.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/ReadBook.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/AnalyseBook.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/GetBook.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/GetOperationContent.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ctgu/book/OutputResult.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="614" />
+    <option name="y" value="82" />
+    <option name="width" value="917" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/idea/Android/SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.book.Main" />
+      <module name="book" />
+      <option name="PROGRAM_PARAMETERS" value="-c &quot;$USER_HOME$/Documents/computer/test/testData/normal&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677104b6-f8a7-41ac-a9d1-fbd241ceb355" name="Default Changelist" comment="" />
+      <created>1570713453293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570713453293</updated>
+      <workItem from="1570713456583" duration="3622000" />
+      <workItem from="1571455907245" duration="4205000" />
+      <workItem from="1571477861426" duration="1067000" />
+      <workItem from="1571702937917" duration="17282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.26049516" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.26049516" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011261" side_tool="true" weight="0.26049516" />
+      <window_info anchor="bottom" id="JProfiler" />
+      <window_info anchor="bottom" id="Messages" weight="0.32995495" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32995495" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/book/AnalyseBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/book/OutputResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/book/GetOperationContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/book/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ctgu/book/GetBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

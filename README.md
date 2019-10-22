@@ -34,6 +34,6 @@
 
 5. -x <stop_file> -f <file_name> 跳过stop_file中的内容输出单词个数
 
-6. -p num 指定num个词的短语,与-d -s搭配使用
+6. -p num 指定num个词的短语,与-d,-d -s搭配使用
 
-7. -v <verb_file> 将不同形式的单词归一化,于-d -s搭配使用
+7. -v <verb_file> 将不同形式的单词归一化,与-d,-d -s搭配使用
