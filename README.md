@@ -20,7 +20,7 @@
 
 ### 分词项目
 
-+ [代码](selfProject/javaProject/src/com/ctgu/bookread)
++ [代码](selfProject/src/com/ctgu/book)
 
 1. -c <file_name> 输出字母频率
 
