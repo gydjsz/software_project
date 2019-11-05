@@ -1,13 +1,17 @@
 package com.ctgu.book;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.StringTokenizer;
 
 public class OutputResult {
     private int wordNum;
-    private String s = "-c <file_name> 输出字母频率\n" +
+    private String res;
+    private String errorString = "-c <file_name> 输出字母频率\n" +
             "\n" +
             "-f <file_name> 排序输出文件单词个数\n" +
             "\n" +
@@ -20,15 +24,18 @@ public class OutputResult {
             "-x <stop_file> -f <file_name> 跳过stop_file中的内容输出单词个数\n" +
             "\n" +
             "-p num 指定num个词的短语,与-d,-d -s搭配使用\n" +
-            "\n" +
-            "-v <verb_file> 将不同形式的单词归一化,与-d,-d -s搭配使用";
+            "\n";
+
+    public OutputResult() {
+        res = "";
+    }
 
     public void setWordNum(int wordNum) {
         this.wordNum = wordNum;
     }
 
     public void letterFrequency(List<Map.Entry<String, Integer>> letters){
-        System.out.println("字母的频率为: ");
+        res += "字母的频率为: \n";
         int sum = 0;
         Map<String, Integer> let = new HashMap<>();
         for(int i = 0; i < 26; i++){
@@ -40,25 +47,25 @@ public class OutputResult {
             sum += letter.getValue();
         }
         for(Map.Entry<String, Integer> letter : letters){
-            System.out.println(letter.getKey() + ": " + String.format("%.2f", 100.0 * letter.getValue() / sum) + "%");
+            res += letter.getKey() + ": " + String.format("%.2f", 100.0 * letter.getValue() / sum) + "%\n";
         }
         boolean flag = false;
         for(String key : let.keySet()){
             if(let.get(key) == 0) {
-                System.out.print(key + "、");
+                res += key + "、";
                 flag = true;
             }
         }
         if(flag){
-            System.out.println(": 0.00%");
+            res += ": 0.00%\n";
         }
     }
 
     public void wordsAmount(List<Map.Entry<String, Integer>> words){
-        System.out.println("单词的个数为: ");
+        res += "单词的个数为: \n";
         int count = 0;
         for(Map.Entry<String, Integer> word : words){
-            System.out.println(word.getKey() + ": " + word.getValue());
+            res += word.getKey() + ": " + word.getValue() + "\n";
             if(wordNum == 0)
                 continue;
             count++;
@@ -69,14 +76,36 @@ public class OutputResult {
     }
 
     public void phraseAmount(List<Map.Entry<String, Integer>> phrases){
-        System.out.println("短语的个数为: ");
+        res += "短语的个数为: \n";
+        int count = 0;
         for(Map.Entry<String, Integer> phrase : phrases){
-            System.out.println(phrase.getKey() + ": " + phrase.getValue());
+            res += phrase.getKey() + ": " + phrase.getValue() + "\n";
+            if(wordNum == 0)
+                continue;
+            count++;
+            if(count >= wordNum){
+                break;
+            }
         }
     }
 
     public void errorWarn(){
         System.out.println("参数错误!");
-        System.out.println(s);
+        System.out.println(errorString);
+    }
+
+    public void outputFile(String fileName) throws IOException {
+        System.out.println(res);
+        if(fileName.equals(""))
+            return;
+        File f = new File(fileName);
+        if(!f.exists()){
+            f.createNewFile();
+        }
+        FileWriter fw = new FileWriter(fileName);
+        BufferedWriter bw = new BufferedWriter(fw);
+        bw.write(res);
+        bw.close();
+        fw.close();
     }
 }

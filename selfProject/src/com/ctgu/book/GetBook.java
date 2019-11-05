@@ -46,7 +46,7 @@ public class GetBook {
             BufferedReader br = new BufferedReader(fr);
             String s;
             while((s = br.readLine()) != null){
-                StringTokenizer st = new StringTokenizer(s, ",.\n");
+                StringTokenizer st = new StringTokenizer(s, ",�.-?\";()*[]0123465789\n");
                 while(st.hasMoreElements()){
                     String sc = st.nextToken().toLowerCase();
                     bookSentence.add(sc);
@@ -132,35 +132,27 @@ public class GetBook {
         return list;
     }
 
-    public Map<String, Integer> getPhrase(List<String> book, List<String> allPhrase){
+
+    public Map<String, Integer> getPhrase(List<String> book, int num){
         Map<String, Integer> phrase = new HashMap<>();
-        List<String> wordList, phraseList;
-        Map<String, Integer>[] map;
+        List<String> ph = new ArrayList<>();
         for(String s : book){
-            List<String> list = new ArrayList<>();
-            list.add(s);
-            wordList = getWords(list);
-            map = new Map[200];
-            for(int i = wordList.size() - 1; i >= 0; --i){
-                map[i] = new HashMap<>();
-                if(map[i + 1] != null){
-                    map[i].putAll(map[i + 1]);
+            List<String> word = getWords(Arrays.asList(s));
+            for(int i = 0; i + num <= word.size(); i++){
+                String sp = word.get(i) + " ";
+                int j;
+                for(j = i + 1; j < word.size(); j++){
+                    sp += word.get(j) + " ";
+                    if(j - i + 1 == num)
+                        break;
                 }
-                map[i].put(wordList.get(i), i + 1);
-            }
-            for(String p : allPhrase){
-                List<String> li = new ArrayList<>();
-                li.add(p);
-                phraseList = getWords(li);
-                int i = 0, j = 0;
-                while(i < wordList.size() && j < phraseList.size() && map[i].get(phraseList.get(j)) != null){
-                    i = map[i].get(phraseList.get(j));
-                    j++;
-                }
-                if(j == phraseList.size()){
-                    phrase.put(p, phrase.getOrDefault(p, 0) + 1);
+                if(j < word.size()){
+                    ph.add(sp);
                 }
             }
+        }
+        for(String s : ph){
+            phrase.put(s, phrase.getOrDefault(s, 0) + 1);
         }
         return phrase;
     }
@@ -179,21 +171,15 @@ public class GetBook {
         return list;
     }
 
-    public List<String> getSomePhrase(List<String> phrase, int wordNum){
-        if(wordNum == 0)
-            return phrase;
-        List<String> list = new ArrayList<>();
-        for(String s : phrase){
-            StringTokenizer st = new StringTokenizer(s, " ");
-            int n = 0;
-            while(st.hasMoreElements()){
-                st.nextToken();
-                n++;
+    public List<Map.Entry<String, Integer>> getSomePhrase(List<Map.Entry<String, Integer>> some){
+        final Integer NUM = 10;
+        List<Map.Entry<String, Integer>> phrase = new ArrayList<>();
+        for(Map.Entry<String, Integer> s : some){
+            if(s.getValue() >= NUM){
+                phrase.add(s);
             }
-            if(n == wordNum)
-                list.add(s);
         }
-       return list;
+        return phrase;
     }
 
 }

@@ -38,12 +38,11 @@ public class GetOperationContent extends GetBook{
         return toSort(getWordsAmount(words, null));
     }
 
-    public List<Map.Entry<String, Integer>> phraseAmount(List<String> phrase, List<String> allPhrase){
-        return toSort(getPhrase(phrase, allPhrase));
+    public List<Map.Entry<String, Integer>> phraseAmount(List<String> sentence, int num){
+        return getSomePhrase(getSomePhrase(toSort(getPhrase(sentence, num))));
     }
 
-    public List<Map.Entry<String, Integer>> normalPhraseAmount(List<String> sentence, List<String> phrase, Map<String, String> normal){
-        return toSort(getPhrase(getNormalSentence(sentence, normal), phrase));
-    }
+//    public List<Map.Entry<String, Integer>> normalPhraseAmount(List<String> sentence, List<String> phrase, Map<String, String> normal){
+//    }
 
 }

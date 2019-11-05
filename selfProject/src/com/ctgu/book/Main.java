@@ -31,11 +31,12 @@ public class Main {
         GetOperationContent content = new GetOperationContent();
         OutputResult outputResult = new OutputResult();
         List<Map.Entry<String, Integer>> letters = new ArrayList<>();
-        List<Map.Entry<String, Integer>> words = new ArrayList<>();
+        List<Map.Entry<String, Integer>> words;
         List<String> allSentence = new ArrayList<>();
         List<String> stopWords = new ArrayList<>();
         List<Map.Entry<String, Integer>> allPhrase = new ArrayList<>();
-        Map<String, String> normal = new HashMap<>();
+//        Map<String, String> normal = new HashMap<>();
+        String outputFileName = "";
         int wordNum = 0;
         int phraseNum = 0;
         int type = 2;
@@ -69,9 +70,12 @@ public class Main {
                     phraseNum = Integer.valueOf(value);
                     type = 3;
                     break;
-                case "-v":
-                    normal = content.normalWords(value);
-                    type = 4;
+//                case "-v":
+//                    normal = content.normalWords(value);
+//                    type = 4;
+//                    break;
+                case "-o":
+                    outputFileName = value;
                     break;
                 default:
                     type = -1;
@@ -88,20 +92,16 @@ public class Main {
             outputResult.wordsAmount(words);
         }
         else if(type == 3){
-            List<String> phrase = content.allFileSentence("/home/dal/Documents/computer/test/testData/phrase");
-            phrase = content.getSomePhrase(phrase, phraseNum);
-            allPhrase = content.phraseAmount(allSentence, phrase);
+            allPhrase = content.phraseAmount(allSentence, phraseNum);
             outputResult.phraseAmount(allPhrase);
         }
         else if(type == 4){
-            List<String> phrase = content.allFileSentence("/home/dal/Documents/computer/test/testData/phrase");
-            phrase = content.getSomePhrase(phrase, phraseNum);
-            allPhrase = content.normalPhraseAmount(allSentence, phrase, normal);
             outputResult.phraseAmount(allPhrase);
         }
         else{
             outputResult.errorWarn();
         }
+        outputResult.outputFile(outputFileName);
     }
 
     public static void main(String[] args) throws IOException {
