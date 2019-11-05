@@ -1,0 +1,20157 @@
+==========================================================================
+
+
+
+
+
+参数：-d C:\Users\Administrator\Desktop\data -o C:\Users\Administrator\Desktop\soft\output2.txt 
+
+
+
+==========================================================================
+
+
+
+
+
+
+
+单词的个数为: 
+
+the: 8743
+
+of: 5230
+
+and: 4827
+
+to: 4397
+
+in: 2929
+
+a: 2816
+
+that: 2628
+
+i: 2052
+
+we: 1656
+
+is: 1638
+
+for: 1391
+
+it: 1311
+
+you: 1302
+
+our: 1232
+
+this: 1176
+
+have: 1080
+
+be: 1040
+
+not: 976
+
+are: 878
+
+as: 853
+
+on: 841
+
+they: 807
+
+will: 769
+
+with: 751
+
+he: 741
+
+all: 723
+
+but: 697
+
+was: 622
+
+by: 596
+
+or: 568
+
+who: 535
+
+their: 525
+
+his: 520
+
+people: 507
+
+from: 506
+
+my: 494
+
+can: 471
+
+has: 466
+
+at: 461
+
+one: 451
+
+what: 446
+
+there: 444
+
+which: 425
+
+us: 422
+
+if: 421
+
+man: 419
+
+an: 417
+
+so: 415
+
+would: 408
+
+do: 402
+
+when: 402
+
+no: 400
+
+now: 377
+
+must: 338
+
+me: 328
+
+world: 328
+
+your: 322
+
+those: 316
+
+been: 314
+
+great: 310
+
+them: 310
+
+more: 304
+
+had: 298
+
+these: 297
+
+out: 293
+
+government: 283
+
+united: 275
+
+nation: 269
+
+s: 267
+
+than: 265
+
+were: 265
+
+war: 256
+
+years: 255
+
+time: 253
+
+american: 253
+
+know: 251
+
+states: 248
+
+peace: 248
+
+only: 246
+
+any: 243
+
+some: 240
+
+america: 237
+
+other: 237
+
+here: 234
+
+let: 232
+
+men: 232
+
+up: 229
+
+about: 229
+
+say: 228
+
+its: 225
+
+every: 224
+
+president: 221
+
+because: 220
+
+right: 218
+
+own: 207
+
+should: 200
+
+then: 198
+
+new: 198
+
+into: 197
+
+freedom: 188
+
+just: 187
+
+make: 186
+
+him: 184
+
+where: 183
+
+vietnam: 182
+
+over: 181
+
+never: 173
+
+made: 172
+
+country: 171
+
+life: 171
+
+today: 165
+
+rights: 163
+
+did: 161
+
+many: 159
+
+americans: 159
+
+get: 157
+
+believe: 157
+
+see: 155
+
+said: 155
+
+like: 154
+
+good: 153
+
+how: 153
+
+come: 152
+
+first: 151
+
+going: 149
+
+well: 148
+
+very: 147
+
+white: 146
+
+before: 146
+
+could: 142
+
+even: 142
+
+day: 138
+
+most: 136
+
+think: 135
+
+same: 134
+
+way: 134
+
+take: 131
+
+want: 130
+
+don't: 129
+
+such: 129
+
+am: 128
+
+may: 128
+
+human: 126
+
+nations: 125
+
+free: 124
+
+against: 123
+
+public: 122
+
+national: 121
+
+south: 120
+
+t: 120
+
+down: 119
+
+go: 119
+
+work: 118
+
+cannot: 114
+
+long: 113
+
+tonight: 113
+
+through: 112
+
+history: 111
+
+god: 110
+
+much: 107
+
+after: 106
+
+mr: 106
+
+upon: 106
+
+black: 105
+
+power: 105
+
+help: 103
+
+last: 102
+
+money: 102
+
+young: 102
+
+another: 101
+
+back: 101
+
+future: 100
+
+together: 100
+
+city: 99
+
+ago: 98
+
+tell: 98
+
+came: 97
+
+under: 97
+
+why: 97
+
+being: 95
+
+it's: 95
+
+political: 95
+
+again: 93
+
+need: 92
+
+put: 92
+
+shall: 92
+
+ever: 91
+
+children: 90
+
+revolution: 90
+
+congress: 89
+
+give: 89
+
+place: 89
+
+hope: 88
+
+two: 88
+
+part: 87
+
+old: 85
+
+both: 84
+
+end: 84
+
+that's: 84
+
+we're: 84
+
+without: 84
+
+live: 81
+
+negro: 81
+
+told: 81
+
+too: 81
+
+does: 80
+
+faith: 80
+
+also: 79
+
+course: 79
+
+state: 79
+
+use: 79
+
+went: 79
+
+little: 78
+
+always: 77
+
+forces: 77
+
+got: 77
+
+house: 77
+
+whether: 77
+
+each: 75
+
+find: 75
+
+look: 75
+
+i'm: 74
+
+lives: 74
+
+between: 72
+
+during: 72
+
+her: 72
+
+seek: 72
+
+still: 72
+
+keep: 71
+
+office: 71
+
+news: 70
+
+action: 69
+
+better: 69
+
+land: 69
+
+called: 68
+
+yet: 68
+
+cause: 67
+
+civil: 67
+
+law: 67
+
+party: 67
+
+speak: 67
+
+atomic: 66
+
+military: 66
+
+north: 66
+
+things: 66
+
+become: 65
+
+enemy: 65
+
+past: 65
+
+she: 65
+
+strength: 65
+
+three: 65
+
+until: 65
+
+while: 65
+
+done: 64
+
+friends: 64
+
+million: 64
+
+program: 64
+
+security: 64
+
+ask: 63
+
+far: 63
+
+might: 63
+
+thank: 63
+
+year: 63
+
+common: 62
+
+economic: 62
+
+energy: 62
+
+nothing: 62
+
+call: 61
+
+since: 61
+
+true: 61
+
+around: 60
+
+business: 60
+
+don: 60
+
+home: 60
+
+rich: 60
+
+words: 60
+
+night: 59
+
+others: 59
+
+policy: 59
+
+problems: 59
+
+society: 59
+
+anything: 58
+
+fellow: 58
+
+something: 58
+
+thing: 58
+
+days: 57
+
+love: 57
+
+poor: 57
+
+washington: 57
+
+whole: 57
+
+enough: 56
+
+four: 56
+
+general: 56
+
+kind: 56
+
+purpose: 56
+
+remember: 56
+
+social: 56
+
+stand: 56
+
+begin: 55
+
+best: 55
+
+community: 55
+
+family: 55
+
+few: 55
+
+vietnamese: 55
+
+able: 54
+
+itself: 54
+
+order: 54
+
+support: 54
+
+asked: 53
+
+fact: 53
+
+moral: 52
+
+bring: 51
+
+means: 51
+
+among: 50
+
+next: 50
+
+strong: 50
+
+times: 50
+
+defense: 49
+
+earth: 49
+
+leaders: 49
+
+once: 49
+
+struggle: 49
+
+women: 49
+
+wrong: 49
+
+you're: 49
+
+already: 48
+
+confidence: 48
+
+continue: 48
+
+democratic: 48
+
+liberty: 48
+
+mind: 48
+
+set: 48
+
+small: 48
+
+took: 48
+
+berlin: 47
+
+europe: 47
+
+heart: 47
+
+question: 47
+
+understand: 47
+
+ve: 47
+
+citizens: 46
+
+hands: 46
+
+ourselves: 46
+
+progress: 46
+
+soviet: 46
+
+$: 45
+
+began: 45
+
+dollars: 45
+
+issue: 45
+
+millions: 45
+
+networks: 45
+
+opportunity: 45
+
+pay: 45
+
+real: 45
+
+school: 45
+
+speech: 45
+
+truth: 45
+
+vote: 45
+
+within: 45
+
+address: 44
+
+away: 44
+
+can't: 44
+
+clear: 44
+
+effort: 44
+
+less: 44
+
+point: 44
+
+read: 44
+
+senator: 44
+
+sense: 44
+
+themselves: 44
+
+west: 44
+
+full: 43
+
+left: 43
+
+making: 43
+
+rather: 43
+
+taken: 43
+
+face: 42
+
+moment: 42
+
+off: 42
+
+private: 42
+
+television: 42
+
+yes: 42
+
+act: 41
+
+administration: 41
+
+answer: 41
+
+assembly: 41
+
+control: 41
+
+democracy: 41
+
+dream: 41
+
+foreign: 41
+
+greater: 41
+
+he's: 41
+
+heard: 41
+
+hundred: 41
+
+involved: 41
+
+matter: 41
+
+present: 41
+
+share: 41
+
+side: 41
+
+system: 41
+
+talk: 41
+
+used: 41
+
+behind: 40
+
+decision: 40
+
+democrats: 40
+
+meet: 40
+
+members: 40
+
+number: 40
+
+spirit: 40
+
+build: 39
+
+declaration: 39
+
+east: 39
+
+education: 39
+
+fear: 39
+
+fighting: 39
+
+greatest: 39
+
+important: 39
+
+mean: 39
+
+peaceful: 39
+
+personal: 39
+
+problem: 39
+
+seen: 39
+
+they're: 39
+
+toward: 39
+
+violence: 39
+
+allies: 38
+
+beyond: 38
+
+d: 38
+
+doing: 38
+
+five: 38
+
+justice: 38
+
+kennedy: 38
+
+philadelphia: 38
+
+weapons: 38
+
+whatever: 38
+
+banks: 37
+
+bill: 37
+
+difficult: 37
+
+else: 37
+
+entire: 37
+
+federal: 37
+
+feel: 37
+
+found: 37
+
+knew: 37
+
+negroes: 37
+
+nor: 37
+
+plan: 37
+
+story: 37
+
+union: 37
+
+change: 36
+
+courage: 36
+
+fight: 36
+
+front: 36
+
+given: 36
+
+hear: 36
+
+majority: 36
+
+move: 36
+
+re: 36
+
+religious: 36
+
+says: 36
+
+thought: 36
+
+week: 36
+
+woman: 36
+
+across: 35
+
+c: 35
+
+duty: 35
+
+equal: 35
+
+interest: 35
+
+lost: 35
+
+months: 35
+
+needs: 35
+
+perhaps: 35
+
+proud: 35
+
+second: 35
+
+there's: 35
+
+asia: 34
+
+belief: 34
+
+countries: 34
+
+deal: 34
+
+forward: 34
+
+greece: 34
+
+hold: 34
+
+however: 34
+
+individual: 34
+
+knows: 34
+
+necessary: 34
+
+nuclear: 34
+
+open: 34
+
+really: 34
+
+religion: 34
+
+republican: 34
+
+whose: 34
+
+almost: 33
+
+arms: 33
+
+bank: 33
+
+death: 33
+
+honor: 33
+
+join: 33
+
+network: 33
+
+oh: 33
+
+record: 33
+
+responsibility: 33
+
+stop: 33
+
+third: 33
+
+town: 33
+
+values: 33
+
+became: 32
+
+peoples: 32
+
+respect: 32
+
+situation: 32
+
+working: 32
+
+attack: 31
+
+based: 31
+
+conference: 31
+
+danger: 31
+
+generation: 31
+
+half: 31
+
+himself: 31
+
+issues: 31
+
+john: 31
+
+known: 31
+
+least: 31
+
+march: 31
+
+promise: 31
+
+special: 31
+
+store: 31
+
+we've: 31
+
+air: 30
+
+century: 30
+
+church: 30
+
+conscience: 30
+
+doubt: 30
+
+economy: 30
+
+fought: 30
+
+high: 30
+
+hopes: 30
+
+material: 30
+
+often: 30
+
+period: 30
+
+poverty: 30
+
+table: 30
+
+turn: 30
+
+worth: 30
+
+accept: 29
+
+battle: 29
+
+comes: 29
+
+election: 29
+
+felt: 29
+
+group: 29
+
+hard: 29
+
+independence: 29
+
+judge: 29
+
+level: 29
+
+nationalism: 29
+
+principles: 29
+
+realize: 29
+
+therefore: 29
+
+though: 29
+
+thousands: 29
+
+troops: 29
+
+wish: 29
+
+york: 29
+
+alone: 28
+
+assistance: 28
+
+case: 28
+
+cities: 28
+
+citizen: 28
+
+committee: 28
+
+crisis: 28
+
+decisions: 28
+
+different: 28
+
+essential: 28
+
+instead: 28
+
+international: 28
+
+m: 28
+
+mankind: 28
+
+needed: 28
+
+nixon: 28
+
+provide: 28
+
+republicans: 28
+
+saying: 28
+
+show: 28
+
+soon: 28
+
+thomas: 28
+
+twenty: 28
+
+word: 28
+
+age: 27
+
+care: 27
+
+communist: 27
+
+deep: 27
+
+everyone: 27
+
+example: 27
+
+finally: 27
+
+gone: 27
+
+happened: 27
+
+large: 27
+
+lead: 27
+
+leave: 27
+
+minds: 27
+
+sometimes: 27
+
+subject: 27
+
+throughout: 27
+
+unity: 27
+
+ahead: 26
+
+basic: 26
+
+brothers: 26
+
+choice: 26
+
+concerned: 26
+
+efforts: 26
+
+force: 26
+
+form: 26
+
+head: 26
+
+longer: 26
+
+middle: 26
+
+mine: 26
+
+prepared: 26
+
+race: 26
+
+sacrifice: 26
+
+self: 26
+
+sent: 26
+
+serve: 26
+
+sit: 26
+
+trying: 26
+
+view: 26
+
+ways: 26
+
+win: 26
+
+basis: 25
+
+doesn't: 25
+
+enemies: 25
+
+everywhere: 25
+
+evil: 25
+
+friend: 25
+
+learn: 25
+
+master: 25
+
+meeting: 25
+
+oil: 25
+
+opinion: 25
+
+ours: 25
+
+possible: 25
+
+questions: 25
+
+ready: 25
+
+saw: 25
+
+simply: 25
+
+sure: 25
+
+terms: 25
+
+try: 25
+
+victory: 25
+
+willing: 25
+
+along: 24
+
+big: 24
+
+campaign: 24
+
+capital: 24
+
+certain: 24
+
+class: 24
+
+coming: 24
+
+destiny: 24
+
+didn't: 24
+
+discuss: 24
+
+dollar: 24
+
+evening: 24
+
+everything: 24
+
+france: 24
+
+gave: 24
+
+goal: 24
+
+i've: 24
+
+job: 24
+
+legislation: 24
+
+light: 24
+
+paid: 24
+
+position: 24
+
+powerful: 24
+
+prosperity: 24
+
+reach: 24
+
+save: 24
+
+senate: 24
+
+serious: 24
+
+sic: 24
+
+single: 24
+
+surely: 24
+
+tax: 24
+
+ten: 24
+
+th: 24
+
+thousand: 24
+
+withdrawal: 24
+
+actions: 23
+
+agreement: 23
+
+aid: 23
+
+anyone: 23
+
+ballot: 23
+
+cambodia: 23
+
+differences: 23
+
+facts: 23
+
+farm: 23
+
+goes: 23
+
+idea: 23
+
+immediate: 23
+
+looked: 23
+
+massachusetts: 23
+
+myself: 23
+
+path: 23
+
+person: 23
+
+pledge: 23
+
+pride: 23
+
+reason: 23
+
+search: 23
+
+sides: 23
+
+simple: 23
+
+start: 23
+
+wall: 23
+
+won: 23
+
+you've: 23
+
+america's: 22
+
+armed: 22
+
+communists: 22
+
+constitution: 22
+
+cost: 22
+
+defend: 22
+
+difference: 22
+
+directly: 22
+
+dreams: 22
+
+field: 22
+
+financial: 22
+
+follow: 22
+
+freeze: 22
+
+governments: 22
+
+hand: 22
+
+interests: 22
+
+lose: 22
+
+lot: 22
+
+makes: 22
+
+morning: 22
+
+nation's: 22
+
+negotiate: 22
+
+ought: 22
+
+raised: 22
+
+report: 22
+
+rest: 22
+
+run: 22
+
+soldiers: 22
+
+sought: 22
+
+threat: 22
+
+vice: 22
+
+whom: 22
+
+aggression: 21
+
+balance: 21
+
+beginning: 21
+
+britain: 21
+
+challenge: 21
+
+chance: 21
+
+character: 21
+
+christian: 21
+
+clearly: 21
+
+create: 21
+
+deeply: 21
+
+early: 21
+
+effect: 21
+
+eisenhower: 21
+
+families: 21
+
+further: 21
+
+isn't: 21
+
+labor: 21
+
+leadership: 21
+
+lived: 21
+
+nearly: 21
+
+ones: 21
+
+passed: 21
+
+politics: 21
+
+price: 21
+
+process: 21
+
+reality: 21
+
+recent: 21
+
+result: 21
+
+sat: 21
+
+service: 21
+
+sound: 21
+
+spent: 21
+
+talking: 21
+
+wife: 21
+
+billion: 20
+
+cliffs: 20
+
+close: 20
+
+consider: 20
+
+continued: 20
+
+dignity: 20
+
+either: 20
+
+equality: 20
+
+eyes: 20
+
+farmer: 20
+
+food: 20
+
+forty: 20
+
+french: 20
+
+gets: 20
+
+having: 20
+
+king: 20
+
+ladies: 20
+
+living: 20
+
+name: 20
+
+offer: 20
+
+principle: 20
+
+regard: 20
+
+resources: 20
+
+responsible: 20
+
+secret: 20
+
+secretary: 20
+
+several: 20
+
+street: 20
+
+taking: 20
+
+taught: 20
+
+tomorrow: 20
+
+voice: 20
+
+western: 20
+
+worked: 20
+
+africa: 19
+
+allow: 19
+
+areas: 19
+
+audience: 19
+
+authority: 19
+
+bombs: 19
+
+brave: 19
+
+brought: 19
+
+carry: 19
+
+commitment: 19
+
+communism: 19
+
+couldn't: 19
+
+debate: 19
+
+deficit: 19
+
+determined: 19
+
+died: 19
+
+dr: 19
+
+father: 19
+
+funds: 19
+
+goals: 19
+
+hanoi: 19
+
+hearts: 19
+
+hell: 19
+
+increase: 19
+
+kept: 19
+
+leader: 19
+
+line: 19
+
+listen: 19
+
+looking: 19
+
+loss: 19
+
+maintain: 19
+
+merely: 19
+
+message: 19
+
+met: 19
+
+mother: 19
+
+organization: 19
+
+pass: 19
+
+powers: 19
+
+pray: 19
+
+raise: 19
+
+received: 19
+
+road: 19
+
+room: 19
+
+solution: 19
+
+teach: 19
+
+this:: 19
+
+trust: 19
+
+uncle: 19
+
+abroad: 18
+
+asking: 18
+
+break: 18
+
+bullet: 18
+
+civilization: 18
+
+continent: 18
+
+cooperation: 18
+
+dark: 18
+
+destroyed: 18
+
+develop: 18
+
+die: 18
+
+eight: 18
+
+failed: 18
+
+failure: 18
+
+fire: 18
+
+forget: 18
+
+gentlemen: 18
+
+giving: 18
+
+greek: 18
+
+helped: 18
+
+later: 18
+
+learned: 18
+
+legal: 18
+
+major: 18
+
+morality: 18
+
+neither: 18
+
+occasion: 18
+
+parents: 18
+
+particularly: 18
+
+presidency: 18
+
+remain: 18
+
+require: 18
+
+rule: 18
+
+shining: 18
+
+six: 18
+
+standing: 18
+
+stood: 18
+
+suffering: 18
+
+supposed: 18
+
+takes: 18
+
+talks: 18
+
+term: 18
+
+test: 18
+
+total: 18
+
+turned: 18
+
+voting: 18
+
+wait: 18
+
+wants: 18
+
+ability: 17
+
+area: 17
+
+boy: 17
+
+certainly: 17
+
+constitutional: 17
+
+desire: 17
+
+determination: 17
+
+development: 17
+
+diamonds: 17
+
+divided: 17
+
+door: 17
+
+elected: 17
+
+enjoy: 17
+
+especially: 17
+
+fair: 17
+
+final: 17
+
+firm: 17
+
+germany: 17
+
+gold: 17
+
+hour: 17
+
+incidentally: 17
+
+indifference: 17
+
+influence: 17
+
+listening: 17
+
+measure: 17
+
+modern: 17
+
+percent: 17
+
+places: 17
+
+recognize: 17
+
+risk: 17
+
+running: 17
+
+said:: 17
+
+say:: 17
+
+seems: 17
+
+seven: 17
+
+shared: 17
+
+son: 17
+
+sons: 17
+
+southeast: 17
+
+speaking: 17
+
+stands: 17
+
+success: 17
+
+telling: 17
+
+thus: 17
+
+tried: 17
+
+turkey: 17
+
+university: 17
+
+views: 17
+
+wealth: 17
+
+wonder: 17
+
+'cause: 16
+
+advance: 16
+
+afraid: 16
+
+attacks: 16
+
+book: 16
+
+born: 16
+
+catch: 16
+
+color: 16
+
+complete: 16
+
+concern: 16
+
+conditions: 16
+
+court: 16
+
+decades: 16
+
+demand: 16
+
+employment: 16
+
+expect: 16
+
+experience: 16
+
+fathers: 16
+
+forth: 16
+
+greatness: 16
+
+grown: 16
+
+held: 16
+
+homes: 16
+
+honest: 16
+
+importance: 16
+
+inflation: 16
+
+institutions: 16
+
+korea: 16
+
+led: 16
+
+loved: 16
+
+neighbors: 16
+
+none: 16
+
+pain: 16
+
+permit: 16
+
+philosophy: 16
+
+police: 16
+
+press: 16
+
+protect: 16
+
+pursuit: 16
+
+relationship: 16
+
+roll: 16
+
+send: 16
+
+short: 16
+
+st: 16
+
+streets: 16
+
+students: 16
+
+task: 16
+
+terrible: 16
+
+thinking: 16
+
+tragedy: 16
+
+wanted: 16
+
+wars: 16
+
+welfare: 16
+
+wisdom: 16
+
+wrote: 16
+
+above: 15
+
+absolute: 15
+
+achieve: 15
+
+actually: 15
+
+alliance: 15
+
+anywhere: 15
+
+attention: 15
+
+bear: 15
+
+becomes: 15
+
+beliefs: 15
+
+bible: 15
+
+blood: 15
+
+burden: 15
+
+chairman: 15
+
+challenged: 15
+
+check: 15
+
+churches: 15
+
+commentators: 15
+
+compassion: 15
+
+conduct: 15
+
+conflict: 15
+
+controversy: 15
+
+decide: 15
+
+department: 15
+
+easy: 15
+
+effective: 15
+
+events: 15
+
+except: 15
+
+false: 15
+
+fell: 15
+
+george: 15
+
+gospel: 15
+
+guarantee: 15
+
+invented: 15
+
+japanese: 15
+
+judgment: 15
+
+july: 15
+
+knowledge: 15
+
+late: 15
+
+laws: 15
+
+meaning: 15
+
+negotiations: 15
+
+occasions: 15
+
+outside: 15
+
+overcome: 15
+
+particular: 15
+
+parts: 15
+
+programs: 15
+
+quickly: 15
+
+remind: 15
+
+responsibilities: 15
+
+richard: 15
+
+someone: 15
+
+space: 15
+
+spend: 15
+
+standard: 15
+
+statement: 15
+
+steps: 15
+
+straight: 15
+
+supreme: 15
+
+they've: 15
+
+threatened: 15
+
+tyranny: 15
+
+unless: 15
+
+value: 15
+
+victims: 15
+
+weak: 15
+
+welch:: 15
+
+yourself: 15
+
+agency: 14
+
+army: 14
+
+article: 14
+
+avoid: 14
+
+boys: 14
+
+built: 14
+
+capacity: 14
+
+chief: 14
+
+college: 14
+
+currency: 14
+
+defeat: 14
+
+democrat: 14
+
+expression: 14
+
+fail: 14
+
+fall: 14
+
+fund: 14
+
+ground: 14
+
+happiness: 14
+
+happy: 14
+
+hours: 14
+
+i'll: 14
+
+impose: 14
+
+injustice: 14
+
+integrity: 14
+
+intend: 14
+
+invasion: 14
+
+jobs: 14
+
+leading: 14
+
+lies: 14
+
+lines: 14
+
+maybe: 14
+
+medium: 14
+
+minutes: 14
+
+monopoly: 14
+
+month: 14
+
+natural: 14
+
+near: 14
+
+nonviolent: 14
+
+pacific: 14
+
+required: 14
+
+satisfied: 14
+
+seemed: 14
+
+segregated: 14
+
+sell: 14
+
+southern: 14
+
+spiritual: 14
+
+spoke: 14
+
+step: 14
+
+suffered: 14
+
+suggest: 14
+
+supply: 14
+
+ultimate: 14
+
+vast: 14
+
+virtually: 14
+
+vision: 14
+
+we'll: 14
+
+written: 14
+
+yours: 14
+
+agree: 13
+
+although: 13
+
+armies: 13
+
+assure: 13
+
+available: 13
+
+believed: 13
+
+body: 13
+
+california: 13
+
+camps: 13
+
+carried: 13
+
+charge: 13
+
+choose: 13
+
+committed: 13
+
+completely: 13
+
+constantly: 13
+
+convention: 13
+
+creative: 13
+
+dead: 13
+
+deeper: 13
+
+demands: 13
+
+diamond: 13
+
+direct: 13
+
+disease: 13
+
+document: 13
+
+dying: 13
+
+elections: 13
+
+exists: 13
+
+faces: 13
+
+fifty: 13
+
+former: 13
+
+fully: 13
+
+girls: 13
+
+guide: 13
+
+hill: 13
+
+immediately: 13
+
+including: 13
+
+income: 13
+
+let's: 13
+
+local: 13
+
+lord: 13
+
+machine: 13
+
+materials: 13
+
+meetings: 13
+
+member: 13
+
+minority: 13
+
+mission: 13
+
+moved: 13
+
+neighbor: 13
+
+objective: 13
+
+obvious: 13
+
+officials: 13
+
+prayer: 13
+
+preserve: 13
+
+prevent: 13
+
+profound: 13
+
+reasons: 13
+
+request: 13
+
+return: 13
+
+role: 13
+
+ronald: 13
+
+safety: 13
+
+sam: 13
+
+secure: 13
+
+senators: 13
+
+separate: 13
+
+shape: 13
+
+shown: 13
+
+sign: 13
+
+sold: 13
+
+solve: 13
+
+suffer: 13
+
+talked: 13
+
+top: 13
+
+voices: 13
+
+warfare: 13
+
+weeks: 13
+
+what's: 13
+
+ali: 12
+
+amendment: 12
+
+announced: 12
+
+bad: 12
+
+baptist: 12
+
+bound: 12
+
+bringing: 12
+
+broad: 12
+
+calling: 12
+
+casualties: 12
+
+cents: 12
+
+circumstances: 12
+
+concentration: 12
+
+conversations: 12
+
+conviction: 12
+
+created: 12
+
+cut: 12
+
+decided: 12
+
+designed: 12
+
+destruction: 12
+
+discovered: 12
+
+division: 12
+
+eye: 12
+
+failures: 12
+
+falwell: 12
+
+feet: 12
+
+fissionable: 12
+
+following: 12
+
+goods: 12
+
+groups: 12
+
+growing: 12
+
+hafed: 12
+
+happen: 12
+
+happens: 12
+
+harriman: 12
+
+humanity: 12
+
+hundreds: 12
+
+husband: 12
+
+ideas: 12
+
+impossible: 12
+
+independent: 12
+
+insurance: 12
+
+intelligent: 12
+
+lay: 12
+
+liberation: 12
+
+lincoln: 12
+
+man's: 12
+
+marshall: 12
+
+martin: 12
+
+mccarthy:: 12
+
+mines: 12
+
+mississippi: 12
+
+offered: 12
+
+official: 12
+
+opportunities: 12
+
+paris: 12
+
+permitted: 12
+
+physical: 12
+
+practice: 12
+
+probably: 12
+
+promises: 12
+
+property: 12
+
+proposals: 12
+
+purposes: 12
+
+quote: 12
+
+recently: 12
+
+red: 12
+
+renew: 12
+
+response: 12
+
+restore: 12
+
+ring: 12
+
+sanctuaries: 12
+
+schools: 12
+
+sitting: 12
+
+stated: 12
+
+succeed: 12
+
+systems: 12
+
+tells: 12
+
+thee: 12
+
+understanding: 12
+
+universal: 12
+
+violent: 12
+
+vital: 12
+
+watched: 12
+
+water: 12
+
+wide: 12
+
+worse: 12
+
+wouldn't: 12
+
+write: 12
+
+achievement: 11
+
+afford: 11
+
+agreed: 11
+
+ancient: 11
+
+assured: 11
+
+attempt: 11
+
+avenue: 11
+
+average: 11
+
+aware: 11
+
+beautiful: 11
+
+british: 11
+
+budget: 11
+
+building: 11
+
+central: 11
+
+commitments: 11
+
+complex: 11
+
+compromise: 11
+
+contributions: 11
+
+county: 11
+
+debt: 11
+
+decent: 11
+
+dedicated: 11
+
+destructive: 11
+
+diversity: 11
+
+ending: 11
+
+exactly: 11
+
+forgotten: 11
+
+fundamental: 11
+
+gain: 11
+
+georgia: 11
+
+getting: 11
+
+guns: 11
+
+hate: 11
+
+he'd: 11
+
+health: 11
+
+heroes: 11
+
+ho: 11
+
+ii: 11
+
+indeed: 11
+
+individuals: 11
+
+industry: 11
+
+initiative: 11
+
+island: 11
+
+jews: 11
+
+johnson: 11
+
+kids: 11
+
+lack: 11
+
+lasting: 11
+
+lie: 11
+
+loyalty: 11
+
+mere: 11
+
+mistakes: 11
+
+nature: 11
+
+newspaper: 11
+
+northern: 11
+
+play: 11
+
+population: 11
+
+presence: 11
+
+presidential: 11
+
+principally: 11
+
+production: 11
+
+providing: 11
+
+quest: 11
+
+racial: 11
+
+ran: 11
+
+recall: 11
+
+refuse: 11
+
+regardless: 11
+
+republic: 11
+
+reverend: 11
+
+revolutionary: 11
+
+rightly: 11
+
+rules: 11
+
+segregation: 11
+
+shot: 11
+
+soviets: 11
+
+speaker: 11
+
+suggested: 11
+
+taxes: 11
+
+texas: 11
+
+tragic: 11
+
+trouble: 11
+
+truly: 11
+
+unite: 11
+
+weapon: 11
+
+welch: 11
+
+welcome: 11
+
+wise: 11
+
+acceptable: 10
+
+according: 10
+
+addition: 10
+
+affairs: 10
+
+aggressor: 10
+
+allied: 10
+
+ambassador: 10
+
+answers: 10
+
+anti: 10
+
+assist: 10
+
+assume: 10
+
+attacked: 10
+
+beauty: 10
+
+berliner: 10
+
+bomb: 10
+
+bombing: 10
+
+candidate: 10
+
+career: 10
+
+charged: 10
+
+chosen: 10
+
+combat: 10
+
+company: 10
+
+concluded: 10
+
+conclusion: 10
+
+confident: 10
+
+congressmen: 10
+
+darkness: 10
+
+decade: 10
+
+delay: 10
+
+demanding: 10
+
+deny: 10
+
+depends: 10
+
+disagree: 10
+
+dixiecrats: 10
+
+doesn: 10
+
+dog: 10
+
+earlier: 10
+
+eeoc: 10
+
+executive: 10
+
+extent: 10
+
+f: 10
+
+faced: 10
+
+film: 10
+
+finished: 10
+
+fit: 10
+
+fitting: 10
+
+fortune: 10
+
+freedoms: 10
+
+gathered: 10
+
+geneva: 10
+
+german: 10
+
+glad: 10
+
+growth: 10
+
+hatred: 10
+
+heavy: 10
+
+higher: 10
+
+highest: 10
+
+honorable: 10
+
+hunger: 10
+
+ignore: 10
+
+imagination: 10
+
+it'll: 10
+
+january: 10
+
+joined: 10
+
+killed: 10
+
+laid: 10
+
+language: 10
+
+larger: 10
+
+leads: 10
+
+limited: 10
+
+media: 10
+
+mighty: 10
+
+minister: 10
+
+mutual: 10
+
+normal: 10
+
+obligation: 10
+
+occupied: 10
+
+ocean: 10
+
+officer: 10
+
+oppression: 10
+
+pat: 10
+
+per: 10
+
+planned: 10
+
+plans: 10
+
+platform: 10
+
+proclamation: 10
+
+produce: 10
+
+profit: 10
+
+rangers: 10
+
+reagan: 10
+
+reagan:: 10
+
+recovery: 10
+
+relations: 10
+
+remove: 10
+
+represent: 10
+
+representatives: 10
+
+represents: 10
+
+returned: 10
+
+seat: 10
+
+section: 10
+
+series: 10
+
+seriously: 10
+
+served: 10
+
+sex: 10
+
+significant: 10
+
+sisters: 10
+
+somehow: 10
+
+source: 10
+
+standards: 10
+
+stars: 10
+
+status: 10
+
+stevenson: 10
+
+stone: 10
+
+stopped: 10
+
+strengthen: 10
+
+student: 10
+
+study: 10
+
+sufficient: 10
+
+supplies: 10
+
+supporting: 10
+
+surprise: 10
+
+surrender: 10
+
+thoughts: 10
+
+totalitarian: 10
+
+trade: 10
+
+understood: 10
+
+unemployment: 10
+
+various: 10
+
+visit: 10
+
+whenever: 10
+
+willingness: 10
+
+wonderful: 10
+
+yesterday: 10
+
+youth: 10
+
+accepted: 9
+
+accident: 9
+
+actual: 9
+
+additional: 9
+
+advantage: 9
+
+anybody: 9
+
+aren't: 9
+
+armaments: 9
+
+atlantic: 9
+
+awful: 9
+
+b: 9
+
+banking: 9
+
+belong: 9
+
+belongs: 9
+
+bitter: 9
+
+bloody: 9
+
+bought: 9
+
+brother: 9
+
+brotherhood: 9
+
+buy: 9
+
+changes: 9
+
+changing: 9
+
+chi: 9
+
+chicago: 9
+
+child: 9
+
+china: 9
+
+coal: 9
+
+command: 9
+
+condition: 9
+
+consequences: 9
+
+considered: 9
+
+continuing: 9
+
+contributed: 9
+
+controlled: 9
+
+council: 9
+
+counsel: 9
+
+creating: 9
+
+creation: 9
+
+critical: 9
+
+dare: 9
+
+david: 9
+
+dedication: 9
+
+deeds: 9
+
+denied: 9
+
+despite: 9
+
+destroy: 9
+
+diplomatic: 9
+
+directed: 9
+
+direction: 9
+
+dramatic: 9
+
+draw: 9
+
+dwight: 9
+
+earned: 9
+
+eliminate: 9
+
+engaged: 9
+
+ensure: 9
+
+everybody: 9
+
+exist: 9
+
+expand: 9
+
+explain: 9
+
+express: 9
+
+extend: 9
+
+fairness: 9
+
+farmers: 9
+
+fearful: 9
+
+filled: 9
+
+followed: 9
+
+forced: 9
+
+foundation: 9
+
+founding: 9
+
+fred: 9
+
+friendly: 9
+
+gate: 9
+
+generations: 9
+
+genius: 9
+
+giant: 9
+
+girl: 9
+
+governed: 9
+
+grateful: 9
+
+guerrilla: 9
+
+haven't: 9
+
+he'll: 9
+
+hemisphere: 9
+
+hero: 9
+
+historic: 9
+
+hostile: 9
+
+hotel: 9
+
+huge: 9
+
+hungry: 9
+
+imposed: 9
+
+increased: 9
+
+information: 9
+
+intended: 9
+
+invitation: 9
+
+isolated: 9
+
+jack: 9
+
+james: 9
+
+jim: 9
+
+latin: 9
+
+launched: 9
+
+lucky: 9
+
+luther: 9
+
+magnificent: 9
+
+massive: 9
+
+matters: 9
+
+miles: 9
+
+minh: 9
+
+misery: 9
+
+mrs: 9
+
+nationalist: 9
+
+newspapers: 9
+
+note: 9
+
+opening: 9
+
+oppose: 9
+
+parties: 9
+
+pennsylvania: 9
+
+policies: 9
+
+positive: 9
+
+possibly: 9
+
+prejudice: 9
+
+presentation: 9
+
+pressures: 9
+
+privilege: 9
+
+prove: 9
+
+provision: 9
+
+putting: 9
+
+radio: 9
+
+reading: 9
+
+reconciliation: 9
+
+reduction: 9
+
+representative: 9
+
+reserve: 9
+
+respond: 9
+
+results: 9
+
+rise: 9
+
+root: 9
+
+russia: 9
+
+scene: 9
+
+seeking: 9
+
+separation: 9
+
+servant: 9
+
+settle: 9
+
+sir: 9
+
+somewhere: 9
+
+soul: 9
+
+speed: 9
+
+started: 9
+
+strange: 9
+
+strive: 9
+
+structure: 9
+
+suppose: 9
+
+survival: 9
+
+teaching: 9
+
+temptation: 9
+
+thereby: 9
+
+tom: 9
+
+tv: 9
+
+urge: 9
+
+using: 9
+
+walk: 9
+
+weight: 9
+
+wherever: 9
+
+who's: 9
+
+withdraw: 9
+
+won't: 9
+
+worship: 9
+
+abortion: 8
+
+abraham: 8
+
+accomplishments: 8
+
+admit: 8
+
+african: 8
+
+amount: 8
+
+appropriate: 8
+
+approval: 8
+
+astor: 8
+
+barry: 8
+
+base: 8
+
+behalf: 8
+
+beings: 8
+
+bermuda: 8
+
+bless: 8
+
+blessings: 8
+
+bonnet: 8
+
+books: 8
+
+bush: 8
+
+capable: 8
+
+carrying: 8
+
+cases: 8
+
+cash: 8
+
+cast: 8
+
+cease: 8
+
+ceased: 8
+
+chapter: 8
+
+charter: 8
+
+christ: 8
+
+circulation: 8
+
+clean: 8
+
+collar: 8
+
+comment: 8
+
+concept: 8
+
+concerning: 8
+
+conclusions: 8
+
+corps: 8
+
+counter: 8
+
+critics: 8
+
+decency: 8
+
+deepest: 8
+
+depend: 8
+
+depression: 8
+
+desk: 8
+
+devoted: 8
+
+dictators: 8
+
+difficulties: 8
+
+discrimination: 8
+
+drive: 8
+
+eastern: 8
+
+ended: 8
+
+equally: 8
+
+escape: 8
+
+european: 8
+
+event: 8
+
+eventually: 8
+
+exchange: 8
+
+existence: 8
+
+feed: 8
+
+feeling: 8
+
+fields: 8
+
+fiscal: 8
+
+folks: 8
+
+forever: 8
+
+game: 8
+
+gift: 8
+
+globe: 8
+
+glory: 8
+
+god's: 8
+
+grave: 8
+
+greatly: 8
+
+grow: 8
+
+guard: 8
+
+heads: 8
+
+homeless: 8
+
+housing: 8
+
+ideal: 8
+
+informed: 8
+
+invited: 8
+
+japan: 8
+
+joint: 8
+
+joy: 8
+
+key: 8
+
+knowing: 8
+
+largest: 8
+
+leaving: 8
+
+lesson: 8
+
+levels: 8
+
+lift: 8
+
+ll: 8
+
+losses: 8
+
+machinery: 8
+
+mass: 8
+
+mayor: 8
+
+memory: 8
+
+misunderstanding: 8
+
+moments: 8
+
+muslim: 8
+
+narrow: 8
+
+negotiation: 8
+
+nevertheless: 8
+
+nomination: 8
+
+numbers: 8
+
+offensive: 8
+
+ordinary: 8
+
+overwhelming: 8
+
+owe: 8
+
+patriotism: 8
+
+peasants: 8
+
+people's: 8
+
+persons: 8
+
+picture: 8
+
+pious: 8
+
+pity: 8
+
+plain: 8
+
+pointed: 8
+
+president's: 8
+
+previous: 8
+
+priest: 8
+
+primary: 8
+
+privileged: 8
+
+proclaim: 8
+
+promised: 8
+
+promptly: 8
+
+proposal: 8
+
+protest: 8
+
+proved: 8
+
+quality: 8
+
+ranger: 8
+
+rapidly: 8
+
+reached: 8
+
+reactions: 8
+
+realized: 8
+
+recognized: 8
+
+refer: 8
+
+refused: 8
+
+regret: 8
+
+requirements: 8
+
+research: 8
+
+rock: 8
+
+salary: 8
+
+schedule: 8
+
+sea: 8
+
+sees: 8
+
+selma: 8
+
+sets: 8
+
+settlement: 8
+
+sharing: 8
+
+shore: 8
+
+shows: 8
+
+signed: 8
+
+silent: 8
+
+size: 8
+
+soldier: 8
+
+speeches: 8
+
+spite: 8
+
+spoken: 8
+
+spreading: 8
+
+substantial: 8
+
+suddenly: 8
+
+teacher: 8
+
+teachers: 8
+
+threw: 8
+
+thrust: 8
+
+ticket: 8
+
+tolerance: 8
+
+traditional: 8
+
+training: 8
+
+tremendous: 8
+
+truman: 8
+
+turning: 8
+
+un: 8
+
+waiting: 8
+
+watch: 8
+
+witness: 8
+
+world's: 8
+
+worthy: 8
+
+abandoned: 7
+
+achieved: 7
+
+acres: 7
+
+acts: 7
+
+advice: 7
+
+agony: 7
+
+agriculture: 7
+
+alternative: 7
+
+appointed: 7
+
+assets: 7
+
+assistant: 7
+
+attacking: 7
+
+audit: 7
+
+august: 7
+
+authorities: 7
+
+award: 7
+
+barbara: 7
+
+barriers: 7
+
+battlefield: 7
+
+becoming: 7
+
+believes: 7
+
+billions: 7
+
+bitterness: 7
+
+blessing: 7
+
+block: 7
+
+blue: 7
+
+bonds: 7
+
+button: 7
+
+calls: 7
+
+camel: 7
+
+catholics: 7
+
+censorship: 7
+
+cent: 7
+
+centuries: 7
+
+challenger: 7
+
+clarence: 7
+
+climb: 7
+
+closed: 7
+
+coast: 7
+
+cohn: 7
+
+commentator: 7
+
+commission: 7
+
+compared: 7
+
+conclude: 7
+
+conservation: 7
+
+consideration: 7
+
+contribution: 7
+
+conversation: 7
+
+core: 7
+
+corner: 7
+
+countrymen: 7
+
+cousin: 7
+
+cultural: 7
+
+deadly: 7
+
+declare: 7
+
+degree: 7
+
+describe: 7
+
+deserve: 7
+
+despair: 7
+
+determine: 7
+
+developing: 7
+
+diem: 7
+
+difficulty: 7
+
+discussions: 7
+
+distinguished: 7
+
+divine: 7
+
+divisions: 7
+
+doctrine: 7
+
+domestic: 7
+
+domination: 7
+
+doors: 7
+
+duties: 7
+
+elevate: 7
+
+emergency: 7
+
+empire: 7
+
+enable: 7
+
+endanger: 7
+
+ends: 7
+
+england: 7
+
+entered: 7
+
+entitled: 7
+
+equipment: 7
+
+equivalent: 7
+
+era: 7
+
+expenses: 7
+
+extended: 7
+
+fallen: 7
+
+fate: 7
+
+feelings: 7
+
+fill: 7
+
+fine: 7
+
+fisher: 7
+
+fixed: 7
+
+floor: 7
+
+focus: 7
+
+formed: 7
+
+founded: 7
+
+fourth: 7
+
+franklin: 7
+
+furnished: 7
+
+generous: 7
+
+gorbachev: 7
+
+gotten: 7
+
+grant: 7
+
+granted: 7
+
+gratitude: 7
+
+guess: 7
+
+hall: 7
+
+harvard: 7
+
+holding: 7
+
+honestly: 7
+
+horrors: 7
+
+i'd: 7
+
+identified: 7
+
+image: 7
+
+increases: 7
+
+instinct: 7
+
+intention: 7
+
+interested: 7
+
+internal: 7
+
+interpretation: 7
+
+invent: 7
+
+investment: 7
+
+israel: 7
+
+issued: 7
+
+jacob: 7
+
+justify: 7
+
+keeping: 7
+
+kinds: 7
+
+knives: 7
+
+lacking: 7
+
+letters: 7
+
+liberal: 7
+
+lily: 7
+
+limitation: 7
+
+maintaining: 7
+
+map: 7
+
+mary: 7
+
+meant: 7
+
+measures: 7
+
+methods: 7
+
+michigan: 7
+
+missiles: 7
+
+morally: 7
+
+mortgage: 7
+
+mothers: 7
+
+mountain: 7
+
+mountains: 7
+
+movement: 7
+
+moving: 7
+
+named: 7
+
+navy: 7
+
+necessity: 7
+
+nine: 7
+
+notice: 7
+
+nowhere: 7
+
+oath: 7
+
+owned: 7
+
+plane: 7
+
+plenty: 7
+
+potential: 7
+
+preach: 7
+
+preservation: 7
+
+presidents: 7
+
+primarily: 7
+
+professor: 7
+
+proper: 7
+
+propose: 7
+
+protected: 7
+
+publicly: 7
+
+pulled: 7
+
+puts: 7
+
+reaching: 7
+
+receive: 7
+
+recognition: 7
+
+recommend: 7
+
+referred: 7
+
+reflect: 7
+
+region: 7
+
+register: 7
+
+remarks: 7
+
+repeat: 7
+
+resist: 7
+
+resolve: 7
+
+restraint: 7
+
+retaliation: 7
+
+reward: 7
+
+rice: 7
+
+richer: 7
+
+rifle: 7
+
+rising: 7
+
+river: 7
+
+roosevelt: 7
+
+sad: 7
+
+sake: 7
+
+seeing: 7
+
+seize: 7
+
+shame: 7
+
+shut: 7
+
+sight: 7
+
+sincerity: 7
+
+slaves: 7
+
+solutions: 7
+
+sorry: 7
+
+spending: 7
+
+stability: 7
+
+stake: 7
+
+stores: 7
+
+struggling: 7
+
+studied: 7
+
+successful: 7
+
+sundown: 7
+
+survive: 7
+
+target: 7
+
+taxpayers: 7
+
+threatens: 7
+
+throw: 7
+
+toms: 7
+
+treaty: 7
+
+truths: 7
+
+undertaken: 7
+
+unites: 7
+
+unknown: 7
+
+votes: 7
+
+warned: 7
+
+warning: 7
+
+wellesley: 7
+
+you'll: 7
+
+!: 6
+
+absolutely: 6
+
+acceptance: 6
+
+accordance: 6
+
+activity: 6
+
+adoption: 6
+
+alabama: 6
+
+alike: 6
+
+allowed: 6
+
+analysis: 6
+
+angry: 6
+
+anniversary: 6
+
+appear: 6
+
+apply: 6
+
+approach: 6
+
+argue: 6
+
+articles: 6
+
+aside: 6
+
+attitude: 6
+
+bandung: 6
+
+bankrupt: 6
+
+bare: 6
+
+behavior: 6
+
+beloved: 6
+
+birth: 6
+
+bleed: 6
+
+bloodshed: 6
+
+board: 6
+
+breaking: 6
+
+bridge: 6
+
+broken: 6
+
+cambodian: 6
+
+campus: 6
+
+canada: 6
+
+capability: 6
+
+car: 6
+
+caring: 6
+
+cattle: 6
+
+center: 6
+
+chair: 6
+
+chamber: 6
+
+choices: 6
+
+choosing: 6
+
+chose: 6
+
+claim: 6
+
+claimed: 6
+
+clerk: 6
+
+closer: 6
+
+coercion: 6
+
+cold: 6
+
+collapse: 6
+
+commander: 6
+
+commentary: 6
+
+communications: 6
+
+communities: 6
+
+concerns: 6
+
+conducted: 6
+
+conferences: 6
+
+conquer: 6
+
+conquest: 6
+
+conscious: 6
+
+conspiracy: 6
+
+continues: 6
+
+convictions: 6
+
+corruption: 6
+
+coverage: 6
+
+criminal: 6
+
+current: 6
+
+damage: 6
+
+dangerous: 6
+
+dealing: 6
+
+dear: 6
+
+decline: 6
+
+defenses: 6
+
+define: 6
+
+delegation: 6
+
+deliver: 6
+
+demonstrate: 6
+
+deprive: 6
+
+devotion: 6
+
+didn: 6
+
+differ: 6
+
+discussion: 6
+
+distant: 6
+
+distinction: 6
+
+district: 6
+
+divide: 6
+
+double: 6
+
+draft: 6
+
+drawing: 6
+
+drugs: 6
+
+earn: 6
+
+easier: 6
+
+eat: 6
+
+elderly: 6
+
+element: 6
+
+elementary: 6
+
+emotional: 6
+
+employees: 6
+
+enforce: 6
+
+engage: 6
+
+establish: 6
+
+evidence: 6
+
+excluded: 6
+
+experts: 6
+
+fault: 6
+
+finds: 6
+
+firmly: 6
+
+fly: 6
+
+forms: 6
+
+frontier: 6
+
+fulfill: 6
+
+garden: 6
+
+gates: 6
+
+goldwater: 6
+
+gonna: 6
+
+governing: 6
+
+governor: 6
+
+grows: 6
+
+gulf: 6
+
+halt: 6
+
+handful: 6
+
+handicapped: 6
+
+hardly: 6
+
+healthy: 6
+
+helping: 6
+
+heritage: 6
+
+hills: 6
+
+hiss: 6
+
+hit: 6
+
+honored: 6
+
+ideals: 6
+
+illegal: 6
+
+impelled: 6
+
+incident: 6
+
+increasing: 6
+
+industrial: 6
+
+infiltration: 6
+
+inflicted: 6
+
+inherited: 6
+
+inside: 6
+
+inspiration: 6
+
+instant: 6
+
+intent: 6
+
+jewish: 6
+
+keeps: 6
+
+keynote: 6
+
+kill: 6
+
+knees: 6
+
+laugh: 6
+
+letter: 6
+
+liberties: 6
+
+lifetime: 6
+
+lomax: 6
+
+lovely: 6
+
+low: 6
+
+loyal: 6
+
+main: 6
+
+maintenance: 6
+
+mark: 6
+
+masses: 6
+
+mention: 6
+
+mentioned: 6
+
+midst: 6
+
+mining: 6
+
+ministers: 6
+
+minute: 6
+
+n: 6
+
+names: 6
+
+negotiating: 6
+
+neutrality: 6
+
+ninety: 6
+
+noble: 6
+
+obtain: 6
+
+odds: 6
+
+opened: 6
+
+opinions: 6
+
+opposition: 6
+
+ordered: 6
+
+orderly: 6
+
+otherwise: 6
+
+partnership: 6
+
+peacefully: 6
+
+peacetime: 6
+
+perfect: 6
+
+perfectly: 6
+
+pleased: 6
+
+politician: 6
+
+possessed: 6
+
+possibility: 6
+
+praying: 6
+
+preaching: 6
+
+precisely: 6
+
+printed: 6
+
+prison: 6
+
+privileges: 6
+
+products: 6
+
+profession: 6
+
+profits: 6
+
+proposed: 6
+
+punishment: 6
+
+queens: 6
+
+quite: 6
+
+r: 6
+
+races: 6
+
+radical: 6
+
+raising: 6
+
+reaches: 6
+
+rebuilt: 6
+
+recite: 6
+
+reconstruction: 6
+
+reduced: 6
+
+reductions: 6
+
+reference: 6
+
+reform: 6
+
+refugees: 6
+
+refuses: 6
+
+rejected: 6
+
+renewed: 6
+
+reserved: 6
+
+revolutions: 6
+
+richest: 6
+
+royal: 6
+
+sacrifices: 6
+
+safe: 6
+
+saigon: 6
+
+satisfaction: 6
+
+saved: 6
+
+savings: 6
+
+scientific: 6
+
+scientists: 6
+
+seem: 6
+
+selection: 6
+
+shadow: 6
+
+she's: 6
+
+shield: 6
+
+shoulders: 6
+
+shouldn't: 6
+
+showed: 6
+
+showing: 6
+
+shuttle: 6
+
+sick: 6
+
+significance: 6
+
+silver: 6
+
+slave: 6
+
+slavery: 6
+
+soil: 6
+
+spread: 6
+
+staff: 6
+
+stay: 6
+
+strife: 6
+
+strike: 6
+
+stronger: 6
+
+strongest: 6
+
+strongly: 6
+
+summer: 6
+
+supported: 6
+
+sweat: 6
+
+sword: 6
+
+sympathize: 6
+
+tasks: 6
+
+temporary: 6
+
+territory: 6
+
+theirs: 6
+
+they'll: 6
+
+thirty: 6
+
+ties: 6
+
+tight: 6
+
+timetable: 6
+
+towards: 6
+
+tradition: 6
+
+trip: 6
+
+ugly: 6
+
+unable: 6
+
+utmost: 6
+
+victim: 6
+
+vietcong: 6
+
+virginia: 6
+
+virtue: 6
+
+wasted: 6
+
+weakness: 6
+
+wheat: 6
+
+window: 6
+
+winning: 6
+
+worst: 6
+
+wounds: 6
+
+writes: 6
+
+&: 5
+
+:: 5
+
+accord: 5
+
+active: 5
+
+add: 5
+
+addressing: 5
+
+adequate: 5
+
+adjust: 5
+
+africans: 5
+
+afterward: 5
+
+ally: 5
+
+americans:: 5
+
+amounts: 5
+
+anyhow: 5
+
+apparent: 5
+
+appreciate: 5
+
+arab: 5
+
+aspirations: 5
+
+ate: 5
+
+atmosphere: 5
+
+balanced: 5
+
+basket: 5
+
+beach: 5
+
+beachhead: 5
+
+begun: 5
+
+believing: 5
+
+belonged: 5
+
+below: 5
+
+benefit: 5
+
+bills: 5
+
+birmingham: 5
+
+blame: 5
+
+boat: 5
+
+branch: 5
+
+briefly: 5
+
+brings: 5
+
+busy: 5
+
+camp: 5
+
+catholic: 5
+
+challenges: 5
+
+changed: 5
+
+chaos: 5
+
+chinese: 5
+
+churchill: 5
+
+circle: 5
+
+civic: 5
+
+clergy: 5
+
+climbed: 5
+
+colonial: 5
+
+colors: 5
+
+combined: 5
+
+commerce: 5
+
+comprehend: 5
+
+conception: 5
+
+confrontation: 5
+
+confusion: 5
+
+congressional: 5
+
+contact: 5
+
+contend: 5
+
+contribute: 5
+
+convert: 5
+
+convinced: 5
+
+conwell: 5
+
+costs: 5
+
+cracker: 5
+
+crackers: 5
+
+crime: 5
+
+cross: 5
+
+crosses: 5
+
+crucial: 5
+
+cruel: 5
+
+cuban: 5
+
+culture: 5
+
+curse: 5
+
+dangers: 5
+
+date: 5
+
+daughter: 5
+
+dawn: 5
+
+declared: 5
+
+degradation: 5
+
+delegates: 5
+
+demonstrations: 5
+
+dependence: 5
+
+described: 5
+
+desegregated: 5
+
+desperately: 5
+
+destroying: 5
+
+devices: 5
+
+dinner: 5
+
+disappear: 5
+
+disaster: 5
+
+discover: 5
+
+dissent: 5
+
+doubts: 5
+
+drink: 5
+
+dripping: 5
+
+drop: 5
+
+durable: 5
+
+e: 5
+
+echoes: 5
+
+edge: 5
+
+effectively: 5
+
+elimination: 5
+
+elite: 5
+
+elmore: 5
+
+eloquence: 5
+
+employed: 5
+
+encouraging: 5
+
+endure: 5
+
+enemy's: 5
+
+enlightened: 5
+
+enslaved: 5
+
+enter: 5
+
+error: 5
+
+established: 5
+
+evident: 5
+
+evils: 5
+
+exercise: 5
+
+existed: 5
+
+expansion: 5
+
+expenditures: 5
+
+experiment: 5
+
+experiments: 5
+
+explored: 5
+
+expressed: 5
+
+facilities: 5
+
+facing: 5
+
+farms: 5
+
+fast: 5
+
+fateful: 5
+
+feared: 5
+
+ferry: 5
+
+filibuster: 5
+
+finance: 5
+
+finest: 5
+
+finish: 5
+
+foundations: 5
+
+fronts: 5
+
+fuel: 5
+
+fun: 5
+
+gentleman: 5
+
+genuine: 5
+
+glass: 5
+
+global: 5
+
+government's: 5
+
+governmental: 5
+
+graham: 5
+
+grain: 5
+
+grand: 5
+
+grasp: 5
+
+green: 5
+
+guilty: 5
+
+hang: 5
+
+harder: 5
+
+harmony: 5
+
+hearing: 5
+
+heavily: 5
+
+holiday: 5
+
+houses: 5
+
+humble: 5
+
+humility: 5
+
+illustration: 5
+
+impact: 5
+
+impressive: 5
+
+improve: 5
+
+improving: 5
+
+include: 5
+
+increasingly: 5
+
+indifferent: 5
+
+initiated: 5
+
+initiatives: 5
+
+inner: 5
+
+invest: 5
+
+involves: 5
+
+involving: 5
+
+jail: 5
+
+jefferson: 5
+
+june: 5
+
+jurisdiction: 5
+
+justified: 5
+
+kansas: 5
+
+khrushchev: 5
+
+labors: 5
+
+lady: 5
+
+laos: 5
+
+lawyer: 5
+
+learning: 5
+
+lecture: 5
+
+legislative: 5
+
+legitimate: 5
+
+lessons: 5
+
+letting: 5
+
+limit: 5
+
+loan: 5
+
+lyndon: 5
+
+manner: 5
+
+matthew: 5
+
+mccarthy: 5
+
+meaningful: 5
+
+meanwhile: 5
+
+medical: 5
+
+memorial: 5
+
+mercy: 5
+
+mermaids: 5
+
+mess: 5
+
+method: 5
+
+millionaire: 5
+
+miracle: 5
+
+mondale: 5
+
+moreover: 5
+
+native: 5
+
+nazi: 5
+
+necessities: 5
+
+needy: 5
+
+non: 5
+
+normandy: 5
+
+november: 5
+
+objectives: 5
+
+officers: 5
+
+offices: 5
+
+one's: 5
+
+openness: 5
+
+operations: 5
+
+oppressed: 5
+
+original: 5
+
+overnight: 5
+
+pace: 5
+
+page: 5
+
+pages: 5
+
+partisanship: 5
+
+passage: 5
+
+patent: 5
+
+patience: 5
+
+paying: 5
+
+payments: 5
+
+permanent: 5
+
+piece: 5
+
+pioneers: 5
+
+placed: 5
+
+planning: 5
+
+plant: 5
+
+plea: 5
+
+pledged: 5
+
+points: 5
+
+portion: 5
+
+practical: 5
+
+prayers: 5
+
+preacher: 5
+
+preferred: 5
+
+prepare: 5
+
+prevail: 5
+
+previously: 5
+
+prices: 5
+
+printing: 5
+
+processes: 5
+
+product: 5
+
+productive: 5
+
+professional: 5
+
+properly: 5
+
+protests: 5
+
+proudly: 5
+
+provided: 5
+
+provides: 5
+
+provisions: 5
+
+pull: 5
+
+quarter: 5
+
+questioned: 5
+
+quick: 5
+
+quote:: 5
+
+rain: 5
+
+rallied: 5
+
+rally: 5
+
+ranch: 5
+
+ranks: 5
+
+rate: 5
+
+realization: 5
+
+rebuild: 5
+
+recommended: 5
+
+records: 5
+
+rehabilitation: 5
+
+related: 5
+
+remainder: 5
+
+remaining: 5
+
+renewal: 5
+
+replace: 5
+
+republicanism: 5
+
+requested: 5
+
+resolute: 5
+
+resolution: 5
+
+resume: 5
+
+rifles: 5
+
+righteousness: 5
+
+robert: 5
+
+roosevelt:: 5
+
+rooted: 5
+
+roy: 5
+
+rubber: 5
+
+sacred: 5
+
+safer: 5
+
+sands: 5
+
+satisfy: 5
+
+science: 5
+
+seeds: 5
+
+seminar: 5
+
+serves: 5
+
+services: 5
+
+session: 5
+
+sexual: 5
+
+shock: 5
+
+signs: 5
+
+silence: 5
+
+sin: 5
+
+singing: 5
+
+skin: 5
+
+smaller: 5
+
+smith: 5
+
+socialism: 5
+
+someday: 5
+
+souls: 5
+
+sources: 5
+
+spanish: 5
+
+starvation: 5
+
+statements: 5
+
+stature: 5
+
+strategic: 5
+
+strategy: 5
+
+stream: 5
+
+stress: 5
+
+submit: 5
+
+sun: 5
+
+sunday: 5
+
+swift: 5
+
+sworn: 5
+
+tale: 5
+
+tears: 5
+
+technological: 5
+
+terror: 5
+
+testimony: 5
+
+them:: 5
+
+theodore: 5
+
+thinks: 5
+
+threshold: 5
+
+tide: 5
+
+tied: 5
+
+traditions: 5
+
+transformed: 5
+
+tribute: 5
+
+triumph: 5
+
+twelve: 5
+
+twice: 5
+
+type: 5
+
+u: 5
+
+ultimately: 5
+
+undertake: 5
+
+unilateral: 5
+
+units: 5
+
+unjust: 5
+
+unparalleled: 5
+
+unprecedented: 5
+
+unto: 5
+
+unwilling: 5
+
+urgency: 5
+
+urgent: 5
+
+uses: 5
+
+valley: 5
+
+violate: 5
+
+violation: 5
+
+virtual: 5
+
+visible: 5
+
+vivid: 5
+
+wake: 5
+
+walked: 5
+
+walter: 5
+
+waste: 5
+
+watching: 5
+
+wear: 5
+
+weary: 5
+
+wider: 5
+
+wilkins: 5
+
+wilson: 5
+
+winston: 5
+
+wiped: 5
+
+woodrow: 5
+
+works: 5
+
+writing: 5
+
+abundance: 4
+
+abundant: 4
+
+accomplishment: 4
+
+accused: 4
+
+acted: 4
+
+activities: 4
+
+adams: 4
+
+added: 4
+
+adjusted: 4
+
+advanced: 4
+
+advised: 4
+
+afternoon: 4
+
+agonizing: 4
+
+agreements: 4
+
+alive: 4
+
+altogether: 4
+
+americas: 4
+
+angeles: 4
+
+anger: 4
+
+angle: 4
+
+anguish: 4
+
+animals: 4
+
+annihilation: 4
+
+answered: 4
+
+appeal: 4
+
+appealing: 4
+
+appearance: 4
+
+appeared: 4
+
+appeasement: 4
+
+applied: 4
+
+approximately: 4
+
+arena: 4
+
+argument: 4
+
+arises: 4
+
+arithmetic: 4
+
+arm: 4
+
+assembly:: 4
+
+atheists: 4
+
+attempts: 4
+
+audacity: 4
+
+austria: 4
+
+awakened: 4
+
+awfully: 4
+
+background: 4
+
+bagpipes: 4
+
+baines: 4
+
+ban: 4
+
+beacon: 4
+
+bed: 4
+
+beg: 4
+
+begins: 4
+
+benefits: 4
+
+berliners: 4
+
+biases: 4
+
+bigger: 4
+
+bigotry: 4
+
+billy: 4
+
+bled: 4
+
+blessed: 4
+
+blind: 4
+
+bones: 4
+
+border: 4
+
+borders: 4
+
+boston: 4
+
+breath: 4
+
+broadcast: 4
+
+broadcasts: 4
+
+brown: 4
+
+brutality: 4
+
+buddhist: 4
+
+buildup: 4
+
+bullets: 4
+
+burdens: 4
+
+cameras: 4
+
+cannon: 4
+
+cap: 4
+
+capabilities: 4
+
+careful: 4
+
+caught: 4
+
+chains: 4
+
+charity: 4
+
+checks: 4
+
+cheek: 4
+
+cherish: 4
+
+cherished: 4
+
+christians: 4
+
+citizenship: 4
+
+classrooms: 4
+
+clear:: 4
+
+climate: 4
+
+clinics: 4
+
+closing: 4
+
+clothes: 4
+
+clowns: 4
+
+co: 4
+
+code: 4
+
+colleagues: 4
+
+colonel: 4
+
+colonized: 4
+
+comfort: 4
+
+comments: 4
+
+commercial: 4
+
+companies: 4
+
+comparable: 4
+
+completed: 4
+
+con: 4
+
+condemn: 4
+
+confess: 4
+
+confronted: 4
+
+congressman: 4
+
+connection: 4
+
+conscientious: 4
+
+consent: 4
+
+considering: 4
+
+considers: 4
+
+constructive: 4
+
+contain: 4
+
+contained: 4
+
+continents: 4
+
+contrary: 4
+
+contrast: 4
+
+contributing: 4
+
+controls: 4
+
+controversial: 4
+
+conventional: 4
+
+copper: 4
+
+corners: 4
+
+corporation: 4
+
+cotton: 4
+
+count: 4
+
+country's: 4
+
+countryside: 4
+
+credibility: 4
+
+crew: 4
+
+cried: 4
+
+cries: 4
+
+criticism: 4
+
+cruelty: 4
+
+daring: 4
+
+de: 4
+
+december: 4
+
+declined: 4
+
+deed: 4
+
+defeated: 4
+
+defending: 4
+
+deliberately: 4
+
+deliberations: 4
+
+delivered: 4
+
+democracies: 4
+
+deposit: 4
+
+desires: 4
+
+details: 4
+
+deter: 4
+
+detroit: 4
+
+devastating: 4
+
+dictator: 4
+
+dime: 4
+
+dimly: 4
+
+disabled: 4
+
+disarmament: 4
+
+discovery: 4
+
+dishonestly: 4
+
+dismissed: 4
+
+distance: 4
+
+distorted: 4
+
+dividing: 4
+
+dixiecrat: 4
+
+doomed: 4
+
+drafting: 4
+
+dressed: 4
+
+driven: 4
+
+driving: 4
+
+drug: 4
+
+du: 4
+
+due: 4
+
+ease: 4
+
+easily: 4
+
+economically: 4
+
+editorial: 4
+
+ein: 4
+
+elements: 4
+
+elsewhere: 4
+
+emancipation: 4
+
+emerges: 4
+
+emotion: 4
+
+encourage: 4
+
+endeavor: 4
+
+energies: 4
+
+enjoyment: 4
+
+enormous: 4
+
+enterprise: 4
+
+enterprises: 4
+
+entirely: 4
+
+environment: 4
+
+establishment: 4
+
+estimate: 4
+
+ethics: 4
+
+ethnic: 4
+
+ex: 4
+
+excitement: 4
+
+expectation: 4
+
+experiences: 4
+
+explanation: 4
+
+exploded: 4
+
+exploitation: 4
+
+explosive: 4
+
+extra: 4
+
+extreme: 4
+
+fabric: 4
+
+factories: 4
+
+fails: 4
+
+fairly: 4
+
+faithful: 4
+
+farewell: 4
+
+favor: 4
+
+favors: 4
+
+february: 4
+
+filibustering: 4
+
+fix: 4
+
+flourish: 4
+
+foe: 4
+
+fog: 4
+
+footing: 4
+
+formal: 4
+
+forsake: 4
+
+fortitude: 4
+
+forum: 4
+
+fraternity: 4
+
+freed: 4
+
+freedom's: 4
+
+friday: 4
+
+friendship: 4
+
+fruitful: 4
+
+gap: 4
+
+gentlemen:: 4
+
+germans: 4
+
+gi: 4
+
+gives: 4
+
+govern: 4
+
+governors: 4
+
+grace: 4
+
+grass: 4
+
+grew: 4
+
+grocery: 4
+
+grounds: 4
+
+guidance: 4
+
+handed: 4
+
+handle: 4
+
+headed: 4
+
+hearted: 4
+
+heat: 4
+
+heroism: 4
+
+hers: 4
+
+hesitate: 4
+
+hitler: 4
+
+hoc: 4
+
+honesty: 4
+
+hopeful: 4
+
+hostilities: 4
+
+hostility: 4
+
+humanitarian: 4
+
+humor: 4
+
+hurt: 4
+
+ich: 4
+
+idle: 4
+
+ill: 4
+
+implementation: 4
+
+implications: 4
+
+incapable: 4
+
+indicated: 4
+
+inevitable: 4
+
+inflict: 4
+
+inhabitants: 4
+
+initial: 4
+
+initiate: 4
+
+injury: 4
+
+insist: 4
+
+inspire: 4
+
+insure: 4
+
+integrate: 4
+
+intellectual: 4
+
+intervene: 4
+
+introduce: 4
+
+inventor: 4
+
+isn: 4
+
+jackson: 4
+
+jesse: 4
+
+johnson:: 4
+
+jordan: 4
+
+jr: 4
+
+jury: 4
+
+kennedy's: 4
+
+kennedy:: 4
+
+kenya: 4
+
+lakes: 4
+
+landing: 4
+
+latest: 4
+
+latter: 4
+
+legacy: 4
+
+liberated: 4
+
+likely: 4
+
+limitations: 4
+
+list: 4
+
+listened: 4
+
+literally: 4
+
+loans: 4
+
+lock: 4
+
+lodge: 4
+
+lonely: 4
+
+longest: 4
+
+los: 4
+
+losing: 4
+
+lovat: 4
+
+loving: 4
+
+loyalties: 4
+
+maintained: 4
+
+mandate: 4
+
+manufacturing: 4
+
+marine: 4
+
+marks: 4
+
+married: 4
+
+match: 4
+
+mau: 4
+
+measured: 4
+
+medicine: 4
+
+mexico: 4
+
+mightiest: 4
+
+millennium: 4
+
+millin: 4
+
+millinery: 4
+
+millionaires: 4
+
+mindful: 4
+
+miraculous: 4
+
+missed: 4
+
+mistake: 4
+
+modest: 4
+
+monetary: 4
+
+monument: 4
+
+moon: 4
+
+motives: 4
+
+moves: 4
+
+murdered: 4
+
+mutually: 4
+
+naacp: 4
+
+nato: 4
+
+naval: 4
+
+needn't: 4
+
+nights: 4
+
+nineteen: 4
+
+nixon:: 4
+
+noblest: 4
+
+noted: 4
+
+obey: 4
+
+objectivity: 4
+
+obscurity: 4
+
+obstacles: 4
+
+occurred: 4
+
+oklahoma: 4
+
+older: 4
+
+ongoing: 4
+
+openly: 4
+
+operation: 4
+
+oral: 4
+
+owner: 4
+
+paper: 4
+
+papers: 4
+
+parallel: 4
+
+pardon: 4
+
+participate: 4
+
+participation: 4
+
+partisan: 4
+
+pastor: 4
+
+pause: 4
+
+payment: 4
+
+pentagon: 4
+
+personally: 4
+
+peter: 4
+
+phonograph: 4
+
+pitiful: 4
+
+planes: 4
+
+planet: 4
+
+plantation: 4
+
+played: 4
+
+plead: 4
+
+please: 4
+
+plight: 4
+
+plus: 4
+
+pocket: 4
+
+pointe: 4
+
+politicians: 4
+
+pope: 4
+
+populations: 4
+
+possibilities: 4
+
+post: 4
+
+practically: 4
+
+practicing: 4
+
+prayed: 4
+
+pre: 4
+
+precipitate: 4
+
+presented: 4
+
+presenting: 4
+
+preserving: 4
+
+privately: 4
+
+producers: 4
+
+productivity: 4
+
+projects: 4
+
+prominence: 4
+
+promote: 4
+
+protection: 4
+
+protestors: 4
+
+prudence: 4
+
+purchase: 4
+
+purchased: 4
+
+pursue: 4
+
+quantity: 4
+
+quiet: 4
+
+quo: 4
+
+racism: 4
+
+range: 4
+
+rarely: 4
+
+react: 4
+
+reaction: 4
+
+readily: 4
+
+reasonableness: 4
+
+reasonably: 4
+
+rebirth: 4
+
+recession: 4
+
+recital: 4
+
+reckless: 4
+
+rededicate: 4
+
+reducing: 4
+
+reflected: 4
+
+refusing: 4
+
+regain: 4
+
+regarded: 4
+
+regimes: 4
+
+regular: 4
+
+reject: 4
+
+relation: 4
+
+relevant: 4
+
+remains: 4
+
+remembers: 4
+
+repaid: 4
+
+replaced: 4
+
+reports: 4
+
+requires: 4
+
+rescue: 4
+
+resign: 4
+
+restatement: 4
+
+rested: 4
+
+restrictions: 4
+
+ride: 4
+
+ridgway: 4
+
+righteous: 4
+
+rivers: 4
+
+roots: 4
+
+rope: 4
+
+ruin: 4
+
+rushed: 4
+
+russian: 4
+
+sadness: 4
+
+salvation: 4
+
+san: 4
+
+saving: 4
+
+scar: 4
+
+scarcely: 4
+
+scholars: 4
+
+scope: 4
+
+secrets: 4
+
+sectors: 4
+
+seeks: 4
+
+sending: 4
+
+senior: 4
+
+september: 4
+
+setting: 4
+
+settled: 4
+
+sewing: 4
+
+shake: 4
+
+shallow: 4
+
+shaped: 4
+
+sharp: 4
+
+shells: 4
+
+shelter: 4
+
+ship: 4
+
+shop: 4
+
+shortages: 4
+
+shouted: 4
+
+similar: 4
+
+sing: 4
+
+sits: 4
+
+situations: 4
+
+smears: 4
+
+smoke: 4
+
+soft: 4
+
+solemn: 4
+
+solid: 4
+
+solved: 4
+
+sovereignty: 4
+
+spectacles: 4
+
+split: 4
+
+sponsor: 4
+
+stable: 4
+
+stamina: 4
+
+stare: 4
+
+station: 4
+
+stations: 4
+
+steadily: 4
+
+steel: 4
+
+stephen: 4
+
+stir: 4
+
+stockpiles: 4
+
+stories: 4
+
+strengthened: 4
+
+strikes: 4
+
+studies: 4
+
+substance: 4
+
+substitute: 4
+
+summoned: 4
+
+sums: 4
+
+surprised: 4
+
+survived: 4
+
+suspicion: 4
+
+suspicions: 4
+
+sustain: 4
+
+sustained: 4
+
+sweet: 4
+
+sympathy: 4
+
+tape: 4
+
+teaches: 4
+
+technology: 4
+
+territories: 4
+
+tests: 4
+
+theory: 4
+
+thieu: 4
+
+thoughtful: 4
+
+threaten: 4
+
+threatening: 4
+
+threats: 4
+
+throwing: 4
+
+tides: 4
+
+today's: 4
+
+toll: 4
+
+tone: 4
+
+trace: 4
+
+traffic: 4
+
+tragically: 4
+
+train: 4
+
+trained: 4
+
+travel: 4
+
+treachery: 4
+
+treasury: 4
+
+trembling: 4
+
+trial: 4
+
+triumphs: 4
+
+troubles: 4
+
+turmoil: 4
+
+unborn: 4
+
+undertaking: 4
+
+uniform: 4
+
+universe: 4
+
+unlike: 4
+
+unrepresentative: 4
+
+uphold: 4
+
+urban: 4
+
+usual: 4
+
+usually: 4
+
+utter: 4
+
+valor: 4
+
+visited: 4
+
+wagon: 4
+
+walking: 4
+
+wanna: 4
+
+whereby: 4
+
+wield: 4
+
+windswept: 4
+
+wings: 4
+
+wire: 4
+
+witnessed: 4
+
+wives: 4
+
+wonders: 4
+
+worry: 4
+
+wouldn: 4
+
+ya: 4
+
+yourselves: 4
+
+abandon: 3
+
+abiding: 3
+
+academy: 3
+
+accent: 3
+
+access: 3
+
+accommodation: 3
+
+accomplish: 3
+
+accomplished: 3
+
+accordingly: 3
+
+account: 3
+
+achievements: 3
+
+achieving: 3
+
+acquired: 3
+
+acting: 3
+
+actively: 3
+
+adapt: 3
+
+admiration: 3
+
+admitted: 3
+
+adventure: 3
+
+adversaries: 3
+
+advise: 3
+
+affected: 3
+
+agenda: 3
+
+aggressive: 3
+
+alger: 3
+
+alley: 3
+
+allowance: 3
+
+allows: 3
+
+almighty: 3
+
+ambition: 3
+
+amendments: 3
+
+anew: 3
+
+announce: 3
+
+annual: 3
+
+anyway: 3
+
+application: 3
+
+approaches: 3
+
+approaching: 3
+
+approve: 3
+
+arguments: 3
+
+arizona: 3
+
+aroused: 3
+
+arrogance: 3
+
+arsenal: 3
+
+art: 3
+
+arts: 3
+
+asian: 3
+
+aspiration: 3
+
+assailed: 3
+
+assault: 3
+
+associate: 3
+
+association: 3
+
+astronauts: 3
+
+atom: 3
+
+attain: 3
+
+attempted: 3
+
+attempting: 3
+
+attorney: 3
+
+auction: 3
+
+auschwitz: 3
+
+averell: 3
+
+avoided: 3
+
+awakening: 3
+
+awesome: 3
+
+baldwin: 3
+
+ball: 3
+
+ballots: 3
+
+band: 3
+
+bankers: 3
+
+bargaining: 3
+
+baseball: 3
+
+bases: 3
+
+battlefields: 3
+
+bay: 3
+
+beak: 3
+
+beaten: 3
+
+bedrock: 3
+
+bell: 3
+
+bench: 3
+
+beset: 3
+
+beside: 3
+
+betrayal: 3
+
+betterment: 3
+
+beware: 3
+
+bias: 3
+
+bin: 3
+
+bind: 3
+
+bloc: 3
+
+blocks: 3
+
+bold: 3
+
+bombed: 3
+
+bonnets: 3
+
+bore: 3
+
+bow: 3
+
+boycotts: 3
+
+brandenburg: 3
+
+breach: 3
+
+bread: 3
+
+breakdown: 3
+
+bright: 3
+
+broader: 3
+
+brook: 3
+
+brutal: 3
+
+bulwark: 3
+
+bureau: 3
+
+buried: 3
+
+burn: 3
+
+burned: 3
+
+burning: 3
+
+bushel: 3
+
+businessman: 3
+
+cahoots: 3
+
+calm: 3
+
+capitol: 3
+
+cargo: 3
+
+carlyle: 3
+
+carolina: 3
+
+caused: 3
+
+causes: 3
+
+centralized: 3
+
+ceremony: 3
+
+challenging: 3
+
+chancellor: 3
+
+chances: 3
+
+chappaquiddick: 3
+
+characterized: 3
+
+charges: 3
+
+children's: 3
+
+christmas: 3
+
+circus: 3
+
+citizens:: 3
+
+city's: 3
+
+civilian: 3
+
+cleage: 3
+
+cleveland: 3
+
+clinton: 3
+
+closet: 3
+
+clothing: 3
+
+club: 3
+
+coat: 3
+
+cocktails: 3
+
+coffee: 3
+
+coffin: 3
+
+coke: 3
+
+collection: 3
+
+colonizing: 3
+
+commandment: 3
+
+commandments: 3
+
+commit: 3
+
+committees: 3
+
+communicate: 3
+
+communication: 3
+
+comparative: 3
+
+comparatively: 3
+
+compelled: 3
+
+compete: 3
+
+compliment: 3
+
+comprehension: 3
+
+comprehensive: 3
+
+compromising: 3
+
+computers: 3
+
+concepts: 3
+
+concrete: 3
+
+condemnation: 3
+
+condemned: 3
+
+conflicts: 3
+
+confused: 3
+
+congo: 3
+
+connections: 3
+
+consecrated: 3
+
+consequent: 3
+
+considerations: 3
+
+contract: 3
+
+controlling: 3
+
+convenient: 3
+
+cope: 3
+
+corporations: 3
+
+corrupt: 3
+
+couple: 3
+
+courtesy: 3
+
+courts: 3
+
+covered: 3
+
+covers: 3
+
+creed: 3
+
+crimes: 3
+
+crippled: 3
+
+crises: 3
+
+criticized: 3
+
+crooks: 3
+
+crutcher: 3
+
+crying: 3
+
+cure: 3
+
+curious: 3
+
+daily: 3
+
+dana: 3
+
+daughters: 3
+
+dc: 3
+
+deals: 3
+
+defended: 3
+
+defined: 3
+
+definite: 3
+
+delano: 3
+
+demonstrators: 3
+
+denial: 3
+
+denomination: 3
+
+denounce: 3
+
+denounced: 3
+
+dense: 3
+
+deposits: 3
+
+depressed: 3
+
+description: 3
+
+deserves: 3
+
+deserving: 3
+
+desolate: 3
+
+desolation: 3
+
+desperate: 3
+
+desperation: 3
+
+devastation: 3
+
+developed: 3
+
+developments: 3
+
+devise: 3
+
+devote: 3
+
+dick: 3
+
+dictate: 3
+
+dictated: 3
+
+diminish: 3
+
+disagreement: 3
+
+disappeared: 3
+
+disastrous: 3
+
+discipline: 3
+
+discontent: 3
+
+dishonest: 3
+
+dishonorable: 3
+
+distrust: 3
+
+diverse: 3
+
+divisive: 3
+
+divorce: 3
+
+dollar's: 3
+
+dominated: 3
+
+doom: 3
+
+dozen: 3
+
+drama: 3
+
+dreadful: 3
+
+dreamed: 3
+
+drift: 3
+
+drives: 3
+
+drowning: 3
+
+dunn: 3
+
+eagles: 3
+
+earning: 3
+
+eaters: 3
+
+economical: 3
+
+economics: 3
+
+educated: 3
+
+effects: 3
+
+eighty: 3
+
+eisenhower:: 3
+
+eliminating: 3
+
+eloquently: 3
+
+embarked: 3
+
+emerging: 3
+
+enclosed: 3
+
+encouraged: 3
+
+endless: 3
+
+endorse: 3
+
+enduring: 3
+
+engineers: 3
+
+engines: 3
+
+english: 3
+
+enjoying: 3
+
+enlarge: 3
+
+enlighten: 3
+
+enlisted: 3
+
+enrollment: 3
+
+entrusted: 3
+
+envelopes: 3
+
+establishing: 3
+
+estate: 3
+
+estimated: 3
+
+etched: 3
+
+eternal: 3
+
+europe's: 3
+
+evangelical: 3
+
+eventual: 3
+
+exalted: 3
+
+examples: 3
+
+exceeds: 3
+
+excellence: 3
+
+exception: 3
+
+excessive: 3
+
+exciting: 3
+
+excuse: 3
+
+existing: 3
+
+expanded: 3
+
+expanding: 3
+
+expel: 3
+
+expenditure: 3
+
+experienced: 3
+
+expert: 3
+
+explained: 3
+
+exploiting: 3
+
+exploration: 3
+
+explore: 3
+
+explosion: 3
+
+expose: 3
+
+expressions: 3
+
+extension: 3
+
+extensive: 3
+
+eyed: 3
+
+factor: 3
+
+factors: 3
+
+falling: 3
+
+falls: 3
+
+familiar: 3
+
+famine: 3
+
+farming: 3
+
+farther: 3
+
+fashion: 3
+
+fashioned: 3
+
+fears: 3
+
+feather: 3
+
+fence: 3
+
+fewer: 3
+
+fiber: 3
+
+figure: 3
+
+filling: 3
+
+finding: 3
+
+finger: 3
+
+fingers: 3
+
+fires: 3
+
+flag: 3
+
+flags: 3
+
+flashing: 3
+
+fleet: 3
+
+flexibility: 3
+
+flying: 3
+
+foot: 3
+
+ford: 3
+
+foresee: 3
+
+forgot: 3
+
+fortunate: 3
+
+fortunately: 3
+
+foster: 3
+
+founders: 3
+
+francisco: 3
+
+frank: 3
+
+friends:: 3
+
+frightened: 3
+
+fritz: 3
+
+frontiers: 3
+
+fulfillment: 3
+
+functions: 3
+
+fundamentally: 3
+
+futile: 3
+
+futures: 3
+
+gasoline: 3
+
+gathering: 3
+
+gentle: 3
+
+ghettos: 3
+
+giants: 3
+
+gibson: 3
+
+gin: 3
+
+gladly: 3
+
+godly: 3
+
+goodness: 3
+
+gradually: 3
+
+graduated: 3
+
+grandest: 3
+
+gravity: 3
+
+grenades: 3
+
+grief: 3
+
+guam: 3
+
+guaranteed: 3
+
+guiding: 3
+
+hair: 3
+
+hallowed: 3
+
+happening: 3
+
+harbor: 3
+
+hardships: 3
+
+harm: 3
+
+hasn't: 3
+
+hasten: 3
+
+hat: 3
+
+hated: 3
+
+haven: 3
+
+headquarters: 3
+
+heal: 3
+
+healing: 3
+
+heaven: 3
+
+helicopters: 3
+
+helpless: 3
+
+highly: 3
+
+hint: 3
+
+hobson: 3
+
+holds: 3
+
+holy: 3
+
+homestead: 3
+
+honoring: 3
+
+hoped: 3
+
+hopefully: 3
+
+hopeless: 3
+
+hot: 3
+
+humane: 3
+
+humphrey: 3
+
+hydrogen: 3
+
+hypocrisy: 3
+
+identity: 3
+
+ignorance: 3
+
+illinois: 3
+
+illusions: 3
+
+illustrate: 3
+
+imagine: 3
+
+immense: 3
+
+immortal: 3
+
+imperative: 3
+
+imperfections: 3
+
+imply: 3
+
+import: 3
+
+inaugural: 3
+
+incentive: 3
+
+incentives: 3
+
+inches: 3
+
+incidents: 3
+
+included: 3
+
+inconsistent: 3
+
+indefinitely: 3
+
+indispensable: 3
+
+inexhaustible: 3
+
+infants: 3
+
+influences: 3
+
+inform: 3
+
+infringe: 3
+
+ingenuity: 3
+
+innovation: 3
+
+inspection: 3
+
+inspired: 3
+
+instantly: 3
+
+instrument: 3
+
+instruments: 3
+
+intends: 3
+
+intentions: 3
+
+interference: 3
+
+inventiveness: 3
+
+invested: 3
+
+investigation: 3
+
+investments: 3
+
+invincible: 3
+
+invite: 3
+
+invoke: 3
+
+involvement: 3
+
+iron: 3
+
+irrational: 3
+
+islands: 3
+
+it:: 3
+
+items: 3
+
+jacquard: 3
+
+jaw: 3
+
+jealous: 3
+
+jo: 3
+
+journey: 3
+
+judged: 3
+
+judges: 3
+
+judgments: 3
+
+jumped: 3
+
+jungle: 3
+
+kicked: 3
+
+kindness: 3
+
+knife: 3
+
+kopechne: 3
+
+kosovo: 3
+
+last!: 3
+
+laughed: 3
+
+launch: 3
+
+lawyers: 3
+
+leap: 3
+
+leaves: 3
+
+lebanon: 3
+
+life's: 3
+
+liked: 3
+
+likewise: 3
+
+limiting: 3
+
+limousine: 3
+
+logical: 3
+
+loom: 3
+
+loudest: 3
+
+loudly: 3
+
+lynch: 3
+
+magazine: 3
+
+mail: 3
+
+majestic: 3
+
+malcolm: 3
+
+mansion: 3
+
+marched: 3
+
+marked: 3
+
+martha's: 3
+
+mature: 3
+
+maximum: 3
+
+mechanics: 3
+
+membership: 3
+
+mercantile: 3
+
+merits: 3
+
+methodist: 3
+
+michael: 3
+
+militarism: 3
+
+mineralogy: 3
+
+minimum: 3
+
+ministry: 3
+
+minnesota: 3
+
+minorities: 3
+
+miss: 3
+
+missile: 3
+
+mistaken: 3
+
+mistrust: 3
+
+mobilized: 3
+
+molotov: 3
+
+momentous: 3
+
+monday: 3
+
+morals: 3
+
+mosaic: 3
+
+mouth: 3
+
+movements: 3
+
+mowing: 3
+
+muslims: 3
+
+nationalists: 3
+
+negotiator: 3
+
+negro's: 3
+
+neighborhood: 3
+
+noticed: 3
+
+novocaine: 3
+
+o: 3
+
+obedience: 3
+
+obtained: 3
+
+obviously: 3
+
+occupation: 3
+
+occupy: 3
+
+oceans: 3
+
+offense: 3
+
+offers: 3
+
+oldest: 3
+
+one:: 3
+
+onto: 3
+
+opens: 3
+
+operate: 3
+
+operating: 3
+
+opponents: 3
+
+opposed: 3
+
+opposite: 3
+
+orator: 3
+
+orders: 3
+
+organizations: 3
+
+organized: 3
+
+originally: 3
+
+outer: 3
+
+outlined: 3
+
+outward: 3
+
+overlook: 3
+
+overtures: 3
+
+owning: 3
+
+paramount: 3
+
+parental: 3
+
+park: 3
+
+parrot: 3
+
+passion: 3
+
+passionate: 3
+
+patriotic: 3
+
+paul: 3
+
+pending: 3
+
+perform: 3
+
+performance: 3
+
+performing: 3
+
+personnel: 3
+
+persuade: 3
+
+phantom: 3
+
+phase: 3
+
+phrase: 3
+
+picket: 3
+
+pieces: 3
+
+pierce: 3
+
+pile: 3
+
+pin: 3
+
+plank: 3
+
+playing: 3
+
+pledges: 3
+
+poem: 3
+
+politically: 3
+
+polls: 3
+
+pollution: 3
+
+popular: 3
+
+positions: 3
+
+possession: 3
+
+potatoes: 3
+
+pour: 3
+
+powell: 3
+
+precious: 3
+
+preparation: 3
+
+preparing: 3
+
+prescribed: 3
+
+presents: 3
+
+presiding: 3
+
+pressed: 3
+
+pressure: 3
+
+pretty: 3
+
+principal: 3
+
+print: 3
+
+prior: 3
+
+priorities: 3
+
+prisoners: 3
+
+probability: 3
+
+proceedings: 3
+
+proclamations: 3
+
+produces: 3
+
+producing: 3
+
+profited: 3
+
+prohibited: 3
+
+proof: 3
+
+proportions: 3
+
+prosper: 3
+
+protects: 3
+
+protestants: 3
+
+proudest: 3
+
+proven: 3
+
+pulling: 3
+
+punished: 3
+
+pure: 3
+
+purely: 3
+
+qualified: 3
+
+quarters: 3
+
+quietly: 3
+
+quitter: 3
+
+quoted: 3
+
+railways: 3
+
+randolph: 3
+
+rastus: 3
+
+rates: 3
+
+reaffirm: 3
+
+realities: 3
+
+reasoned: 3
+
+receiving: 3
+
+reception: 3
+
+reciprocal: 3
+
+reclaim: 3
+
+recommending: 3
+
+reduce: 3
+
+regarding: 3
+
+regulations: 3
+
+reinforcement: 3
+
+relate: 3
+
+reliable: 3
+
+relief: 3
+
+relies: 3
+
+remained: 3
+
+remark: 3
+
+remarkable: 3
+
+remembered: 3
+
+reminded: 3
+
+removed: 3
+
+reopen: 3
+
+reopened: 3
+
+reply: 3
+
+respected: 3
+
+responded: 3
+
+restaurant: 3
+
+restoring: 3
+
+restraints: 3
+
+rests: 3
+
+retirement: 3
+
+returns: 3
+
+revealed: 3
+
+reversed: 3
+
+reviewed: 3
+
+rhetoric: 3
+
+riches: 3
+
+roar: 3
+
+roberts: 3
+
+roger: 3
+
+round: 3
+
+roundtable: 3
+
+runs: 3
+
+russell: 3
+
+sale: 3
+
+sanctioned: 3
+
+sanctuary: 3
+
+sand: 3
+
+savage: 3
+
+savagery: 3
+
+scale: 3
+
+scared: 3
+
+scars: 3
+
+schemes: 3
+
+screaming: 3
+
+scripture: 3
+
+seas: 3
+
+seated: 3
+
+seats: 3
+
+secretly: 3
+
+sector: 3
+
+segregationist: 3
+
+sensitive: 3
+
+servants: 3
+
+serving: 3
+
+settling: 3
+
+shell: 3
+
+shift: 3
+
+ships: 3
+
+shooting: 3
+
+shores: 3
+
+shortcomings: 3
+
+shout: 3
+
+signal: 3
+
+simple:: 3
+
+sincerely: 3
+
+sister: 3
+
+sixty: 3
+
+slavemaster: 3
+
+slightest: 3
+
+slow: 3
+
+sole: 3
+
+solving: 3
+
+somebody: 3
+
+somewhat: 3
+
+sort: 3
+
+sorts: 3
+
+sounds: 3
+
+sparkman: 3
+
+speedily: 3
+
+sphere: 3
+
+spring: 3
+
+springs: 3
+
+starts: 3
+
+stereotypes: 3
+
+stick: 3
+
+stops: 3
+
+stretched: 3
+
+striking: 3
+
+struck: 3
+
+struggled: 3
+
+stuck: 3
+
+stuff: 3
+
+subjects: 3
+
+suburbs: 3
+
+successor: 3
+
+sum: 3
+
+summers: 3
+
+sunlight: 3
+
+superior: 3
+
+superiority: 3
+
+surface: 3
+
+sweeping: 3
+
+sweltering: 3
+
+swung: 3
+
+symbols: 3
+
+symphony: 3
+
+takeover: 3
+
+talent: 3
+
+tanks: 3
+
+targets: 3
+
+tear: 3
+
+telephone: 3
+
+temper: 3
+
+tempted: 3
+
+tempting: 3
+
+tens: 3
+
+tested: 3
+
+testify: 3
+
+text: 3
+
+thailand: 3
+
+thanks: 3
+
+thirds: 3
+
+tiny: 3
+
+tired: 3
+
+tooth: 3
+
+torch: 3
+
+totalitarianism: 3
+
+totally: 3
+
+touch: 3
+
+tough: 3
+
+towers: 3
+
+towns: 3
+
+toys: 3
+
+tramp: 3
+
+tranquility: 3
+
+transform: 3
+
+translated: 3
+
+transportation: 3
+
+treat: 3
+
+trend: 3
+
+trends: 3
+
+trickery: 3
+
+tries: 3
+
+truce: 3
+
+tulsa: 3
+
+turkish: 3
+
+unacceptable: 3
+
+uncertainty: 3
+
+uncomfortable: 3
+
+understandably: 3
+
+understands: 3
+
+undoubtedly: 3
+
+unhappily: 3
+
+unilaterally: 3
+
+unique: 3
+
+universally: 3
+
+unlimited: 3
+
+unnecessary: 3
+
+unworthy: 3
+
+unyielding: 3
+
+uplift: 3
+
+upward: 3
+
+urged: 3
+
+useful: 3
+
+vain: 3
+
+venture: 3
+
+vicious: 3
+
+vietnam's: 3
+
+vietnamization: 3
+
+vigorously: 3
+
+village: 3
+
+vineyard: 3
+
+violated: 3
+
+visions: 3
+
+vocal: 3
+
+voiced: 3
+
+voiceless: 3
+
+voluntary: 3
+
+waited: 3
+
+waking: 3
+
+wander: 3
+
+warm: 3
+
+watergate: 3
+
+wealthy: 3
+
+weekly: 3
+
+weren't: 3
+
+wet: 3
+
+whittier: 3
+
+whittled: 3
+
+william: 3
+
+winner: 3
+
+wished: 3
+
+wishes: 3
+
+withdrawn: 3
+
+withstand: 3
+
+wolf: 3
+
+words:: 3
+
+workers: 3
+
+worn: 3
+
+worried: 3
+
+wrapped: 3
+
+yellow: 3
+
+you'd: 3
+
+younger: 3
+
+	: 2
+
+%: 2
+
+': 2
+
+'em: 2
+
+'tis: 2
+
+/: 2
+
+abe: 2
+
+abilities: 2
+
+abm: 2
+
+aboard: 2
+
+abolish: 2
+
+abortions: 2
+
+abrams: 2
+
+absorbs: 2
+
+abundantly: 2
+
+abused: 2
+
+abuses: 2
+
+academic: 2
+
+accelerated: 2
+
+accepting: 2
+
+accommodate: 2
+
+accompanied: 2
+
+accounting: 2
+
+accumulate: 2
+
+accusations: 2
+
+acre: 2
+
+adapted: 2
+
+addressed: 2
+
+adequately: 2
+
+administration's: 2
+
+administrations: 2
+
+admission: 2
+
+adopted: 2
+
+adversary: 2
+
+adviser: 2
+
+advising: 2
+
+advisors: 2
+
+advocates: 2
+
+aegis: 2
+
+affect: 2
+
+affection: 2
+
+affects: 2
+
+affluence: 2
+
+affluent: 2
+
+afghanistan: 2
+
+afloat: 2
+
+aged: 2
+
+agents: 2
+
+ages: 2
+
+aggressions: 2
+
+agnew:: 2
+
+agnostics: 2
+
+aiding: 2
+
+aiming: 2
+
+aircraft: 2
+
+airing: 2
+
+airplanes: 2
+
+airport: 2
+
+airwaves: 2
+
+airways: 2
+
+alarm: 2
+
+albany: 2
+
+alert: 2
+
+alexander: 2
+
+algeria: 2
+
+algerians: 2
+
+alice: 2
+
+allegiances: 2
+
+alleviate: 2
+
+allocated: 2
+
+ambitious: 2
+
+analysts: 2
+
+anarchy: 2
+
+anchorman: 2
+
+anchormen: 2
+
+anecdote: 2
+
+angles: 2
+
+ann: 2
+
+another's: 2
+
+antics: 2
+
+anxious: 2
+
+apart: 2
+
+apparently: 2
+
+applause: 2
+
+applications: 2
+
+appropriations: 2
+
+april: 2
+
+argued: 2
+
+arguing: 2
+
+arise: 2
+
+arising: 2
+
+armament: 2
+
+armored: 2
+
+arsenals: 2
+
+artificial: 2
+
+asians: 2
+
+ask:: 2
+
+asserted: 2
+
+associates: 2
+
+assumed: 2
+
+atlanta: 2
+
+atoms: 2
+
+atrocities: 2
+
+attained: 2
+
+attend: 2
+
+audiences: 2
+
+austrian: 2
+
+authoritative: 2
+
+authorize: 2
+
+authorized: 2
+
+auto: 2
+
+awaited: 2
+
+awaken: 2
+
+awareness: 2
+
+axe: 2
+
+backing: 2
+
+backwardness: 2
+
+backwards: 2
+
+baiting: 2
+
+baker: 2
+
+balloons: 2
+
+baltimore: 2
+
+bands: 2
+
+bankruptcies: 2
+
+bankruptcy: 2
+
+banners: 2
+
+banquet: 2
+
+barbed: 2
+
+bard: 2
+
+bargain: 2
+
+bark: 2
+
+barrels: 2
+
+bask: 2
+
+battalions: 2
+
+battles: 2
+
+beaches: 2
+
+beat: 2
+
+beating: 2
+
+beautifully: 2
+
+beds: 2
+
+beginnings: 2
+
+belgium: 2
+
+belief:: 2
+
+bend: 2
+
+bentsen: 2
+
+besides: 2
+
+betrayed: 2
+
+bid: 2
+
+binding: 2
+
+binds: 2
+
+bishops: 2
+
+bit: 2
+
+bite: 2
+
+blacks: 2
+
+blindly: 2
+
+blond: 2
+
+boast: 2
+
+bodies: 2
+
+bombardment: 2
+
+boon: 2
+
+boredom: 2
+
+borne: 2
+
+boss: 2
+
+bottom: 2
+
+boulevard: 2
+
+boundaries: 2
+
+boundless: 2
+
+boycott: 2
+
+brag: 2
+
+branches: 2
+
+brand: 2
+
+bravery: 2
+
+bride: 2
+
+brief: 2
+
+brinkley: 2
+
+broadcasters: 2
+
+buck: 2
+
+buffalo: 2
+
+bulgaria: 2
+
+burlesque: 2
+
+bursting: 2
+
+bury: 2
+
+businesses: 2
+
+businessmen: 2
+
+buttons: 2
+
+byron: 2
+
+cahal: 2
+
+calmly: 2
+
+camera: 2
+
+campaigns: 2
+
+canadians: 2
+
+capitalists: 2
+
+capitals: 2
+
+captivity: 2
+
+captured: 2
+
+cared: 2
+
+carmichael: 2
+
+carpathian: 2
+
+carries: 2
+
+carta: 2
+
+carter's: 2
+
+carved: 2
+
+casing: 2
+
+casting: 2
+
+castro: 2
+
+caustic: 2
+
+caution: 2
+
+celebrations: 2
+
+cell: 2
+
+cellar: 2
+
+cemetery: 2
+
+ceremonies: 2
+
+certainty: 2
+
+chain: 2
+
+chambers: 2
+
+champions: 2
+
+channel: 2
+
+channels: 2
+
+characteristic: 2
+
+characteristics: 2
+
+charlie: 2
+
+chat: 2
+
+checkers: 2
+
+chests: 2
+
+chewed: 2
+
+chicken: 2
+
+chooses: 2
+
+circles: 2
+
+civilians: 2
+
+civility: 2
+
+civilizations: 2
+
+claims: 2
+
+clair: 2
+
+clapped: 2
+
+clarify: 2
+
+classes: 2
+
+cleanly: 2
+
+cleaver: 2
+
+clerks: 2
+
+closest: 2
+
+cloud: 2
+
+clubs: 2
+
+coeducational: 2
+
+cohn:: 2
+
+coin: 2
+
+coincidence: 2
+
+coleridge: 2
+
+collars: 2
+
+collect: 2
+
+collected: 2
+
+collectively: 2
+
+collectivism: 2
+
+colleges: 2
+
+colonies: 2
+
+colony: 2
+
+colored: 2
+
+colossi: 2
+
+columnists: 2
+
+columns: 2
+
+comfortable: 2
+
+comfortably: 2
+
+comings: 2
+
+commands: 2
+
+commemorating: 2
+
+commemorations: 2
+
+commencement: 2
+
+commendable: 2
+
+commissioner: 2
+
+committing: 2
+
+common:: 2
+
+commonwealth: 2
+
+communiqu: 2
+
+communism's: 2
+
+compassionate: 2
+
+compel: 2
+
+compelling: 2
+
+compensated: 2
+
+competing: 2
+
+complaints: 2
+
+completing: 2
+
+completion: 2
+
+complexion: 2
+
+complexity: 2
+
+composed: 2
+
+composite: 2
+
+compulsion: 2
+
+concentrated: 2
+
+concession: 2
+
+concessions: 2
+
+conciliatory: 2
+
+concord: 2
+
+concurrence: 2
+
+confederation: 2
+
+conferred: 2
+
+confined: 2
+
+confines: 2
+
+confirm: 2
+
+conformists: 2
+
+conformity: 2
+
+confronting: 2
+
+confuse: 2
+
+congregational: 2
+
+congress:: 2
+
+consensus: 2
+
+consist: 2
+
+consistent: 2
+
+consisting: 2
+
+consists: 2
+
+constant: 2
+
+constituent: 2
+
+constituted: 2
+
+constitutionally: 2
+
+constructively: 2
+
+consultation: 2
+
+consumer: 2
+
+consuming: 2
+
+consumption: 2
+
+contains: 2
+
+contemptible: 2
+
+contending: 2
+
+contends: 2
+
+content: 2
+
+contest: 2
+
+continually: 2
+
+continuity: 2
+
+contracts: 2
+
+contradicted: 2
+
+contradicting: 2
+
+contributor: 2
+
+convene: 2
+
+convenience: 2
+
+convince: 2
+
+cooled: 2
+
+cooperated: 2
+
+corporate: 2
+
+correct: 2
+
+corrected: 2
+
+correspondence: 2
+
+corrupted: 2
+
+cosmic: 2
+
+costly: 2
+
+cot: 2
+
+couldn: 2
+
+councils: 2
+
+counties: 2
+
+countless: 2
+
+coupled: 2
+
+couples: 2
+
+courses: 2
+
+courteously: 2
+
+covenant: 2
+
+cover: 2
+
+cow: 2
+
+crack: 2
+
+craft: 2
+
+crash: 2
+
+crazy: 2
+
+cream: 2
+
+creatively: 2
+
+credits: 2
+
+crippling: 2
+
+crooked: 2
+
+crops: 2
+
+crowd: 2
+
+crown: 2
+
+crusade: 2
+
+crusader: 2
+
+crushing: 2
+
+crust: 2
+
+cuba: 2
+
+cultivation: 2
+
+currier: 2
+
+custom: 2
+
+customary: 2
+
+cuts: 2
+
+cutting: 2
+
+cyclamates: 2
+
+cynic: 2
+
+daggers: 2
+
+dailies: 2
+
+daunting: 2
+
+dawned: 2
+
+day's: 2
+
+ddt: 2
+
+debating: 2
+
+deciding: 2
+
+decisive: 2
+
+declarations: 2
+
+declaring: 2
+
+dedicating: 2
+
+deduce: 2
+
+deem: 2
+
+defiant: 2
+
+deficiencies: 2
+
+defines: 2
+
+degrading: 2
+
+delayed: 2
+
+delays: 2
+
+delegates:: 2
+
+delegations: 2
+
+delighted: 2
+
+delinquency: 2
+
+demonstrated: 2
+
+demonstrates: 2
+
+demonstration: 2
+
+denominations: 2
+
+denying: 2
+
+dependent: 2
+
+deployment: 2
+
+depriving: 2
+
+depths: 2
+
+derive: 2
+
+des: 2
+
+desegregate: 2
+
+designated: 2
+
+designs: 2
+
+desirability: 2
+
+despotism: 2
+
+destroyers: 2
+
+destroys: 2
+
+detail: 2
+
+detailing: 2
+
+determines: 2
+
+deterred: 2
+
+devised: 2
+
+diane: 2
+
+dickens: 2
+
+dies: 2
+
+digested: 2
+
+dilemma: 2
+
+dillydallying: 2
+
+diner: 2
+
+directness: 2
+
+dirty: 2
+
+disagreements: 2
+
+disappearance: 2
+
+disapproval: 2
+
+disasters: 2
+
+discernible: 2
+
+discharge: 2
+
+disciples: 2
+
+disclose: 2
+
+disclosure: 2
+
+discontented: 2
+
+discords: 2
+
+discouraged: 2
+
+discoveries: 2
+
+discussed: 2
+
+disgrace: 2
+
+disparaged: 2
+
+disqualified: 2
+
+disregard: 2
+
+disrepair: 2
+
+dissenters: 2
+
+distinguishes: 2
+
+distinguishing: 2
+
+distribution: 2
+
+disturbed: 2
+
+disturber: 2
+
+divisiveness: 2
+
+documentaries: 2
+
+documented: 2
+
+dogs: 2
+
+doll: 2
+
+dominance: 2
+
+doubled: 2
+
+downgrade: 2
+
+dragged: 2
+
+dramatizing: 2
+
+drawn: 2
+
+dread: 2
+
+dreaming: 2
+
+drinking: 2
+
+driver: 2
+
+dropped: 2
+
+drought: 2
+
+dukakis: 2
+
+duration: 2
+
+dusk: 2
+
+dwarf: 2
+
+dweller: 2
+
+eagle: 2
+
+ear: 2
+
+ears: 2
+
+eastland: 2
+
+ecology: 2
+
+ecumenical: 2
+
+edition: 2
+
+edson: 2
+
+educate: 2
+
+educational: 2
+
+edward: 2
+
+efficient: 2
+
+egotistic: 2
+
+eldrige: 2
+
+eleanor: 2
+
+elect: 2
+
+electrical: 2
+
+electricity: 2
+
+elevated: 2
+
+elocutionary: 2
+
+else's: 2
+
+emanated: 2
+
+embarrassed: 2
+
+embittered: 2
+
+emotions: 2
+
+emperor: 2
+
+emphasis: 2
+
+emphasized: 2
+
+empires: 2
+
+employer: 2
+
+employers: 2
+
+empty: 2
+
+enabled: 2
+
+enact: 2
+
+encircling: 2
+
+encouragement: 2
+
+endorsed: 2
+
+endurance: 2
+
+endure:: 2
+
+enemies:: 2
+
+engagements: 2
+
+england's: 2
+
+englishman: 2
+
+engulfed: 2
+
+enjoins: 2
+
+enrich: 2
+
+environmental: 2
+
+episodes: 2
+
+equitable: 2
+
+erected: 2
+
+errors: 2
+
+escalate: 2
+
+essence: 2
+
+essentially: 2
+
+estimates: 2
+
+eulogy: 2
+
+europeans: 2
+
+evaluate: 2
+
+evangelicals: 2
+
+eve: 2
+
+evening:: 2
+
+everglades: 2
+
+evolution: 2
+
+exceeding: 2
+
+exceedingly: 2
+
+excited: 2
+
+exclusion: 2
+
+exclusively: 2
+
+excused: 2
+
+exercised: 2
+
+exhaustion: 2
+
+exhilaration: 2
+
+exile: 2
+
+exonerates: 2
+
+expansionist: 2
+
+expected: 2
+
+expedited: 2
+
+explaining: 2
+
+explicit: 2
+
+exploited: 2
+
+explorations: 2
+
+explosions: 2
+
+exposed: 2
+
+exposure: 2
+
+expunge: 2
+
+extending: 2
+
+extraordinary: 2
+
+extremely: 2
+
+extremism: 2
+
+eyebrow: 2
+
+facility: 2
+
+fact:: 2
+
+failing: 2
+
+faint: 2
+
+faithfully: 2
+
+faiths: 2
+
+fake: 2
+
+fans: 2
+
+fascism: 2
+
+fascist: 2
+
+faster: 2
+
+fat: 2
+
+fbi: 2
+
+fed: 2
+
+feels: 2
+
+fellowship: 2
+
+ferris: 2
+
+fervent: 2
+
+feverish: 2
+
+fierce: 2
+
+fifteen: 2
+
+fifth: 2
+
+films: 2
+
+filtered: 2
+
+finality: 2
+
+financed: 2
+
+findings: 2
+
+firepower: 2
+
+fireside: 2
+
+fittest: 2
+
+fitzgerald: 2
+
+five:: 2
+
+flames: 2
+
+flash: 2
+
+flesh: 2
+
+flood: 2
+
+floods: 2
+
+flow: 2
+
+focused: 2
+
+fold: 2
+
+followers: 2
+
+folly: 2
+
+forcing: 2
+
+forebears: 2
+
+forests: 2
+
+formally: 2
+
+formidable: 2
+
+forming: 2
+
+formulation: 2
+
+fortieth: 2
+
+four:: 2
+
+fourths: 2
+
+fox: 2
+
+fragrant: 2
+
+frame: 2
+
+framers: 2
+
+framework: 2
+
+francis: 2
+
+fraught: 2
+
+freeing: 2
+
+freely: 2
+
+fruition: 2
+
+fruits: 2
+
+fulfilled: 2
+
+fulghum: 2
+
+fumbling: 2
+
+functioning: 2
+
+fundamentalist: 2
+
+furnish: 2
+
+furnishes: 2
+
+furthermore: 2
+
+fusiliers: 2
+
+gaggle: 2
+
+gains: 2
+
+gardens: 2
+
+garfield: 2
+
+gargan: 2
+
+gas: 2
+
+gems: 2
+
+generals: 2
+
+generosity: 2
+
+gentiles: 2
+
+geographical: 2
+
+gerald: 2
+
+geraldine: 2
+
+ghettoes: 2
+
+gladstone: 2
+
+glimmering: 2
+
+glitter: 2
+
+goodbye: 2
+
+gorsuch: 2
+
+grab: 2
+
+graduate: 2
+
+grander: 2
+
+grandparents: 2
+
+gratuitous: 2
+
+gravely: 2
+
+graves: 2
+
+graveyards: 2
+
+gray: 2
+
+gresham: 2
+
+groping: 2
+
+guarantees: 2
+
+guard's: 2
+
+guarded: 2
+
+guatemala: 2
+
+guerrillas: 2
+
+guild: 2
+
+guilt: 2
+
+gun: 2
+
+gut: 2
+
+habits: 2
+
+halfway: 2
+
+halter: 2
+
+hamlet: 2
+
+hammarskjold: 2
+
+hangs: 2
+
+hardship: 2
+
+harlem: 2
+
+harmonious: 2
+
+harris: 2
+
+harrison: 2
+
+harsh: 2
+
+hastings: 2
+
+hatfield: 2
+
+haunt: 2
+
+heading: 2
+
+hearings: 2
+
+hears: 2
+
+heartened: 2
+
+heartily: 2
+
+heed: 2
+
+heeding: 2
+
+heights: 2
+
+heirs: 2
+
+helplessly: 2
+
+hence: 2
+
+henry: 2
+
+heroic: 2
+
+hide: 2
+
+hideous: 2
+
+hiding: 2
+
+highlanders: 2
+
+highway: 2
+
+highways: 2
+
+him:: 2
+
+hingham: 2
+
+hispanic: 2
+
+hitler's: 2
+
+hog: 2
+
+holidays: 2
+
+holocaust: 2
+
+holt: 2
+
+honors: 2
+
+hoop: 2
+
+hoover: 2
+
+hopkins: 2
+
+horrible: 2
+
+horror: 2
+
+horse: 2
+
+houston: 2
+
+hue: 2
+
+hugged: 2
+
+humans: 2
+
+humiliate: 2
+
+humiliation: 2
+
+hurts: 2
+
+husbands: 2
+
+huts: 2
+
+hypocrite: 2
+
+hysterical: 2
+
+idealism: 2
+
+identical: 2
+
+idols: 2
+
+ignorant: 2
+
+ignoring: 2
+
+ii:: 2
+
+illegitimate: 2
+
+illness: 2
+
+ills: 2
+
+imaginable: 2
+
+immediacy: 2
+
+immensely: 2
+
+immigrants: 2
+
+immoral: 2
+
+immune: 2
+
+impatient: 2
+
+imperfect: 2
+
+impetus: 2
+
+implements: 2
+
+importantly: 2
+
+imported: 2
+
+importing: 2
+
+impounding: 2
+
+impressed: 2
+
+improved: 2
+
+impulse: 2
+
+impulses: 2
+
+inability: 2
+
+inauguration: 2
+
+includes: 2
+
+inclusive: 2
+
+inconclusive: 2
+
+incontrovertible: 2
+
+inconvenience: 2
+
+india: 2
+
+indies: 2
+
+indigenous: 2
+
+indignation: 2
+
+indirect: 2
+
+indirectly: 2
+
+individually: 2
+
+indivisible: 2
+
+indochina: 2
+
+industries: 2
+
+industrious: 2
+
+inertia: 2
+
+inescapable: 2
+
+inevitably: 2
+
+infallible: 2
+
+infamy: 2
+
+infant: 2
+
+infanticide: 2
+
+infantry: 2
+
+infinitely: 2
+
+inflection: 2
+
+influential: 2
+
+ingenious: 2
+
+ingredients: 2
+
+inherently: 2
+
+inherit: 2
+
+insecurity: 2
+
+insensitive: 2
+
+inspiring: 2
+
+instances: 2
+
+insufficient: 2
+
+integrated: 2
+
+integration: 2
+
+intentioned: 2
+
+intercutting: 2
+
+interesting: 2
+
+intermingling: 2
+
+interpreting: 2
+
+intervention: 2
+
+intolerable: 2
+
+intransigence: 2
+
+introduced: 2
+
+intrusion: 2
+
+invasion:: 2
+
+inventors: 2
+
+inventory: 2
+
+investigators: 2
+
+invisible: 2
+
+inviting: 2
+
+involve: 2
+
+ireland: 2
+
+irony: 2
+
+irreplaceable: 2
+
+irritations: 2
+
+islam: 2
+
+isolate: 2
+
+isolation: 2
+
+isolationism: 2
+
+israel's: 2
+
+italy: 2
+
+jam: 2
+
+jan: 2
+
+jangling: 2
+
+jeans: 2
+
+jesus: 2
+
+jewels: 2
+
+jim!: 2
+
+jimmy: 2
+
+jo's: 2
+
+joe: 2
+
+johns: 2
+
+joseph: 2
+
+joshua:: 2
+
+joys: 2
+
+jungles: 2
+
+juno: 2
+
+junta: 2
+
+justifiable: 2
+
+juvenile: 2
+
+kennedys: 2
+
+killing: 2
+
+kneel: 2
+
+kneeling: 2
+
+knock: 2
+
+knoweth: 2
+
+korean: 2
+
+label: 2
+
+labels: 2
+
+lad: 2
+
+ladders: 2
+
+lamp: 2
+
+lancers: 2
+
+landed: 2
+
+landlord: 2
+
+landlords: 2
+
+landmark: 2
+
+lands: 2
+
+landscape: 2
+
+largely: 2
+
+lately: 2
+
+laughter: 2
+
+lawlessness: 2
+
+lawyers': 2
+
+laymen: 2
+
+leg: 2
+
+legally: 2
+
+leisure: 2
+
+length: 2
+
+lenin: 2
+
+lessen: 2
+
+lessening: 2
+
+liberals: 2
+
+liberate: 2
+
+licensed: 2
+
+lifting: 2
+
+lippman: 2
+
+lips: 2
+
+listened:: 2
+
+listeners: 2
+
+literature: 2
+
+livelihood: 2
+
+lloyd: 2
+
+lo!: 2
+
+load: 2
+
+locality: 2
+
+logic: 2
+
+logistical: 2
+
+loneliness: 2
+
+longing: 2
+
+looks: 2
+
+loose: 2
+
+loosed: 2
+
+lorena: 2
+
+loses: 2
+
+louis: 2
+
+louisiana: 2
+
+loves: 2
+
+loveth: 2
+
+lowest: 2
+
+lt: 2
+
+lunch: 2
+
+lung: 2
+
+machines: 2
+
+madam: 2
+
+madness: 2
+
+magic: 2
+
+magna: 2
+
+magnitude: 2
+
+mainstream: 2
+
+makers: 2
+
+malevolently: 2
+
+man:: 2
+
+manages: 2
+
+mankind's: 2
+
+manpower: 2
+
+mantel: 2
+
+manufacture: 2
+
+manufactures: 2
+
+manuscript: 2
+
+mao: 2
+
+marchers: 2
+
+marches: 2
+
+marching: 2
+
+mariner: 2
+
+markers: 2
+
+market: 2
+
+markham: 2
+
+marvelous: 2
+
+marxism: 2
+
+maryland: 2
+
+master's: 2
+
+matchbox: 2
+
+mayflower: 2
+
+meal: 2
+
+meaningfully: 2
+
+means:: 2
+
+meat: 2
+
+memorials: 2
+
+memories: 2
+
+mental: 2
+
+merciless: 2
+
+meticulous: 2
+
+midnight: 2
+
+militancy: 2
+
+militant: 2
+
+miller: 2
+
+mingle: 2
+
+minimal: 2
+
+minimize: 2
+
+ministerial: 2
+
+miserable: 2
+
+missing: 2
+
+missionaries: 2
+
+misunderstandings: 2
+
+misunderstood: 2
+
+mitchell: 2
+
+mix: 2
+
+mobilization: 2
+
+model: 2
+
+modernization: 2
+
+moines: 2
+
+mold: 2
+
+montgomery: 2
+
+monthlies: 2
+
+moratorium: 2
+
+morrow: 2
+
+mortal: 2
+
+mortgages: 2
+
+moscow: 2
+
+moses: 2
+
+mosque: 2
+
+mostly: 2
+
+motivated: 2
+
+motive: 2
+
+mount: 2
+
+mountainside: 2
+
+mounting: 2
+
+mourn: 2
+
+mouths: 2
+
+multitude: 2
+
+mundt:: 2
+
+murder: 2
+
+murderers: 2
+
+murky: 2
+
+murray: 2
+
+mutuality: 2
+
+nancy: 2
+
+napalm: 2
+
+nationwide: 2
+
+naturally: 2
+
+nearer: 2
+
+necessarily: 2
+
+neck: 2
+
+needing: 2
+
+needle: 2
+
+neglect: 2
+
+negotiable: 2
+
+neighborhoods: 2
+
+nemesis: 2
+
+networks': 2
+
+neutral: 2
+
+niagara: 2
+
+nice: 2
+
+nigger: 2
+
+nightmare: 2
+
+nobel: 2
+
+nobody: 2
+
+nondiscrimination: 2
+
+nonpolitical: 2
+
+nonpreparedness: 2
+
+nonviolence: 2
+
+noon: 2
+
+normality: 2
+
+normally: 2
+
+norman: 2
+
+norway: 2
+
+nose: 2
+
+noses: 2
+
+notification: 2
+
+notified: 2
+
+notwithstanding: 2
+
+nourish: 2
+
+nowadays: 2
+
+numbering: 2
+
+nurtured: 2
+
+obligations: 2
+
+obliged: 2
+
+observance: 2
+
+observation: 2
+
+observers: 2
+
+obsolete: 2
+
+obstacle: 2
+
+occasional: 2
+
+occur: 2
+
+occurs: 2
+
+october: 2
+
+offering: 2
+
+oft: 2
+
+ohio: 2
+
+okmulgee: 2
+
+olds: 2
+
+ominous: 2
+
+opec: 2
+
+opposing: 2
+
+optimistic: 2
+
+oration: 2
+
+organizing: 2
+
+oriented: 2
+
+origin: 2
+
+outmoded: 2
+
+outset: 2
+
+overburdened: 2
+
+overcrowded: 2
+
+overdue: 2
+
+overriding: 2
+
+overseas: 2
+
+overshadows: 2
+
+overturned: 2
+
+owners: 2
+
+owns: 2
+
+packs: 2
+
+paint: 2
+
+painted: 2
+
+pakistan: 2
+
+pallet: 2
+
+panic: 2
+
+pants: 2
+
+papah: 2
+
+parachute: 2
+
+parochialism: 2
+
+participated: 2
+
+participating: 2
+
+partly: 2
+
+partner: 2
+
+passing: 2
+
+passions: 2
+
+paternalism: 2
+
+patient: 2
+
+pattern: 2
+
+pays: 2
+
+peaceable: 2
+
+penalizes: 2
+
+pencil: 2
+
+pension: 2
+
+performed: 2
+
+peril: 2
+
+perished: 2
+
+perpetuate: 2
+
+perplexed: 2
+
+persecution: 2
+
+persian: 2
+
+persist: 2
+
+persists: 2
+
+peru: 2
+
+ph: 2
+
+philippines: 2
+
+phone: 2
+
+phony: 2
+
+pick: 2
+
+picked: 2
+
+pillars: 2
+
+pinned: 2
+
+plains: 2
+
+planners: 2
+
+plate: 2
+
+platitudes: 2
+
+pleasures: 2
+
+pockets: 2
+
+poetry: 2
+
+pointing: 2
+
+poisoned: 2
+
+poisonous: 2
+
+poland: 2
+
+poland's: 2
+
+poles: 2
+
+ponder: 2
+
+poorer: 2
+
+porches: 2
+
+pornographic: 2
+
+portuguese: 2
+
+poses: 2
+
+positively: 2
+
+possess: 2
+
+practiced: 2
+
+practices: 2
+
+prague: 2
+
+preachers: 2
+
+precedence: 2
+
+precedent: 2
+
+precise: 2
+
+predecessor: 2
+
+predecessors: 2
+
+predict: 2
+
+prefer: 2
+
+prejudices: 2
+
+preparations: 2
+
+presentations: 2
+
+preserved: 2
+
+president:: 2
+
+pressing: 2
+
+prestige: 2
+
+prevailing: 2
+
+prevented: 2
+
+preventive: 2
+
+prey: 2
+
+primaries: 2
+
+prime: 2
+
+prisoner: 2
+
+privacy: 2
+
+prize: 2
+
+procedures: 2
+
+proceed: 2
+
+procession: 2
+
+proclaimed: 2
+
+produced: 2
+
+producer: 2
+
+professionals: 2
+
+profoundly: 2
+
+prohibition: 2
+
+project: 2
+
+prolonged: 2
+
+prominent: 2
+
+promising: 2
+
+promissory: 2
+
+prompt: 2
+
+propaganda: 2
+
+prophecy: 2
+
+prophet: 2
+
+prophets: 2
+
+proposals:: 2
+
+proposing: 2
+
+prospect: 2
+
+prospects: 2
+
+prospers: 2
+
+protecting: 2
+
+protestant: 2
+
+protestations: 2
+
+protested: 2
+
+proves: 2
+
+providence: 2
+
+provinces: 2
+
+provincialism: 2
+
+provocations: 2
+
+provoked: 2
+
+psychological: 2
+
+puffed: 2
+
+pulpit: 2
+
+pulpits: 2
+
+purple: 2
+
+purport: 2
+
+purpose:: 2
+
+pursuing: 2
+
+pursuits: 2
+
+pussyfooting: 2
+
+puzzle: 2
+
+quantitative: 2
+
+queen: 2
+
+querulous: 2
+
+questioning: 2
+
+quicker: 2
+
+quit: 2
+
+quotas: 2
+
+quoting: 2
+
+rabin: 2
+
+radicals: 2
+
+rage: 2
+
+rainbow: 2
+
+raises: 2
+
+ranged: 2
+
+ranges: 2
+
+rapid: 2
+
+rational: 2
+
+ratios: 2
+
+reachable: 2
+
+read:: 2
+
+realistic: 2
+
+realizing: 2
+
+reaper: 2
+
+rear!: 2
+
+reasonable: 2
+
+reborn: 2
+
+rebuilding: 2
+
+rebuttal: 2
+
+recited: 2
+
+recklessness: 2
+
+recognizes: 2
+
+recorded: 2
+
+recount: 2
+
+recourse: 2
+
+reduces: 2
+
+refine: 2
+
+reflecting: 2
+
+reflects: 2
+
+reformer: 2
+
+refusal: 2
+
+regime: 2
+
+regions: 2
+
+registered: 2
+
+registrar: 2
+
+regularly: 2
+
+reichstag: 2
+
+reign: 2
+
+reinforcements: 2
+
+reiteration: 2
+
+relative: 2
+
+released: 2
+
+religions: 2
+
+reluctance: 2
+
+reluctantly: 2
+
+rely: 2
+
+remembering: 2
+
+remote: 2
+
+rent: 2
+
+reopening: 2
+
+repeated: 2
+
+repeatedly: 2
+
+replied: 2
+
+reported: 2
+
+reporter: 2
+
+represented: 2
+
+republics: 2
+
+reputation: 2
+
+requesting: 2
+
+requiring: 2
+
+resent: 2
+
+reshape: 2
+
+resistance: 2
+
+resisting: 2
+
+respecter: 2
+
+respecting: 2
+
+responses: 2
+
+responsibly: 2
+
+responsive: 2
+
+reston: 2
+
+resulted: 2
+
+reticent: 2
+
+retreating: 2
+
+reuther: 2
+
+reveals: 2
+
+reverently: 2
+
+reverse: 2
+
+revolt: 2
+
+revolutionaries: 2
+
+rid: 2
+
+ridiculed: 2
+
+riding: 2
+
+ringing: 2
+
+risked: 2
+
+risking: 2
+
+risks: 2
+
+roadblocks: 2
+
+roads: 2
+
+robbed: 2
+
+rockwell: 2
+
+rogers: 2
+
+rolling: 2
+
+rolls: 2
+
+rome: 2
+
+rose: 2
+
+rough: 2
+
+row: 2
+
+rubble: 2
+
+rude: 2
+
+rumors: 2
+
+runway: 2
+
+rush: 2
+
+rushing: 2
+
+sacrificed: 2
+
+sadly: 2
+
+safely: 2
+
+sane: 2
+
+sarcasm: 2
+
+satellite: 2
+
+saturday: 2
+
+says:: 2
+
+scaffold: 2
+
+scarred: 2
+
+schnauze: 2
+
+schoolchildren: 2
+
+score: 2
+
+scotland: 2
+
+scots: 2
+
+screw: 2
+
+script: 2
+
+seal: 2
+
+searching: 2
+
+secretaries: 2
+
+sectional: 2
+
+secured: 2
+
+seemingly: 2
+
+seizing: 2
+
+seizure: 2
+
+select: 2
+
+selecting: 2
+
+selfish: 2
+
+selling: 2
+
+sends: 2
+
+seniority: 2
+
+sentence: 2
+
+sessions: 2
+
+seventeen: 2
+
+seventy: 2
+
+severe: 2
+
+severely: 2
+
+sewed: 2
+
+sexually: 2
+
+shakes: 2
+
+shale: 2
+
+shalt: 2
+
+shameful: 2
+
+sharply: 2
+
+shatter: 2
+
+shears: 2
+
+sheds: 2
+
+sheep: 2
+
+sheer: 2
+
+shelling: 2
+
+shine: 2
+
+shocked: 2
+
+shoes: 2
+
+shotgun: 2
+
+shotguns: 2
+
+shoulder: 2
+
+shouted:: 2
+
+shrink: 2
+
+shun: 2
+
+sided: 2
+
+sidewalk: 2
+
+signature: 2
+
+silly: 2
+
+sins: 2
+
+skilled: 2
+
+slander: 2
+
+sleep: 2
+
+sleepless: 2
+
+slowly: 2
+
+smack: 2
+
+smallest: 2
+
+smart: 2
+
+smash: 2
+
+smear: 2
+
+smile: 2
+
+smooth: 2
+
+sobering: 2
+
+socialist: 2
+
+socially: 2
+
+society's: 2
+
+solar: 2
+
+solidarity: 2
+
+somber: 2
+
+someplace: 2
+
+sorely: 2
+
+southwest: 2
+
+sovereign: 2
+
+sowed: 2
+
+spared: 2
+
+spark: 2
+
+specialize: 2
+
+specials: 2
+
+speedy: 2
+
+spender's: 2
+
+spends: 2
+
+spiro: 2
+
+splendor: 2
+
+spokesman: 2
+
+sponsored: 2
+
+spot: 2
+
+springfield: 2
+
+spur: 2
+
+square: 2
+
+ss: 2
+
+stab: 2
+
+staggering: 2
+
+stagnation: 2
+
+stamped: 2
+
+starting: 2
+
+starved: 2
+
+statements:: 2
+
+states': 2
+
+states:: 2
+
+statutes: 2
+
+stayed: 2
+
+steadfast: 2
+
+steady: 2
+
+stenographer: 2
+
+stepped: 2
+
+stewardship: 2
+
+stewart: 2
+
+stock: 2
+
+stockpile: 2
+
+stokely: 2
+
+stopping: 2
+
+storage: 2
+
+storms: 2
+
+straighten: 2
+
+strained: 2
+
+stricken: 2
+
+strict: 2
+
+strictly: 2
+
+strip: 2
+
+striving: 2
+
+stroke: 2
+
+struggles: 2
+
+studio: 2
+
+studios: 2
+
+stupid: 2
+
+sub: 2
+
+subdue: 2
+
+subjected: 2
+
+submerge: 2
+
+submitting: 2
+
+subsistence: 2
+
+substantive: 2
+
+subversive: 2
+
+succeeded: 2
+
+succeeding: 2
+
+successes: 2
+
+suffrage: 2
+
+suggestion: 2
+
+suggestions: 2
+
+suits: 2
+
+summed: 2
+
+summon: 2
+
+summons: 2
+
+supervising: 2
+
+supervision: 2
+
+supplement: 2
+
+supplied: 2
+
+supports: 2
+
+suppression: 2
+
+supremacy: 2
+
+surround: 2
+
+surrounding: 2
+
+surroundings: 2
+
+survey: 2
+
+suspect: 2
+
+sustaining: 2
+
+sutter: 2
+
+swapped: 2
+
+swear: 2
+
+sweep: 2
+
+swinging: 2
+
+switch: 2
+
+symbolizes: 2
+
+synagogues: 2
+
+synthetic: 2
+
+tackled: 2
+
+tad: 2
+
+talents: 2
+
+tangible: 2
+
+tap: 2
+
+taxation: 2
+
+team: 2
+
+televised: 2
+
+tempered: 2
+
+temple: 2
+
+temporarily: 2
+
+tennessee: 2
+
+tennis: 2
+
+tension: 2
+
+tensions: 2
+
+territorial: 2
+
+testifies: 2
+
+tet: 2
+
+texan: 2
+
+thayer: 2
+
+theater: 2
+
+theatre: 2
+
+theological: 2
+
+thermo: 2
+
+they'd: 2
+
+thick: 2
+
+thief: 2
+
+thin: 2
+
+thing:: 2
+
+thir: 2
+
+thirst: 2
+
+thorough: 2
+
+thou: 2
+
+three:: 2
+
+thrift: 2
+
+throne: 2
+
+thursday: 2
+
+thy: 2
+
+tickets: 2
+
+tie: 2
+
+tigris: 2
+
+title: 2
+
+tnt: 2
+
+today!: 2
+
+toil: 2
+
+toilet: 2
+
+token: 2
+
+tolerate: 2
+
+tomb: 2
+
+tongue: 2
+
+tongues: 2
+
+tons: 2
+
+torn: 2
+
+tower: 2
+
+tracks: 2
+
+traditionally: 2
+
+trauma: 2
+
+traveling: 2
+
+treasure: 2
+
+treatment: 2
+
+treblinka: 2
+
+tree: 2
+
+trees: 2
+
+trembled: 2
+
+treptow: 2
+
+trials: 2
+
+tribe: 2
+
+tricia: 2
+
+tricky: 2
+
+trigger: 2
+
+trotted: 2
+
+troubled: 2
+
+tuesday: 2
+
+tune: 2
+
+turbulent: 2
+
+twilight: 2
+
+two:: 2
+
+types: 2
+
+tyrannical: 2
+
+ultimatum: 2
+
+umbrella: 2
+
+unalienable: 2
+
+uncompromising: 2
+
+unconditional: 2
+
+unconditionally: 2
+
+underlying: 2
+
+undermine: 2
+
+uneducated: 2
+
+unelected: 2
+
+unfinished: 2
+
+unfold: 2
+
+ungenerous: 2
+
+ungodly: 2
+
+unify: 2
+
+unifying: 2
+
+uninvited: 2
+
+unions: 2
+
+universities: 2
+
+unleashed: 2
+
+unmarked: 2
+
+unmatched: 2
+
+unpleasant: 2
+
+unquestionably: 2
+
+unquote: 2
+
+unreasonable: 2
+
+unrestrained: 2
+
+unseeing: 2
+
+unshakable: 2
+
+unspeakable: 2
+
+unsurpassed: 2
+
+unswerving: 2
+
+untrue: 2
+
+unusual: 2
+
+unwanted: 2
+
+upheavals: 2
+
+upholding: 2
+
+upshot: 2
+
+uranium: 2
+
+urbane: 2
+
+urgently: 2
+
+usage: 2
+
+utterly: 2
+
+valiantly: 2
+
+valid: 2
+
+valleys: 2
+
+valuable: 2
+
+vanishing: 2
+
+variety: 2
+
+vegetation: 2
+
+vengeance: 2
+
+veracity: 2
+
+veranda: 2
+
+verdict: 2
+
+verification: 2
+
+veterans: 2
+
+veto: 2
+
+victories: 2
+
+viewers: 2
+
+viewpoints: 2
+
+vigilant: 2
+
+vigor: 2
+
+villages: 2
+
+vindicate: 2
+
+violates: 2
+
+violating: 2
+
+violations: 2
+
+virtues: 2
+
+vise: 2
+
+vitally: 2
+
+vocation: 2
+
+volunteered: 2
+
+volunteers: 2
+
+voters: 2
+
+vow: 2
+
+waco: 2
+
+wage: 2
+
+waged: 2
+
+wanamaker: 2
+
+wanting: 2
+
+warmed: 2
+
+warmly: 2
+
+warranted: 2
+
+warrior: 2
+
+warsaw: 2
+
+wasn: 2
+
+wasn't: 2
+
+waters: 2
+
+wave: 2
+
+weaknesses: 2
+
+wearing: 2
+
+wednesday: 2
+
+weekday: 2
+
+weeklies: 2
+
+weep: 2
+
+well!: 2
+
+whatsoever: 2
+
+wheel: 2
+
+whitney: 2
+
+who'd: 2
+
+whoever: 2
+
+widely: 2
+
+widow: 2
+
+wind: 2
+
+winds: 2
+
+winnipeg: 2
+
+wipe: 2
+
+wishful: 2
+
+withdrawing: 2
+
+witnesses: 2
+
+wolverton: 2
+
+wore: 2
+
+worldwide: 2
+
+worthwhile: 2
+
+wretchedness: 2
+
+writ: 2
+
+wrote:: 2
+
+x:: 2
+
+yale: 2
+
+ye: 2
+
+yeah: 2
+
+yelled: 2
+
+yeomen: 2
+
+yoke: 2
+
+york!: 2
+
+you:: 2
+
+youngsters: 2
+
+zeal: 2
+
+''we: 1
+
+'berliner': 1
+
+'dens: 1
+
+'round: 1
+
+'side: 1
+
+'twixt: 1
+
+aback: 1
+
+abandoning: 1
+
+abbreviated: 1
+
+abhorrent: 1
+
+abide: 1
+
+abject: 1
+
+abnegation: 1
+
+abnormal: 1
+
+abolitionist: 1
+
+abortive: 1
+
+about:: 1
+
+abrogate: 1
+
+abrupt: 1
+
+absent: 1
+
+absorb: 1
+
+absorption: 1
+
+abstraction: 1
+
+abyssinian: 1
+
+accelerate: 1
+
+accessible: 1
+
+accidental: 1
+
+acclaim: 1
+
+accompany: 1
+
+accompanying: 1
+
+accomplices: 1
+
+accorded: 1
+
+accords: 1
+
+accountability: 1
+
+accountable: 1
+
+accountants:: 1
+
+accounts: 1
+
+acheson: 1
+
+acid: 1
+
+acknowledged: 1
+
+acquiesce: 1
+
+acquisition: 1
+
+activating: 1
+
+actor: 1
+
+actors: 1
+
+actuarial: 1
+
+acute: 1
+
+adam: 1
+
+adamant: 1
+
+adapting: 1
+
+addiction: 1
+
+adding: 1
+
+addresses: 1
+
+adds: 1
+
+adenauer: 1
+
+adept: 1
+
+adjusting: 1
+
+administered: 1
+
+administrator: 1
+
+administrators: 1
+
+admittedly: 1
+
+admonish: 1
+
+adopt: 1
+
+adult: 1
+
+adultery: 1
+
+adults: 1
+
+advancement: 1
+
+advances: 1
+
+advantages: 1
+
+adventures: 1
+
+adversely: 1
+
+adversity: 1
+
+advertises: 1
+
+advisers: 1
+
+advisor: 1
+
+advocate: 1
+
+affiliation: 1
+
+affirm: 1
+
+affirmation: 1
+
+affirmative: 1
+
+affirmed: 1
+
+affirming: 1
+
+afflict: 1
+
+afflicted: 1
+
+afflicting: 1
+
+affliction: 1
+
+afforded: 1
+
+affording: 1
+
+affront: 1
+
+aflame: 1
+
+afterwards: 1
+
+agent: 1
+
+aggravating: 1
+
+aggregation: 1
+
+aggressors: 1
+
+aghast: 1
+
+aging: 1
+
+agonize: 1
+
+agreeing: 1
+
+agrees: 1
+
+agricultural: 1
+
+aids: 1
+
+aimed: 1
+
+aimlessness: 1
+
+aims: 1
+
+ain't: 1
+
+airborne: 1
+
+airplane: 1
+
+airs: 1
+
+airstrips: 1
+
+aisle: 1
+
+aka: 1
+
+akin: 1
+
+al: 1
+
+alarmed: 1
+
+albania: 1
+
+albert: 1
+
+alcoholism: 1
+
+alexandria: 1
+
+alexis: 1
+
+alibi: 1
+
+alibis: 1
+
+alight: 1
+
+allay: 1
+
+allegations: 1
+
+alleged: 1
+
+alleghenies: 1
+
+alleys: 1
+
+alliances: 1
+
+allison: 1
+
+allocations: 1
+
+allotment: 1
+
+allowances: 1
+
+allowing: 1
+
+alma: 1
+
+aloof: 1
+
+alphabet: 1
+
+altar: 1
+
+alter: 1
+
+always:: 1
+
+amazingly: 1
+
+ambiguity: 1
+
+ambitions: 1
+
+amen!: 1
+
+amended: 1
+
+america:: 1
+
+americanism: 1
+
+americanized: 1
+
+amiability: 1
+
+amigos: 1
+
+ammunition: 1
+
+amongst: 1
+
+amounted: 1
+
+ample: 1
+
+analyzing: 1
+
+ancestral: 1
+
+angels: 1
+
+angola: 1
+
+animation: 1
+
+animosity: 1
+
+anita: 1
+
+ankle: 1
+
+announcement: 1
+
+announcer:: 1
+
+announcing: 1
+
+annually: 1
+
+anonymous: 1
+
+ant: 1
+
+anteroom: 1
+
+anthropologic: 1
+
+anticipated: 1
+
+anticipating: 1
+
+anticommunism: 1
+
+antietam: 1
+
+antifamily: 1
+
+antioch: 1
+
+antiquated: 1
+
+antirevolutionaries: 1
+
+antithesis: 1
+
+antonio: 1
+
+anxiety: 1
+
+anymore: 1
+
+anyone's: 1
+
+anytime: 1
+
+apartheid: 1
+
+apartment: 1
+
+apartments: 1
+
+apathetically: 1
+
+apathy: 1
+
+apex: 1
+
+apologies: 1
+
+apology: 1
+
+apostle: 1
+
+apostles: 1
+
+appalachia: 1
+
+appalled: 1
+
+appalling: 1
+
+appeals: 1
+
+appearing: 1
+
+appears: 1
+
+appeasers: 1
+
+appetite: 1
+
+applaud: 1
+
+applicable: 1
+
+applies: 1
+
+applying: 1
+
+appointment: 1
+
+appomattox: 1
+
+appraisement: 1
+
+approached: 1
+
+appropriation: 1
+
+arabias: 1
+
+arafat: 1
+
+arbitrary: 1
+
+arch: 1
+
+architects: 1
+
+arduous: 1
+
+are:: 1
+
+aren: 1
+
+argentina: 1
+
+argonne: 1
+
+aright: 1
+
+aristocratic: 1
+
+aristotle: 1
+
+arkansas: 1
+
+arlington: 1
+
+arnold: 1
+
+arose: 1
+
+arouses: 1
+
+arrange: 1
+
+arrest: 1
+
+arrival: 1
+
+arrived: 1
+
+arrogant: 1
+
+articulate: 1
+
+articulated: 1
+
+artillery: 1
+
+ashes: 1
+
+aspect: 1
+
+aspects: 1
+
+aspiration:: 1
+
+assailants: 1
+
+assailing: 1
+
+assassin's: 1
+
+assassinate: 1
+
+assassinations: 1
+
+assaulted: 1
+
+assemble: 1
+
+assembled: 1
+
+assert: 1
+
+assessment: 1
+
+asset: 1
+
+assignments: 1
+
+assisi: 1
+
+assumes: 1
+
+assuming: 1
+
+assures: 1
+
+astaire: 1
+
+astonishment: 1
+
+astronaut: 1
+
+asunder: 1
+
+asylum: 1
+
+atheistic: 1
+
+atone: 1
+
+attached: 1
+
+attaching: 1
+
+attainable: 1
+
+attaining: 1
+
+attainment: 1
+
+attended: 1
+
+attending: 1
+
+attends: 1
+
+attic: 1
+
+attire: 1
+
+attitudes: 1
+
+attractive: 1
+
+attribute: 1
+
+attributed: 1
+
+attributes: 1
+
+aug: 1
+
+august:: 1
+
+austerity: 1
+
+australia: 1
+
+author: 1
+
+authorizations: 1
+
+automobiles: 1
+
+autopsy: 1
+
+autumn: 1
+
+avenues: 1
+
+aviation: 1
+
+avidly: 1
+
+avoids: 1
+
+awaits: 1
+
+awake: 1
+
+awakens: 1
+
+awful!: 1
+
+awkward: 1
+
+ayatollah: 1
+
+babel: 1
+
+babies: 1
+
+babysit: 1
+
+babysitting: 1
+
+backbone: 1
+
+backed: 1
+
+backgrounds: 1
+
+badly: 1
+
+bag: 1
+
+baggage: 1
+
+baghdad: 1
+
+bags: 1
+
+bail: 1
+
+baldwin's: 1
+
+ballistic: 1
+
+balloon: 1
+
+ballparks: 1
+
+baltic: 1
+
+banishing: 1
+
+baptism: 1
+
+baptists: 1
+
+bar: 1
+
+barber: 1
+
+barbers: 1
+
+barcelona: 1
+
+barefoot: 1
+
+barking: 1
+
+barn: 1
+
+barrio: 1
+
+barrow: 1
+
+bars: 1
+
+bas: 1
+
+basement: 1
+
+basements: 1
+
+basest: 1
+
+basics: 1
+
+basing: 1
+
+basketball: 1
+
+baskets: 1
+
+bastion: 1
+
+battered: 1
+
+battlefront: 1
+
+battleground: 1
+
+battlegrounds: 1
+
+battleships: 1
+
+bawl: 1
+
+bayonets: 1
+
+bb: 1
+
+be!: 1
+
+be:: 1
+
+beam: 1
+
+bearing: 1
+
+bears: 1
+
+beautifies: 1
+
+becalmed: 1
+
+beckoned: 1
+
+beckoning: 1
+
+bedouins: 1
+
+begetting: 1
+
+beggar: 1
+
+beggars: 1
+
+begrudge: 1
+
+beholden: 1
+
+belaboring: 1
+
+belatedly: 1
+
+beleaguered: 1
+
+belgian: 1
+
+believable: 1
+
+believers: 1
+
+belittle: 1
+
+belleau: 1
+
+belligerence: 1
+
+belligerent: 1
+
+benches: 1
+
+bending: 1
+
+beneath: 1
+
+beneficial: 1
+
+beneficiaries: 1
+
+beret: 1
+
+berkshire: 1
+
+berlin's: 1
+
+berlin:: 1
+
+berliner:: 1
+
+besieged: 1
+
+bestowed: 1
+
+betray: 1
+
+betrays: 1
+
+biblical: 1
+
+bicknell: 1
+
+bien: 1
+
+biggest: 1
+
+bigoted: 1
+
+bilateral: 1
+
+billie: 1
+
+biography: 1
+
+bipartisan: 1
+
+birdlegs!: 1
+
+birkenau: 1
+
+birthright: 1
+
+births: 1
+
+bishop: 1
+
+bizarre: 1
+
+blackboard: 1
+
+blade: 1
+
+blanket: 1
+
+blankets: 1
+
+blaspheme: 1
+
+blasphemers: 1
+
+blatant: 1
+
+blaze: 1
+
+bleached: 1
+
+bleachers: 1
+
+blight: 1
+
+blinking: 1
+
+blithely: 1
+
+blockade: 1
+
+bloodbaths: 1
+
+bloodstream: 1
+
+bloom: 1
+
+blot: 1
+
+blotted: 1
+
+blow: 1
+
+blowing: 1
+
+blown: 1
+
+blunder: 1
+
+blunted: 1
+
+bluntly:: 1
+
+blur: 1
+
+boardroom: 1
+
+boasts: 1
+
+bobby: 1
+
+bodes: 1
+
+boiling: 1
+
+boldly: 1
+
+bolted: 1
+
+bonus: 1
+
+boot: 1
+
+boots: 1
+
+bored: 1
+
+bork: 1
+
+borrow: 1
+
+borrowin': 1
+
+borrowing: 1
+
+bosh: 1
+
+bosom: 1
+
+bosses: 1
+
+bottoms: 1
+
+bounds: 1
+
+bounty: 1
+
+bowl: 1
+
+boxes: 1
+
+braces: 1
+
+bragging: 1
+
+brain: 1
+
+brash: 1
+
+brass: 1
+
+breakfast: 1
+
+breakthroughs: 1
+
+breast: 1
+
+breasts: 1
+
+breathe: 1
+
+breed: 1
+
+breeds: 1
+
+breeze: 1
+
+brethren: 1
+
+bridges: 1
+
+briefing: 1
+
+brighten: 1
+
+brightly: 1
+
+brilliance: 1
+
+brilliant: 1
+
+brilliantly: 1
+
+brisk: 1
+
+broadening: 1
+
+broadest: 1
+
+broadly: 1
+
+broke: 1
+
+bruised: 1
+
+brutalizing: 1
+
+brutally: 1
+
+brute: 1
+
+buchenwald: 1
+
+buddhists: 1
+
+buddies: 1
+
+buddy: 1
+
+budgetary: 1
+
+bueller: 1
+
+buenas: 1
+
+bugles: 1
+
+builder: 1
+
+builds: 1
+
+bulldozers: 1
+
+bullies: 1
+
+bullying: 1
+
+bum: 1
+
+bunker: 1
+
+bureaucracy: 1
+
+bureaucratic: 1
+
+bureaucrats: 1
+
+bureaus: 1
+
+burford: 1
+
+burke: 1
+
+burma: 1
+
+burners: 1
+
+burnings: 1
+
+burnt: 1
+
+burst: 1
+
+burt: 1
+
+bush:: 1
+
+bust: 1
+
+buttonhole: 1
+
+buying: 1
+
+bye: 1
+
+byers: 1
+
+bys: 1
+
+bystanders: 1
+
+cabbage: 1
+
+cabbies: 1
+
+cabinet: 1
+
+cabot: 1
+
+cafeteria: 1
+
+cajole: 1
+
+calculate: 1
+
+calluses: 1
+
+calvinist: 1
+
+cambodians: 1
+
+cambric: 1
+
+cambridge: 1
+
+camouflage: 1
+
+campfires: 1
+
+cancer: 1
+
+candid: 1
+
+candidates: 1
+
+candor: 1
+
+cane: 1
+
+capita: 1
+
+capitalist: 1
+
+capitols: 1
+
+capped: 1
+
+captain: 1
+
+captains: 1
+
+captive: 1
+
+carbon: 1
+
+carboniferous: 1
+
+cardinal: 1
+
+carefully: 1
+
+carelessly: 1
+
+caressed: 1
+
+carnegie: 1
+
+carpenter: 1
+
+carpeted: 1
+
+carpools: 1
+
+cartels: 1
+
+carter: 1
+
+carter:: 1
+
+castoff: 1
+
+casual: 1
+
+casually: 1
+
+catalog: 1
+
+catching: 1
+
+categories:: 1
+
+catholicism: 1
+
+causing: 1
+
+ccc: 1
+
+ceases: 1
+
+celebration: 1
+
+celebrity: 1
+
+cells: 1
+
+cement: 1
+
+cements: 1
+
+censored: 1
+
+centers: 1
+
+century's: 1
+
+century:: 1
+
+cerebral: 1
+
+certificate: 1
+
+certified: 1
+
+chagrined: 1
+
+chairmaning: 1
+
+chairmen: 1
+
+chalice: 1
+
+change:: 1
+
+chapel: 1
+
+characterize: 1
+
+characters: 1
+
+charles: 1
+
+charming: 1
+
+chart: 1
+
+charted: 1
+
+chauffeur: 1
+
+cheap: 1
+
+checkpoints: 1
+
+checkups: 1
+
+cheeks: 1
+
+cheerfully: 1
+
+chemical: 1
+
+chemicals: 1
+
+chicanery: 1
+
+chicano:: 1
+
+chico: 1
+
+chiefs: 1
+
+childhood: 1
+
+chile: 1
+
+chilled: 1
+
+chin: 1
+
+chinaman: 1
+
+chinamen: 1
+
+chips: 1
+
+chitt'lin': 1
+
+chivalry: 1
+
+choice:: 1
+
+choked: 1
+
+chop: 1
+
+chorus: 1
+
+chosin: 1
+
+christa: 1
+
+christianity: 1
+
+christine: 1
+
+chump: 1
+
+cia: 1
+
+cif: 1
+
+cincinnati: 1
+
+circulated: 1
+
+circuses: 1
+
+citation: 1
+
+citations: 1
+
+cite: 1
+
+citizenry: 1
+
+civilized: 1
+
+civis: 1
+
+clanged: 1
+
+clapping: 1
+
+clarity: 1
+
+clark: 1
+
+classic: 1
+
+classroom: 1
+
+clay: 1
+
+clayton: 1
+
+cleaning: 1
+
+cleansing: 1
+
+clearing: 1
+
+clearly:: 1
+
+clenched: 1
+
+clergyman: 1
+
+clergymen: 1
+
+clever: 1
+
+clicking: 1
+
+client: 1
+
+cling: 1
+
+clip: 1
+
+clique: 1
+
+clock: 1
+
+clorox: 1
+
+closely: 1
+
+closings: 1
+
+cloth: 1
+
+clouds: 1
+
+clubbed: 1
+
+clumsy: 1
+
+clutches: 1
+
+cluttered: 1
+
+coach: 1
+
+coannihilation: 1
+
+coasts: 1
+
+coats: 1
+
+coaxed: 1
+
+cobo: 1
+
+cocaine: 1
+
+cocker: 1
+
+coercive: 1
+
+coexistence: 1
+
+coinage: 1
+
+collaborates: 1
+
+collapsed: 1
+
+collar!: 1
+
+colleague:: 1
+
+collecting: 1
+
+collective: 1
+
+collector's: 1
+
+colorado: 1
+
+colossus: 1
+
+columbus: 1
+
+combination: 1
+
+come!: 1
+
+comity: 1
+
+commanders: 1
+
+commanding: 1
+
+commenced: 1
+
+commendation: 1
+
+commensurate: 1
+
+commented: 1
+
+commenting: 1
+
+commitment:: 1
+
+commodities: 1
+
+commonplace: 1
+
+communicating: 1
+
+communion: 1
+
+communities:: 1
+
+compact: 1
+
+compacts: 1
+
+compartments: 1
+
+compass: 1
+
+compatible: 1
+
+competitions: 1
+
+competitive: 1
+
+complacency: 1
+
+complain: 1
+
+complaint: 1
+
+compliance: 1
+
+complications: 1
+
+component: 1
+
+compose: 1
+
+composer: 1
+
+compounds: 1
+
+compromises: 1
+
+compulsory: 1
+
+computations: 1
+
+computer: 1
+
+computerized: 1
+
+comrades: 1
+
+conant: 1
+
+concede: 1
+
+conceivable: 1
+
+conceived: 1
+
+concentrating: 1
+
+concentrations: 1
+
+conceptions: 1
+
+concisely: 1
+
+conclusion:: 1
+
+concussion: 1
+
+condensed: 1
+
+condition:: 1
+
+condone: 1
+
+condones: 1
+
+condoning: 1
+
+conducting: 1
+
+conduit: 1
+
+confidences: 1
+
+confidential: 1
+
+confining: 1
+
+confirmed: 1
+
+confirming: 1
+
+confiscation: 1
+
+conflict:: 1
+
+conform: 1
+
+conformist: 1
+
+confront: 1
+
+confronts: 1
+
+confucianists: 1
+
+congealed: 1
+
+congratulate: 1
+
+congregation: 1
+
+conjunction: 1
+
+conley: 1
+
+connected: 1
+
+connecticut: 1
+
+connections:: 1
+
+conquered: 1
+
+conquering: 1
+
+conquerors: 1
+
+consciences: 1
+
+consecrate: 1
+
+consequence: 1
+
+consequently: 1
+
+conservative: 1
+
+conserve: 1
+
+considerably: 1
+
+consideration:: 1
+
+consolation: 1
+
+conspicuous: 1
+
+conspire: 1
+
+constituency: 1
+
+constitute: 1
+
+construct: 1
+
+constructed: 1
+
+consulates: 1
+
+consulting: 1
+
+contemplate: 1
+
+contented: 1
+
+contentment: 1
+
+continuation: 1
+
+continuous: 1
+
+contributors: 1
+
+conundrum: 1
+
+convened: 1
+
+conveniently: 1
+
+convention:: 1
+
+conversion: 1
+
+convey: 1
+
+conveyed: 1
+
+convocation: 1
+
+cook: 1
+
+cool: 1
+
+cooling: 1
+
+cooperate: 1
+
+cooperates: 1
+
+cooperations: 1
+
+cooperative: 1
+
+coordinating: 1
+
+copies: 1
+
+copy: 1
+
+cordial: 1
+
+corn: 1
+
+corollary: 1
+
+corps!: 1
+
+corpsman: 1
+
+correctly: 1
+
+corridors: 1
+
+corroborate: 1
+
+cottage: 1
+
+cottages: 1
+
+cotulla: 1
+
+couched: 1
+
+council:: 1
+
+counseled: 1
+
+counsels: 1
+
+countenance: 1
+
+counterrevolutionary: 1
+
+country:: 1
+
+counts: 1
+
+courageously: 1
+
+courteous: 1
+
+covetousness: 1
+
+cowardly: 1
+
+cradle: 1
+
+crate: 1
+
+crawl: 1
+
+creativity: 1
+
+creature: 1
+
+creatures: 1
+
+credit: 1
+
+credo:: 1
+
+creed:: 1
+
+creeds: 1
+
+crest: 1
+
+crew:: 1
+
+crews: 1
+
+cricket: 1
+
+crime': 1
+
+criminals: 1
+
+cringe: 1
+
+cringed: 1
+
+crinklings: 1
+
+critically: 1
+
+crocodile: 1
+
+crop: 1
+
+crossing: 1
+
+crowded: 1
+
+crowns: 1
+
+crudely: 1
+
+cruelly: 1
+
+crushes: 1
+
+cry: 1
+
+cuff: 1
+
+cultures: 1
+
+cuomo:: 1
+
+cup: 1
+
+cupboard: 1
+
+curb: 1
+
+curfew: 1
+
+curiosity: 1
+
+currencies: 1
+
+curricula: 1
+
+cursing: 1
+
+curtailing: 1
+
+curtain: 1
+
+curvaceous: 1
+
+cussing: 1
+
+custodians: 1
+
+cute: 1
+
+cymbal: 1
+
+cynical: 1
+
+cynically: 1
+
+cynicism: 1
+
+dad: 1
+
+daddy: 1
+
+dallas: 1
+
+dallas:: 1
+
+damages: 1
+
+damming: 1
+
+damning: 1
+
+dangerously: 1
+
+daniel: 1
+
+danville: 1
+
+dared: 1
+
+dares: 1
+
+darker: 1
+
+darkest: 1
+
+darwin: 1
+
+darwinism: 1
+
+dastardly: 1
+
+daybreak: 1
+
+daycare: 1
+
+dazzle: 1
+
+dea: 1
+
+deadlock: 1
+
+deaf: 1
+
+deafness: 1
+
+dealers: 1
+
+dean: 1
+
+dear!: 1
+
+deaver: 1
+
+debased: 1
+
+debates: 1
+
+debts: 1
+
+dec: 1
+
+decay: 1
+
+deceased: 1
+
+deceitfully: 1
+
+deceive: 1
+
+decently: 1
+
+decentralized: 1
+
+deception: 1
+
+decides: 1
+
+decisively: 1
+
+declining: 1
+
+decorated: 1
+
+decreased: 1
+
+decree: 1
+
+decreed: 1
+
+deemed: 1
+
+deer: 1
+
+defaulted: 1
+
+defeating: 1
+
+defeats: 1
+
+defects: 1
+
+defends: 1
+
+defense!: 1
+
+deferred: 1
+
+definitely: 1
+
+definition: 1
+
+deflect: 1
+
+defray: 1
+
+defy: 1
+
+degenerate: 1
+
+degraded: 1
+
+deist: 1
+
+dejected: 1
+
+deliberate: 1
+
+deliberation: 1
+
+deluding: 1
+
+delusion: 1
+
+demagogue: 1
+
+demeanor: 1
+
+demerits: 1
+
+demilitarized: 1
+
+demise: 1
+
+democracies:: 1
+
+demonic: 1
+
+demoralizing: 1
+
+dentist: 1
+
+denton: 1
+
+depart: 1
+
+departments: 1
+
+departures: 1
+
+dependability: 1
+
+depended: 1
+
+depicting: 1
+
+deployed: 1
+
+deploying: 1
+
+deportation: 1
+
+depressing: 1
+
+deranged: 1
+
+derelict: 1
+
+derived: 1
+
+descendants: 1
+
+descent: 1
+
+describes: 1
+
+describing: 1
+
+desert: 1
+
+deserts: 1
+
+deserved: 1
+
+designating: 1
+
+desirable: 1
+
+despaired: 1
+
+despoiling: 1
+
+destabilizing: 1
+
+destinies: 1
+
+destiny!: 1
+
+destitute: 1
+
+destitution: 1
+
+deterioration: 1
+
+determinations: 1
+
+deterrence: 1
+
+deters: 1
+
+dethk: 1
+
+detrimental: 1
+
+devastated: 1
+
+develops: 1
+
+device: 1
+
+devils: 1
+
+devotees: 1
+
+devotions: 1
+
+devoutly: 1
+
+dexter: 1
+
+diamond!: 1
+
+diamonds!: 1
+
+diary: 1
+
+dicky: 1
+
+dictatorship: 1
+
+diction: 1
+
+diem's: 1
+
+dien: 1
+
+diepgen: 1
+
+diet: 1
+
+difference:: 1
+
+differentiate: 1
+
+differs: 1
+
+dig: 1
+
+dignified: 1
+
+digs: 1
+
+diligence: 1
+
+diligent: 1
+
+dillydally: 1
+
+diluted: 1
+
+dim: 1
+
+diminished: 1
+
+ding: 1
+
+dipped: 1
+
+director: 1
+
+disabused: 1
+
+disagreed: 1
+
+disappearing: 1
+
+disappointment: 1
+
+disapprove: 1
+
+disarm: 1
+
+disbursement: 1
+
+discarded: 1
+
+discarding: 1
+
+disciplined: 1
+
+discloses: 1
+
+disclosing: 1
+
+discomfort: 1
+
+discord: 1
+
+discordant: 1
+
+discourage: 1
+
+discouragement: 1
+
+discouraging: 1
+
+discovering: 1
+
+discriminate: 1
+
+discriminator: 1
+
+discriminatory: 1
+
+disembark: 1
+
+disengage: 1
+
+disgraceful: 1
+
+disguise: 1
+
+disguised: 1
+
+dishonor: 1
+
+disliked: 1
+
+dislocation: 1
+
+dismayed: 1
+
+dismissing: 1
+
+disorder: 1
+
+dispel: 1
+
+dispensation: 1
+
+display: 1
+
+displayed: 1
+
+displeasure: 1
+
+disposal: 1
+
+dispositions: 1
+
+disrespect: 1
+
+disruption: 1
+
+dissatisfactions: 1
+
+dissident: 1
+
+dissipated: 1
+
+dissolution: 1
+
+distances: 1
+
+distill: 1
+
+distort: 1
+
+distorts: 1
+
+distribute: 1
+
+districts: 1
+
+distrustful: 1
+
+disturbances: 1
+
+disturbing: 1
+
+disunity: 1
+
+ditch: 1
+
+dive: 1
+
+diverge: 1
+
+divert: 1
+
+divides: 1
+
+diving: 1
+
+do:: 1
+
+doctor: 1
+
+doctors: 1
+
+doctrines: 1
+
+doling: 1
+
+dominant: 1
+
+dominion: 1
+
+dominoes: 1
+
+dong: 1
+
+donna: 1
+
+doorman: 1
+
+dorr: 1
+
+doses: 1
+
+dotted: 1
+
+doubly: 1
+
+doubting: 1
+
+douglas: 1
+
+down!: 1
+
+downfall: 1
+
+downtown: 1
+
+downward: 1
+
+dozens: 1
+
+drab: 1
+
+drafted: 1
+
+drag: 1
+
+dragging: 1
+
+drained: 1
+
+drainings: 1
+
+drake: 1
+
+drake's: 1
+
+dramatically: 1
+
+dramatize: 1
+
+drawer: 1
+
+draws: 1
+
+dreaded: 1
+
+dreamt: 1
+
+dreary: 1
+
+dress: 1
+
+dressing: 1
+
+drifts: 1
+
+driftwood: 1
+
+drill: 1
+
+drivers: 1
+
+drizzling: 1
+
+dropout: 1
+
+dropping: 1
+
+drops: 1
+
+drove: 1
+
+drums: 1
+
+dubious: 1
+
+dudes: 1
+
+dudish: 1
+
+dues: 1
+
+dug: 1
+
+dugouts: 1
+
+duke: 1
+
+duluth: 1
+
+dumb: 1
+
+duncan: 1
+
+dupes: 1
+
+duplicated: 1
+
+duplicates: 1
+
+dust: 1
+
+dusty: 1
+
+dutchman: 1
+
+dwarfs: 1
+
+dwelleth: 1
+
+dynamic: 1
+
+each's: 1
+
+eager: 1
+
+eagerly: 1
+
+ear:: 1
+
+earlier:: 1
+
+earliest: 1
+
+earnest: 1
+
+earnestness: 1
+
+earns: 1
+
+earth's: 1
+
+earthly: 1
+
+easiest: 1
+
+eastward: 1
+
+eater: 1
+
+ebbs: 1
+
+echoes:: 1
+
+economies: 1
+
+economist: 1
+
+economists: 1
+
+ed: 1
+
+eden: 1
+
+edgartown: 1
+
+edgewise: 1
+
+edifice: 1
+
+editorializing: 1
+
+effecting: 1
+
+effectiveness: 1
+
+efficacious: 1
+
+efficiency: 1
+
+egypt: 1
+
+eichmann: 1
+
+eighth: 1
+
+eights: 1
+
+einen: 1
+
+elder: 1
+
+elders: 1
+
+election:: 1
+
+electorate: 1
+
+electric: 1
+
+electronic: 1
+
+elegy: 1
+
+elevators: 1
+
+elias: 1
+
+elicit: 1
+
+elicits: 1
+
+elie: 1
+
+eligible: 1
+
+eliminated: 1
+
+elk: 1
+
+ellison: 1
+
+elmo: 1
+
+eloquent: 1
+
+emanating: 1
+
+embark: 1
+
+embattled: 1
+
+embodiment: 1
+
+embrace: 1
+
+embraced: 1
+
+embraces: 1
+
+embracing: 1
+
+emerge: 1
+
+emerged: 1
+
+emergence: 1
+
+emergent: 1
+
+emigrating: 1
+
+eminence: 1
+
+emphasize: 1
+
+emphatic: 1
+
+employ: 1
+
+employee: 1
+
+emptiness: 1
+
+enabling: 1
+
+encircled: 1
+
+encircles: 1
+
+encounter: 1
+
+encouraged!: 1
+
+endangered: 1
+
+endowed: 1
+
+energetic: 1
+
+enforced: 1
+
+enforcement: 1
+
+enforcing: 1
+
+engineer: 1
+
+engraved: 1
+
+engraving: 1
+
+engulf: 1
+
+engulfing: 1
+
+enhance: 1
+
+enhanced: 1
+
+enjoined: 1
+
+enlarged: 1
+
+enlarging: 1
+
+enlist: 1
+
+ennoblement: 1
+
+enriched: 1
+
+enriches: 1
+
+enrichment: 1
+
+enslave: 1
+
+entertain: 1
+
+entertained: 1
+
+entertainment: 1
+
+enthusiasm: 1
+
+enthusiasms: 1
+
+entity: 1
+
+entrepreneurs: 1
+
+entry: 1
+
+envious: 1
+
+envision: 1
+
+envy: 1
+
+enwelophs: 1
+
+enwelophs!: 1
+
+ephemeral: 1
+
+epidemic: 1
+
+episcopalian: 1
+
+epistle: 1
+
+epithets: 1
+
+epoch: 1
+
+equals: 1
+
+equation: 1
+
+equilibrium: 1
+
+equip: 1
+
+equipped: 1
+
+eradicate: 1
+
+erasing: 1
+
+erhard: 1
+
+eritrea: 1
+
+eroding: 1
+
+erosion: 1
+
+errs: 1
+
+es: 1
+
+escalating: 1
+
+escalation: 1
+
+escaped: 1
+
+especial: 1
+
+essentials: 1
+
+essex: 1
+
+estates: 1
+
+esteem: 1
+
+estes: 1
+
+etch: 1
+
+eternally: 1
+
+eternity: 1
+
+ethical: 1
+
+ethiopia: 1
+
+ethnics: 1
+
+etymologically: 1
+
+euphrates: 1
+
+evaluation: 1
+
+evangelists: 1
+
+evangelizes: 1
+
+evaporate: 1
+
+evasiveness: 1
+
+evenly: 1
+
+everybody's: 1
+
+everyday: 1
+
+evidenced: 1
+
+evidently: 1
+
+eviscerated: 1
+
+exact: 1
+
+exacted: 1
+
+exaggerate: 1
+
+examination: 1
+
+examine: 1
+
+examples:: 1
+
+excel: 1
+
+excellencies: 1
+
+excelling: 1
+
+excerpts: 1
+
+excesses: 1
+
+excessively: 1
+
+exchange:: 1
+
+exchanges: 1
+
+exclude: 1
+
+excluding: 1
+
+exclusive: 1
+
+execution: 1
+
+exegesis: 1
+
+exemplar: 1
+
+exempt: 1
+
+exemptions: 1
+
+exhausted: 1
+
+exhausts: 1
+
+exhilarating: 1
+
+exhort: 1
+
+exiled: 1
+
+expectations: 1
+
+expelled: 1
+
+expense: 1
+
+exploiter: 1
+
+exploits: 1
+
+explorer: 1
+
+exploring: 1
+
+exporting: 1
+
+exposing: 1
+
+exposition: 1
+
+expresses: 1
+
+expropriation: 1
+
+extends: 1
+
+external: 1
+
+extinction: 1
+
+extortionist: 1
+
+extraordinarily: 1
+
+extremist: 1
+
+extremists: 1
+
+extricating: 1
+
+facie: 1
+
+facile: 1
+
+faction: 1
+
+factional: 1
+
+factory: 1
+
+faculty: 1
+
+fade: 1
+
+faded: 1
+
+fainthearted: 1
+
+faiths:: 1
+
+fallibility: 1
+
+fallible: 1
+
+falsehood: 1
+
+falsely: 1
+
+falter: 1
+
+falwell:: 1
+
+fame: 1
+
+famed: 1
+
+fanatics: 1
+
+fantasies: 1
+
+fare: 1
+
+farthest: 1
+
+fascinating: 1
+
+fashionable: 1
+
+fastener: 1
+
+fatal: 1
+
+father's: 1
+
+fatigue: 1
+
+faulkner:: 1
+
+favorable: 1
+
+favorably: 1
+
+favored: 1
+
+fealty: 1
+
+fearing: 1
+
+feathered: 1
+
+feature: 1
+
+features: 1
+
+federalism: 1
+
+feeds: 1
+
+fees: 1
+
+fellowed: 1
+
+ferraro: 1
+
+ferraro:: 1
+
+fertile: 1
+
+fewest: 1
+
+fha: 1
+
+fiat: 1
+
+fifths: 1
+
+fifties: 1
+
+fightin: 1
+
+fights: 1
+
+figured: 1
+
+figures: 1
+
+fillmore: 1
+
+fills: 1
+
+filth: 1
+
+filthy: 1
+
+finagling: 1
+
+finances: 1
+
+financially: 1
+
+financing: 1
+
+finer: 1
+
+fingered: 1
+
+fingernails: 1
+
+firewood: 1
+
+firmament: 1
+
+firmness: 1
+
+fisheries: 1
+
+fists: 1
+
+fitness: 1
+
+fittingly: 1
+
+flamboyant: 1
+
+flashy: 1
+
+flatly: 1
+
+flaw:: 1
+
+flawed: 1
+
+fled: 1
+
+flee: 1
+
+flew: 1
+
+flight: 1
+
+flights: 1
+
+flinging: 1
+
+flooding: 1
+
+floors: 1
+
+florida: 1
+
+flout: 1
+
+flowering: 1
+
+flowers: 1
+
+flung: 1
+
+flyleaf: 1
+
+foaming: 1
+
+foggy: 1
+
+follows: 1
+
+follows:: 1
+
+fondest: 1
+
+foodstuffs: 1
+
+fooled: 1
+
+foolish: 1
+
+foolishly: 1
+
+fools: 1
+
+foothold: 1
+
+footsteps: 1
+
+forbearance: 1
+
+forbid: 1
+
+forcibly: 1
+
+ford:: 1
+
+fore: 1
+
+forecasting: 1
+
+foreclosed: 1
+
+foreclosure: 1
+
+forefront: 1
+
+foremost: 1
+
+foreseen: 1
+
+foresight: 1
+
+foretell: 1
+
+forfeiting: 1
+
+forge: 1
+
+forget:: 1
+
+forgive: 1
+
+forgiveness: 1
+
+forgotten:: 1
+
+forlorn: 1
+
+formalities: 1
+
+formalized: 1
+
+formation: 1
+
+formations: 1
+
+formosa: 1
+
+formulate: 1
+
+forsaking: 1
+
+forthcoming: 1
+
+forties: 1
+
+fortified: 1
+
+fortunes: 1
+
+forums: 1
+
+forwarded: 1
+
+fostering: 1
+
+foulest: 1
+
+fouling: 1
+
+founds: 1
+
+fountainhead: 1
+
+fountains: 1
+
+fourteen: 1
+
+fowler: 1
+
+foxholes: 1
+
+fraction: 1
+
+fragile: 1
+
+fragmentation: 1
+
+frail: 1
+
+france:: 1
+
+frankly: 1
+
+fraternal: 1
+
+fraud: 1
+
+fray: 1
+
+freer: 1
+
+frenchman: 1
+
+frenzied: 1
+
+frenzy: 1
+
+frequent: 1
+
+fresh: 1
+
+freshness: 1
+
+friends!: 1
+
+frighten: 1
+
+frighteningly: 1
+
+frivolous: 1
+
+frog: 1
+
+frontier:: 1
+
+frozen: 1
+
+frugality: 1
+
+fruit: 1
+
+frustrated:: 1
+
+frustrating: 1
+
+frustration: 1
+
+frustrations: 1
+
+fuels: 1
+
+fullbright: 1
+
+fuller: 1
+
+fun!: 1
+
+funeral: 1
+
+funneled: 1
+
+funny: 1
+
+furnishing: 1
+
+furniture: 1
+
+furthering: 1
+
+futility: 1
+
+fuzzy: 1
+
+g: 1
+
+gadgets: 1
+
+gainful: 1
+
+gaining: 1
+
+galamison: 1
+
+galaxy: 1
+
+gallantly: 1
+
+gallantry: 1
+
+gallon: 1
+
+galvanizing: 1
+
+gamble: 1
+
+gambles: 1
+
+games: 1
+
+gander: 1
+
+gandhi: 1
+
+gaps: 1
+
+gash: 1
+
+gasohol: 1
+
+gateways: 1
+
+gather: 1
+
+gauged: 1
+
+gaulle: 1
+
+gaunt: 1
+
+gaze: 1
+
+geared: 1
+
+gehrig:: 1
+
+generally: 1
+
+geniality: 1
+
+gentry: 1
+
+genuinely: 1
+
+geography: 1
+
+geologic: 1
+
+geologists: 1
+
+germany:: 1
+
+gerrymandering: 1
+
+gestures: 1
+
+ghastly: 1
+
+ghetto: 1
+
+ghostly: 1
+
+ghosts: 1
+
+gibt: 1
+
+gifts: 1
+
+ginger: 1
+
+giveth: 1
+
+gladiator: 1
+
+glance: 1
+
+glands: 1
+
+glaring: 1
+
+glee: 1
+
+glistening: 1
+
+gloria: 1
+
+glorious: 1
+
+glow: 1
+
+gobbler: 1
+
+godliness: 1
+
+gods: 1
+
+godspeed: 1
+
+goethe's: 1
+
+goin: 1
+
+golconda: 1
+
+golden: 1
+
+goldwater's: 1
+
+goldwater:: 1
+
+gooders: 1
+
+goose: 1
+
+gorbachev:: 1
+
+gossip: 1
+
+gotta: 1
+
+governments': 1
+
+governor:: 1
+
+governs: 1
+
+graces: 1
+
+gracious: 1
+
+grade: 1
+
+gradualism: 1
+
+graduates: 1
+
+graduating: 1
+
+graduation: 1
+
+grammar: 1
+
+grandbaby: 1
+
+grandchildren: 1
+
+granddaughter: 1
+
+grande: 1
+
+grandeur: 1
+
+grandfather: 1
+
+grandmama: 1
+
+grandmother: 1
+
+granite: 1
+
+graphic: 1
+
+graphically: 1
+
+grasshopper: 1
+
+grassroots: 1
+
+grazing: 1
+
+greed: 1
+
+greedy: 1
+
+greek's: 1
+
+greetings: 1
+
+gregory: 1
+
+griefs: 1
+
+grieve: 1
+
+grievous: 1
+
+grimly: 1
+
+grins: 1
+
+grounded: 1
+
+groundskeepers: 1
+
+groups:: 1
+
+grove: 1
+
+grownups: 1
+
+grunewald: 1
+
+guadalcanal: 1
+
+guardian: 1
+
+guardians: 1
+
+guards: 1
+
+guesses: 1
+
+guest: 1
+
+guests: 1
+
+guided: 1
+
+guidelines: 1
+
+guidepost: 1
+
+guides: 1
+
+guinea: 1
+
+gulag: 1
+
+guts: 1
+
+gutted: 1
+
+gutter: 1
+
+guy: 1
+
+h: 1
+
+hab: 1
+
+haig: 1
+
+haile: 1
+
+hair!: 1
+
+hale: 1
+
+hallway: 1
+
+hamilton: 1
+
+hamlets: 1
+
+hammered: 1
+
+hampshire: 1
+
+handicaps: 1
+
+handkerchief: 1
+
+handkerchiefs: 1
+
+handled: 1
+
+handling: 1
+
+handshakes: 1
+
+handsomeness: 1
+
+hanging: 1
+
+happily: 1
+
+harassed: 1
+
+harassment: 1
+
+harbors: 1
+
+hardest: 1
+
+hardraker: 1
+
+harming: 1
+
+harness: 1
+
+harnessing: 1
+
+harp: 1
+
+harrassment: 1
+
+harrowing: 1
+
+harry: 1
+
+harsher: 1
+
+hart: 1
+
+harvesting: 1
+
+hasn: 1
+
+haste: 1
+
+hastened: 1
+
+hastening: 1
+
+hasting: 1
+
+hatcher: 1
+
+hatreds: 1
+
+hats: 1
+
+hawaii: 1
+
+hawaiian: 1
+
+hawkins: 1
+
+haze: 1
+
+he': 1
+
+healed: 1
+
+heap: 1
+
+heart:: 1
+
+heartbeat: 1
+
+heaven!: 1
+
+heaven's: 1
+
+heavenly: 1
+
+heckled: 1
+
+hectic: 1
+
+heel: 1
+
+heels: 1
+
+heightening: 1
+
+heir: 1
+
+hellish: 1
+
+helps: 1
+
+her!: 1
+
+herbert: 1
+
+hercules: 1
+
+herd: 1
+
+heretofore: 1
+
+hereunto: 1
+
+heroes:: 1
+
+herring: 1
+
+herz: 1
+
+hesitated: 1
+
+hesitation: 1
+
+heterogeneous: 1
+
+hew: 1
+
+hidden: 1
+
+hides: 1
+
+hierarchy: 1
+
+higher:: 1
+
+highfalutin': 1
+
+highlight: 1
+
+hillary: 1
+
+hilltops: 1
+
+hindu: 1
+
+hinglish: 1
+
+hinted: 1
+
+hire: 1
+
+hired: 1
+
+hiring: 1
+
+hiroshima: 1
+
+hispanics: 1
+
+hissed: 1
+
+historian: 1
+
+historians: 1
+
+historical: 1
+
+historically: 1
+
+hits: 1
+
+hoarders: 1
+
+hoarding: 1
+
+hobbled: 1
+
+hobson!: 1
+
+hoffer: 1
+
+hogwash: 1
+
+holbrooke: 1
+
+holder: 1
+
+hole: 1
+
+holler: 1
+
+hollywood: 1
+
+holocausts: 1
+
+homework: 1
+
+hong: 1
+
+honkies: 1
+
+honolulu: 1
+
+hoogagagooba: 1
+
+hoping: 1
+
+hordes: 1
+
+horizons: 1
+
+horrified: 1
+
+hospital: 1
+
+hospitalized: 1
+
+hospitals: 1
+
+host: 1
+
+hostages: 1
+
+hotels: 1
+
+household: 1
+
+housekeeping: 1
+
+housewife: 1
+
+howe: 1
+
+hubs: 1
+
+huddle: 1
+
+hues: 1
+
+hug: 1
+
+huggins: 1
+
+hughes: 1
+
+hugs: 1
+
+humanist: 1
+
+humanity:: 1
+
+humankind: 1
+
+humbleness: 1
+
+humbling: 1
+
+humbly: 1
+
+humiliated: 1
+
+hundredfold: 1
+
+hungary: 1
+
+hunt: 1
+
+hurrah: 1
+
+hurry: 1
+
+hurting: 1
+
+hurts!: 1
+
+hut: 1
+
+hyde: 1
+
+hymns: 1
+
+hypocritical: 1
+
+hypothetical: 1
+
+iceland: 1
+
+idealistic: 1
+
+ideologies: 1
+
+ideology: 1
+
+idol: 1
+
+idolatry: 1
+
+idolizes: 1
+
+ignorance:: 1
+
+ignored: 1
+
+ignores: 1
+
+illegally: 1
+
+illimitable: 1
+
+illiterate: 1
+
+illusion: 1
+
+illustrated: 1
+
+illustrates: 1
+
+illustrating: 1
+
+illustrations:: 1
+
+illustrious: 1
+
+imbalance: 1
+
+imbecile: 1
+
+immature: 1
+
+immigrant: 1
+
+immobility: 1
+
+immorality: 1
+
+immunity: 1
+
+impaired: 1
+
+impatience: 1
+
+imperialism: 1
+
+implement: 1
+
+implicit: 1
+
+importation: 1
+
+imports: 1
+
+impoverishes: 1
+
+impress: 1
+
+impression: 1
+
+imprinted: 1
+
+imprison: 1
+
+improper: 1
+
+improvement: 1
+
+improvements: 1
+
+improvisation: 1
+
+impulsively: 1
+
+inaccurate: 1
+
+inaction: 1
+
+inadequate: 1
+
+inalienable: 1
+
+inappropriate: 1
+
+inaudible: 1
+
+inaugurated: 1
+
+inc: 1
+
+incandescently: 1
+
+incendiary: 1
+
+incited: 1
+
+inciting: 1
+
+inclination: 1
+
+inclined: 1
+
+incomes: 1
+
+incoming: 1
+
+incompetence: 1
+
+incompetent: 1
+
+inconsequential: 1
+
+inconsistency: 1
+
+incredible: 1
+
+incurring: 1
+
+incursion: 1
+
+indecision: 1
+
+indefensible: 1
+
+indefinite: 1
+
+indescribable: 1
+
+index: 1
+
+indicate: 1
+
+indicted: 1
+
+indictment: 1
+
+indignant: 1
+
+indignity: 1
+
+indomitable: 1
+
+indonesia: 1
+
+indulge: 1
+
+indulged: 1
+
+indulgence: 1
+
+indus: 1
+
+industrialists: 1
+
+industrialized: 1
+
+ineffably: 1
+
+inept: 1
+
+inexperienced: 1
+
+inexplicable: 1
+
+inextricably: 1
+
+infant's: 1
+
+inferiority: 1
+
+infest: 1
+
+infiltrated: 1
+
+infinite: 1
+
+infirm: 1
+
+inflations: 1
+
+inflexible: 1
+
+inherent: 1
+
+inhuman: 1
+
+inhumanity: 1
+
+injecting: 1
+
+injunction: 1
+
+injured: 1
+
+injuries: 1
+
+injustices: 1
+
+innocence: 1
+
+innocent: 1
+
+innovating: 1
+
+innovative: 1
+
+innuendo: 1
+
+innumerable: 1
+
+inquired: 1
+
+inquirers: 1
+
+inquisition: 1
+
+insane: 1
+
+insanity: 1
+
+insides: 1
+
+insidious: 1
+
+insight: 1
+
+insignificant: 1
+
+insistence: 1
+
+insofar: 1
+
+insolvent: 1
+
+instigating: 1
+
+instincts: 1
+
+instituted: 1
+
+instituting: 1
+
+institutions:: 1
+
+instructed: 1
+
+instructing: 1
+
+instruction: 1
+
+instructor: 1
+
+insured: 1
+
+insurgency: 1
+
+intact: 1
+
+intellect: 1
+
+intelligence: 1
+
+intelligently: 1
+
+intercessionary: 1
+
+intercourse: 1
+
+interdependence: 1
+
+interdependent: 1
+
+interfere: 1
+
+interlude: 1
+
+intermediate: 1
+
+interminably: 1
+
+interposition: 1
+
+interpret: 1
+
+interpreter: 1
+
+interruptions: 1
+
+interval: 1
+
+intervening: 1
+
+intimate: 1
+
+intimidated: 1
+
+intimidation: 1
+
+intolerance: 1
+
+intolerant: 1
+
+introduction: 1
+
+invade: 1
+
+invaded: 1
+
+invaders: 1
+
+invading: 1
+
+invariably: 1
+
+invective: 1
+
+invention: 1
+
+inventive: 1
+
+investigating: 1
+
+investing: 1
+
+invests: 1
+
+invigorated: 1
+
+invigorating: 1
+
+inviolable:: 1
+
+invocation: 1
+
+invoked: 1
+
+irish: 1
+
+irma: 1
+
+ironic: 1
+
+irresponsible: 1
+
+irreversible: 1
+
+irrevocable: 1
+
+irritate: 1
+
+irritated: 1
+
+is:: 1
+
+isaiah: 1
+
+isaiah:: 1
+
+ism: 1
+
+issue:: 1
+
+issuing: 1
+
+it!: 1
+
+italian: 1
+
+iwo: 1
+
+j: 1
+
+ja: 1
+
+jacksonville: 1
+
+jamaica: 1
+
+jammed: 1
+
+jarvis: 1
+
+jd: 1
+
+jealously: 1
+
+jealousy: 1
+
+jefferson:: 1
+
+jeopardize: 1
+
+jeopardizes: 1
+
+jeopardizing: 1
+
+jeopardy: 1
+
+jericho: 1
+
+jerry: 1
+
+jersey: 1
+
+jet: 1
+
+jew: 1
+
+jima: 1
+
+jiving: 1
+
+joan: 1
+
+john:: 1
+
+johnson's: 1
+
+joining: 1
+
+joins: 1
+
+joke: 1
+
+jokes: 1
+
+jones: 1
+
+jordan:: 1
+
+jotted: 1
+
+journalist: 1
+
+journeys: 1
+
+joyous: 1
+
+jubilee: 1
+
+judeo: 1
+
+judith: 1
+
+julia: 1
+
+julie: 1
+
+jumble: 1
+
+jumbled: 1
+
+juncture: 1
+
+junior: 1
+
+justice:: 1
+
+justices: 1
+
+justification: 1
+
+justifications: 1
+
+kenyan: 1
+
+keohane: 1
+
+keystone: 1
+
+khaki: 1
+
+khayyam: 1
+
+killers: 1
+
+kimberly: 1
+
+king:: 1
+
+kingdom: 1
+
+kings: 1
+
+kinship: 1
+
+kissinger: 1
+
+kitchen: 1
+
+knit: 1
+
+knocked: 1
+
+knot: 1
+
+knots: 1
+
+know!: 1
+
+know:: 1
+
+knowingly: 1
+
+knowledgeable: 1
+
+ko: 1
+
+kohinoor: 1
+
+kohl: 1
+
+kombay: 1
+
+kommen: 1
+
+kong: 1
+
+kristallnacht: 1
+
+kudamm: 1
+
+l: 1
+
+labeled: 1
+
+laboratories: 1
+
+labored: 1
+
+laborer: 1
+
+lackawanna: 1
+
+lacks: 1
+
+ladder: 1
+
+laird: 1
+
+lake: 1
+
+lament: 1
+
+lancaster: 1
+
+landless: 1
+
+landmarks: 1
+
+lane: 1
+
+langston: 1
+
+languish: 1
+
+languished: 1
+
+lap: 1
+
+larry: 1
+
+lass': 1
+
+latin:: 1
+
+laughin': 1
+
+laundry: 1
+
+laura: 1
+
+lavelle: 1
+
+lawns: 1
+
+lawson: 1
+
+lawsuits: 1
+
+layer: 1
+
+laying: 1
+
+leader:: 1
+
+leaflets: 1
+
+league: 1
+
+leak: 1
+
+leaned: 1
+
+leather: 1
+
+leaven: 1
+
+lectures: 1
+
+lecturing: 1
+
+lee: 1
+
+leftovers: 1
+
+legend:: 1
+
+lend: 1
+
+lengthening: 1
+
+leninism: 1
+
+leninists: 1
+
+lenox: 1
+
+lesser: 1
+
+letdown: 1
+
+lets: 1
+
+leveled: 1
+
+lewis: 1
+
+lexington: 1
+
+liable: 1
+
+liberalism: 1
+
+liberalization:: 1
+
+liberators: 1
+
+libertarians: 1
+
+library: 1
+
+license: 1
+
+licenses: 1
+
+lieth: 1
+
+lieutenant: 1
+
+life:: 1
+
+lifeguard: 1
+
+lifted: 1
+
+lifts: 1
+
+lighted: 1
+
+lighten: 1
+
+lighting: 1
+
+lightly: 1
+
+lights: 1
+
+likes: 1
+
+limb: 1
+
+limitless: 1
+
+limits: 1
+
+lines:: 1
+
+linger: 1
+
+lingering: 1
+
+link: 1
+
+linke: 1
+
+linked: 1
+
+linking: 1
+
+lipped: 1
+
+liquidating: 1
+
+liquor: 1
+
+lisp: 1
+
+lists: 1
+
+literacy: 1
+
+litigation: 1
+
+littleness: 1
+
+livestock: 1
+
+llewellyn: 1
+
+lobbying: 1
+
+locate: 1
+
+location: 1
+
+locked: 1
+
+lodging: 1
+
+logistics: 1
+
+lomax's: 1
+
+london: 1
+
+long:: 1
+
+longstanding: 1
+
+lookout: 1
+
+loomed: 1
+
+loosely: 1
+
+lord's: 1
+
+losers: 1
+
+lots: 1
+
+lou: 1
+
+loud:: 1
+
+louder: 1
+
+loudspeaker: 1
+
+lounged: 1
+
+lover: 1
+
+lowdown: 1
+
+lowell: 1
+
+lowered: 1
+
+lubbock: 1
+
+lucid: 1
+
+luckiest: 1
+
+lucre:: 1
+
+lumber: 1
+
+lumped: 1
+
+lungs: 1
+
+lust: 1
+
+luxury: 1
+
+lying: 1
+
+ma: 1
+
+macarthur:: 1
+
+machine!: 1
+
+macho: 1
+
+mad: 1
+
+magnified: 1
+
+mailing: 1
+
+mainly: 1
+
+maintains: 1
+
+majesty: 1
+
+maker: 1
+
+malady: 1
+
+malaya: 1
+
+malice: 1
+
+mall: 1
+
+mama: 1
+
+manacles: 1
+
+manage: 1
+
+managed: 1
+
+management: 1
+
+manager: 1
+
+managers: 1
+
+managing: 1
+
+manayunk: 1
+
+mandates: 1
+
+mandatory: 1
+
+maneuvers: 1
+
+manila:: 1
+
+manipulation: 1
+
+mannequin: 1
+
+manufactured: 1
+
+manufacturer: 1
+
+marauders: 1
+
+marble: 1
+
+marines: 1
+
+mario: 1
+
+marker: 1
+
+markets: 1
+
+marking: 1
+
+marred: 1
+
+marriage: 1
+
+marrow: 1
+
+marry: 1
+
+marrying: 1
+
+marshal: 1
+
+marshall:: 1
+
+marshals: 1
+
+martial: 1
+
+martyrs: 1
+
+marvel: 1
+
+marx: 1
+
+marxist: 1
+
+mason: 1
+
+massacres: 1
+
+masters: 1
+
+matched: 1
+
+matches: 1
+
+mate: 1
+
+mater: 1
+
+materialism: 1
+
+mattress: 1
+
+maturity: 1
+
+maximilian: 1
+
+maximize: 1
+
+mayors: 1
+
+mcauliffe: 1
+
+mccormick: 1
+
+mcculloch: 1
+
+mcnair: 1
+
+mcnamara: 1
+
+me:: 1
+
+meader: 1
+
+meaner: 1
+
+meaning:: 1
+
+meaningless: 1
+
+mechanic: 1
+
+mechanized: 1
+
+medallion: 1
+
+medals: 1
+
+medicaid: 1
+
+medicare: 1
+
+mediterranean: 1
+
+meekness: 1
+
+meese: 1
+
+meets: 1
+
+mekong: 1
+
+melody: 1
+
+memorandums: 1
+
+memory's: 1
+
+men's: 1
+
+menace: 1
+
+mentions: 1
+
+merchant: 1
+
+merchants: 1
+
+mermaid: 1
+
+merrimac: 1
+
+meshing: 1
+
+mesmerized: 1
+
+messages: 1
+
+messiah: 1
+
+metaphor: 1
+
+metaphysical: 1
+
+methodists: 1
+
+mexican: 1
+
+microphone: 1
+
+mid: 1
+
+midpoint: 1
+
+midway: 1
+
+mile: 1
+
+militate: 1
+
+mill: 1
+
+minded: 1
+
+minding: 1
+
+mindless: 1
+
+mink: 1
+
+minute:: 1
+
+minuted: 1
+
+mire: 1
+
+mirrors: 1
+
+mis: 1
+
+miscalculate: 1
+
+miser: 1
+
+misgivings: 1
+
+misguided: 1
+
+misinform: 1
+
+misinterpretation: 1
+
+misinterpreted: 1
+
+misjudged: 1
+
+mislead: 1
+
+misplaced: 1
+
+misrepresenting: 1
+
+misunderstand: 1
+
+misuse: 1
+
+mixed: 1
+
+mo: 1
+
+mob: 1
+
+mobilize: 1
+
+mockery: 1
+
+moderation: 1
+
+moderator: 1
+
+moderator:: 1
+
+modestly: 1
+
+modesty: 1
+
+moisture: 1
+
+molding: 1
+
+molehill: 1
+
+molten: 1
+
+monarchs: 1
+
+mongers: 1
+
+monkey!: 1
+
+montana: 1
+
+monthly: 1
+
+monumental: 1
+
+monuments: 1
+
+moomaw: 1
+
+morbid: 1
+
+morehouse: 1
+
+mores: 1
+
+mormons: 1
+
+mortality: 1
+
+mortgaging: 1
+
+morton: 1
+
+mote: 1
+
+motels: 1
+
+mother!: 1
+
+mother's: 1
+
+motion: 1
+
+motioned: 1
+
+motivates: 1
+
+motto:: 1
+
+mountaineers: 1
+
+mournful: 1
+
+mourning: 1
+
+mower: 1
+
+mozambique: 1
+
+ms: 1
+
+mud: 1
+
+muffle: 1
+
+mule: 1
+
+multiply: 1
+
+munich: 1
+
+munitions: 1
+
+murderous: 1
+
+murders: 1
+
+muscles: 1
+
+muse: 1
+
+muselmanner: 1
+
+museums: 1
+
+mushroom: 1
+
+music: 1
+
+musketry: 1
+
+muster: 1
+
+mustered: 1
+
+mutter: 1
+
+my!: 1
+
+mysteries: 1
+
+mysterious: 1
+
+mysteriously: 1
+
+myth: 1
+
+nach: 1
+
+nail: 1
+
+nailed: 1
+
+naive: 1
+
+naked: 1
+
+namely: 1
+
+napoleonic: 1
+
+nasa: 1
+
+nation:: 1
+
+nationalization: 1
+
+nationhood: 1
+
+nations': 1
+
+nature's: 1
+
+nay: 1
+
+nazis: 1
+
+nazism: 1
+
+nd: 1
+
+nearest: 1
+
+necessitates: 1
+
+needles: 1
+
+needlessly: 1
+
+negative: 1
+
+neglected: 1
+
+negotiated: 1
+
+negro:: 1
+
+neighboring: 1
+
+neighborly: 1
+
+neill: 1
+
+nephew: 1
+
+nervous: 1
+
+nest: 1
+
+nests: 1
+
+net: 1
+
+netherlands: 1
+
+newburyport: 1
+
+newer: 1
+
+newest: 1
+
+newton: 1
+
+nietzsches: 1
+
+nigeria: 1
+
+niggers: 1
+
+night:: 1
+
+nightly: 1
+
+nightmarish: 1
+
+nikita: 1
+
+ninth: 1
+
+nobly: 1
+
+noch: 1
+
+noches: 1
+
+nods: 1
+
+nofziger: 1
+
+noise: 1
+
+nominate: 1
+
+nominated: 1
+
+noncommunist: 1
+
+nonreligious: 1
+
+nonsexual: 1
+
+nonviolently: 1
+
+noriega: 1
+
+northeast: 1
+
+not!: 1
+
+notebook: 1
+
+notes: 1
+
+nothing's: 1
+
+notify: 1
+
+notion: 1
+
+notions: 1
+
+november!: 1
+
+nullification: 1
+
+nullifies: 1
+
+numerous: 1
+
+nuns: 1
+
+nur: 1
+
+nurses: 1
+
+nursing: 1
+
+nurture: 1
+
+nurtures: 1
+
+oahu: 1
+
+oasis: 1
+
+obeyed: 1
+
+object: 1
+
+objection: 1
+
+objective:: 1
+
+objectors: 1
+
+obligated: 1
+
+obscure: 1
+
+observe: 1
+
+observer: 1
+
+obsession: 1
+
+obtainable: 1
+
+obtaining: 1
+
+occasionally: 1
+
+occasioned: 1
+
+occupant: 1
+
+occupies: 1
+
+occurrence: 1
+
+odd: 1
+
+oddest: 1
+
+of:: 1
+
+offenses: 1
+
+oftentimes: 1
+
+oldsmobile: 1
+
+olive: 1
+
+olympic: 1
+
+olympics: 1
+
+omaha: 1
+
+omar: 1
+
+omnipotence: 1
+
+on:: 1
+
+oneself: 1
+
+onions: 1
+
+onizuka: 1
+
+onslaught: 1
+
+opera: 1
+
+operates: 1
+
+opponent: 1
+
+opponent's: 1
+
+opposes: 1
+
+oppressing: 1
+
+oppressor: 1
+
+option: 1
+
+options: 1
+
+options:: 1
+
+orchards: 1
+
+orchestras: 1
+
+organs: 1
+
+orientation: 1
+
+origins: 1
+
+orloff: 1
+
+orphan: 1
+
+orphans: 1
+
+other's: 1
+
+ounce: 1
+
+out!: 1
+
+outcast: 1
+
+outcome: 1
+
+outdated: 1
+
+outflanked: 1
+
+outgoing: 1
+
+outlawed: 1
+
+outlines: 1
+
+outpaced: 1
+
+output: 1
+
+outrage: 1
+
+outraged: 1
+
+outsiders: 1
+
+outstanding: 1
+
+outstandingly: 1
+
+over!: 1
+
+overcame: 1
+
+overcharge: 1
+
+overemphasize: 1
+
+overhead: 1
+
+overheard: 1
+
+overseers: 1
+
+overshadowed: 1
+
+overthrow: 1
+
+overthrown: 1
+
+overturns: 1
+
+overwhelmed: 1
+
+overwhelmingly: 1
+
+owes: 1
+
+owing: 1
+
+ozone: 1
+
+p: 1
+
+pa: 1
+
+pacification: 1
+
+package: 1
+
+pact: 1
+
+paddies: 1
+
+paine: 1
+
+pained: 1
+
+painful: 1
+
+painfully: 1
+
+painless: 1
+
+paints: 1
+
+pair: 1
+
+pal: 1
+
+palace: 1
+
+pale: 1
+
+palestine: 1
+
+palliative: 1
+
+panama: 1
+
+panel: 1
+
+par: 1
+
+paragons: 1
+
+paralysis: 1
+
+paraphrase: 1
+
+pardoning: 1
+
+parent: 1
+
+parents': 1
+
+parkfairfax: 1
+
+parking: 1
+
+parkland: 1
+
+parks: 1
+
+parliament: 1
+
+partially: 1
+
+participates:: 1
+
+partners: 1
+
+partnerships: 1
+
+passes: 1
+
+passive: 1
+
+password: 1
+
+pastime: 1
+
+pastorate: 1
+
+pasture: 1
+
+pat's: 1
+
+patch: 1
+
+pathetic: 1
+
+paths: 1
+
+patricia: 1
+
+patrick's: 1
+
+patriot: 1
+
+patriotically: 1
+
+patriots: 1
+
+patrol: 1
+
+patron: 1
+
+pats: 1
+
+paychecks: 1
+
+payers: 1
+
+payrolls: 1
+
+peaceably: 1
+
+peacemaker: 1
+
+pearl: 1
+
+peasant: 1
+
+pebble: 1
+
+pedant: 1
+
+peer: 1
+
+penalized: 1
+
+pendulum: 1
+
+peninsula: 1
+
+penis: 1
+
+penises: 1
+
+penknife: 1
+
+penn: 1
+
+pennsylvania:: 1
+
+pennsylvanians: 1
+
+penny: 1
+
+pensions: 1
+
+perfected: 1
+
+performer: 1
+
+perilous: 1
+
+perils: 1
+
+periods: 1
+
+perish: 1
+
+permeates: 1
+
+permits: 1
+
+permitting: 1
+
+perpetual: 1
+
+persecuted: 1
+
+persevere: 1
+
+persistent: 1
+
+persistently: 1
+
+person's: 1
+
+personalities: 1
+
+personality: 1
+
+perspective: 1
+
+persuaded: 1
+
+pertinent: 1
+
+perverse: 1
+
+perversion: 1
+
+pestilence: 1
+
+petersburg: 1
+
+petty: 1
+
+phantoms: 1
+
+pharaohs: 1
+
+pharisees: 1
+
+phenomenology: 1
+
+phenomenon: 1
+
+phil: 1
+
+philadelphia!: 1
+
+philadelphians: 1
+
+philanthropic: 1
+
+philip: 1
+
+philippine: 1
+
+philosophers: 1
+
+philosophers:: 1
+
+philosophical: 1
+
+philosophies: 1
+
+photo: 1
+
+photographs: 1
+
+phraseology: 1
+
+phrases: 1
+
+phu: 1
+
+physically: 1
+
+picnic: 1
+
+pictures: 1
+
+piecemeal: 1
+
+pig: 1
+
+pigeonholes: 1
+
+pigs: 1
+
+piled: 1
+
+pilgrim's: 1
+
+pilgrims: 1
+
+piling: 1
+
+pillar: 1
+
+pines: 1
+
+pinnacle: 1
+
+pipeline: 1
+
+pit: 1
+
+pitied: 1
+
+placards: 1
+
+placing: 1
+
+plague: 1
+
+plainly: 1
+
+plaintive: 1
+
+planetary: 1
+
+planted: 1
+
+plato: 1
+
+platz: 1
+
+playgrounds: 1
+
+plaything: 1
+
+pleading: 1
+
+pleas: 1
+
+pleasant: 1
+
+pleasantville: 1
+
+pleasure: 1
+
+pledge:: 1
+
+plod: 1
+
+plodding: 1
+
+plotting: 1
+
+plowshares: 1
+
+plundering: 1
+
+pluralism: 1
+
+pluralistic: 1
+
+pnompenh: 1
+
+pocketbooks: 1
+
+poet: 1
+
+poet's: 1
+
+pogrom: 1
+
+poindexter: 1
+
+points:: 1
+
+poison: 1
+
+polack: 1
+
+polacks: 1
+
+polarized: 1
+
+polished: 1
+
+polling: 1
+
+pollute: 1
+
+pond: 1
+
+pontificating: 1
+
+pooh: 1
+
+poohed: 1
+
+pool: 1
+
+poorest: 1
+
+poorly: 1
+
+popish: 1
+
+populated: 1
+
+pork: 1
+
+pornography: 1
+
+port: 1
+
+porter: 1
+
+portico: 1
+
+portions: 1
+
+pose: 1
+
+posing: 1
+
+possessions: 1
+
+posted: 1
+
+posterity: 1
+
+posture: 1
+
+postwar: 1
+
+potency: 1
+
+potentially: 1
+
+potomac: 1
+
+poultry: 1
+
+pounded: 1
+
+poured: 1
+
+practically:: 1
+
+prairies: 1
+
+praising: 1
+
+prayer:: 1
+
+prayerful: 1
+
+prays: 1
+
+precedents: 1
+
+preceding: 1
+
+precipitous: 1
+
+precursor: 1
+
+predicted: 1
+
+predicted:: 1
+
+predominance: 1
+
+preferably: 1
+
+pregnant: 1
+
+prejudiced: 1
+
+preliminary: 1
+
+prelude: 1
+
+premeditated: 1
+
+premier: 1
+
+premises: 1
+
+preoccupies: 1
+
+prepares: 1
+
+prerogatives: 1
+
+presently: 1
+
+preside: 1
+
+presided: 1
+
+presses: 1
+
+presumption: 1
+
+pretend: 1
+
+pretended: 1
+
+pretense: 1
+
+pretenses: 1
+
+pretext: 1
+
+prevails: 1
+
+preventatives: 1
+
+prevention: 1
+
+prided: 1
+
+prideful: 1
+
+priests: 1
+
+prima: 1
+
+primer: 1
+
+primitive: 1
+
+principle:: 1
+
+printer: 1
+
+priority: 1
+
+prisons: 1
+
+probable: 1
+
+problem:: 1
+
+procedure: 1
+
+proceeded: 1
+
+proceeds: 1
+
+proclivities: 1
+
+procrastinate: 1
+
+procrastination: 1
+
+procure: 1
+
+prodigious: 1
+
+professed: 1
+
+professionalism: 1
+
+professorship: 1
+
+profitable: 1
+
+progressive: 1
+
+progressively: 1
+
+prohibiting: 1
+
+projected: 1
+
+proletariat: 1
+
+proliferating: 1
+
+proliferation: 1
+
+prolong: 1
+
+promiscuous: 1
+
+promoted: 1
+
+promulgated: 1
+
+proneness: 1
+
+prophesying: 1
+
+proportion: 1
+
+proportionate: 1
+
+proposes: 1
+
+proposition: 1
+
+propping: 1
+
+props: 1
+
+prosecute: 1
+
+prospered: 1
+
+prosperous: 1
+
+protectionist: 1
+
+prouder: 1
+
+proverb: 1
+
+proviso: 1
+
+provocation: 1
+
+provoke: 1
+
+prowess: 1
+
+psalm: 1
+
+psychiatrist: 1
+
+psychologically: 1
+
+psychology: 1
+
+pubic: 1
+
+publicity: 1
+
+publicize: 1
+
+published: 1
+
+publishes: 1
+
+pummel: 1
+
+pumping: 1
+
+punitive: 1
+
+puny: 1
+
+purchases: 1
+
+purer: 1
+
+purest: 1
+
+purify: 1
+
+puritans: 1
+
+pursuant: 1
+
+pursued: 1
+
+purveyor: 1
+
+push: 1
+
+pushed: 1
+
+pushes: 1
+
+pussy: 1
+
+pussyfoot: 1
+
+puttin': 1
+
+pyramid: 1
+
+quandary: 1
+
+quarreled: 1
+
+quarreling: 1
+
+quell: 1
+
+query: 1
+
+question:: 1
+
+questioner: 1
+
+quicklime: 1
+
+quicksands: 1
+
+quincy: 1
+
+quotations: 1
+
+quotes: 1
+
+quran: 1
+
+rabbi: 1
+
+rabble: 1
+
+raceway: 1
+
+racing: 1
+
+racists: 1
+
+radically: 1
+
+radioactive: 1
+
+raging: 1
+
+rags: 1
+
+raid: 1
+
+railroad: 1
+
+railroads: 1
+
+rails: 1
+
+rains: 1
+
+rallies: 1
+
+rallying: 1
+
+rampant: 1
+
+ranchers: 1
+
+random: 1
+
+ranging: 1
+
+rank: 1
+
+rap: 1
+
+rape: 1
+
+rare: 1
+
+ratified: 1
+
+rating: 1
+
+rationality: 1
+
+rationing: 1
+
+rattle: 1
+
+ravaged: 1
+
+ravages: 1
+
+raw: 1
+
+rd: 1
+
+readiness: 1
+
+readjustment: 1
+
+reads: 1
+
+realist: 1
+
+realistically: 1
+
+realities:: 1
+
+realm: 1
+
+reappeared: 1
+
+reared: 1
+
+rearing: 1
+
+reason:: 1
+
+reasoning: 1
+
+reassurance: 1
+
+reawaken: 1
+
+rebel: 1
+
+rebels: 1
+
+recalcitrant: 1
+
+recapture: 1
+
+recaptured: 1
+
+receives: 1
+
+recipient: 1
+
+recognizable: 1
+
+recognizing: 1
+
+recolonization: 1
+
+recolonize: 1
+
+recommendation: 1
+
+recommendations: 1
+
+reconciled: 1
+
+reconquest: 1
+
+recovered: 1
+
+recrimination: 1
+
+recurring: 1
+
+redeem: 1
+
+redeemed: 1
+
+redemptive: 1
+
+redevelopment: 1
+
+rediscover: 1
+
+redoubled: 1
+
+refers: 1
+
+refinery: 1
+
+refuge: 1
+
+refugee: 1
+
+refuseniks: 1
+
+regards: 1
+
+regatta: 1
+
+regimentation: 1
+
+regimented: 1
+
+regional: 1
+
+registration: 1
+
+regrets: 1
+
+regulated: 1
+
+regulation: 1
+
+reimburse: 1
+
+reinstituting: 1
+
+reiterated: 1
+
+rejecting: 1
+
+rejection: 1
+
+rejects: 1
+
+rejoice: 1
+
+rejoicing: 1
+
+rekindle: 1
+
+relating: 1
+
+relationships: 1
+
+relearns: 1
+
+release: 1
+
+releases: 1
+
+relentless: 1
+
+reliant: 1
+
+relic: 1
+
+relieve: 1
+
+relieved: 1
+
+relieving: 1
+
+relinquish: 1
+
+remake: 1
+
+remarked: 1
+
+remedies: 1
+
+remedy: 1
+
+remembrance: 1
+
+reminding: 1
+
+reminds: 1
+
+remiss: 1
+
+remorse: 1
+
+removing: 1
+
+render: 1
+
+rendezvous: 1
+
+renounced: 1
+
+renunciation: 1
+
+reordering: 1
+
+reorganization: 1
+
+reorganizations: 1
+
+reorganized: 1
+
+reorganizing: 1
+
+repair: 1
+
+repairing: 1
+
+reparations: 1
+
+repay: 1
+
+repeat:: 1
+
+replacement: 1
+
+replaces: 1
+
+replies: 1
+
+reportable: 1
+
+representation: 1
+
+representatives:: 1
+
+repression: 1
+
+republican's: 1
+
+repudiate: 1
+
+repudiation: 1
+
+request:: 1
+
+requests: 1
+
+requirement: 1
+
+resell: 1
+
+resembled: 1
+
+reserves: 1
+
+reservoir: 1
+
+residues: 1
+
+resignation: 1
+
+resigned: 1
+
+resnik: 1
+
+resolutions: 1
+
+resolved: 1
+
+resonance: 1
+
+resourceful: 1
+
+resourcefulness: 1
+
+respectable: 1
+
+respectfully: 1
+
+resplendently: 1
+
+restated: 1
+
+resting: 1
+
+restless: 1
+
+restlessness: 1
+
+restoration: 1
+
+restrain: 1
+
+restricted: 1
+
+restriction: 1
+
+restructuring: 1
+
+resulting: 1
+
+resumption: 1
+
+resurgence: 1
+
+retain: 1
+
+retains: 1
+
+retarded: 1
+
+retired: 1
+
+retreat: 1
+
+returning: 1
+
+reunification: 1
+
+reunified: 1
+
+reuter: 1
+
+reveille: 1
+
+revenue: 1
+
+revenues: 1
+
+reverberating: 1
+
+reverence: 1
+
+review: 1
+
+revitalize: 1
+
+revival: 1
+
+revived: 1
+
+revolting: 1
+
+revolutionists: 1
+
+rhode: 1
+
+rhodesia: 1
+
+richards:: 1
+
+richardson: 1
+
+ridicule: 1
+
+rigged: 1
+
+riggs: 1
+
+right:: 1
+
+rightful: 1
+
+rigid: 1
+
+rine: 1
+
+ring!: 1
+
+rio: 1
+
+risen: 1
+
+riss: 1
+
+roadside: 1
+
+robison: 1
+
+rocketed: 1
+
+rockets: 1
+
+rockies: 1
+
+rocks: 1
+
+rode: 1
+
+roles: 1
+
+roller: 1
+
+roman: 1
+
+romans:: 1
+
+romantic: 1
+
+romanus: 1
+
+romney: 1
+
+roof: 1
+
+roosevelt's: 1
+
+rooster: 1
+
+ross: 1
+
+roughest: 1
+
+route: 1
+
+routinely: 1
+
+royalty: 1
+
+rub: 1
+
+rubbing: 1
+
+rug: 1
+
+rule:: 1
+
+ruled: 1
+
+rulers: 1
+
+rumania: 1
+
+runaway: 1
+
+ruppert: 1
+
+rural: 1
+
+rushes: 1
+
+russians: 1
+
+ruthless: 1
+
+ruthlessly: 1
+
+rwanda: 1
+
+ryan: 1
+
+sacredness: 1
+
+sacrificial: 1
+
+sadat: 1
+
+saddened: 1
+
+saddens: 1
+
+saddest: 1
+
+safeguard: 1
+
+safeguarding: 1
+
+safeguards: 1
+
+sailing: 1
+
+saint: 1
+
+sakharov: 1
+
+salaries: 1
+
+salerno: 1
+
+salesman: 1
+
+salesmen: 1
+
+sally: 1
+
+saluter: 1
+
+sam's: 1
+
+samaritan: 1
+
+sameness: 1
+
+sanction: 1
+
+sanctions: 1
+
+sanctity: 1
+
+sanity: 1
+
+sank: 1
+
+santiago: 1
+
+sapped: 1
+
+sarajevo: 1
+
+saturdays: 1
+
+saudi: 1
+
+saves: 1
+
+scales: 1
+
+scan: 1
+
+scandals: 1
+
+scaring: 1
+
+scenes: 1
+
+scheduled: 1
+
+scheduling: 1
+
+scheme: 1
+
+scientifically: 1
+
+scobee: 1
+
+scorched: 1
+
+scourges: 1
+
+scrambled: 1
+
+screen: 1
+
+screens: 1
+
+scriptures: 1
+
+scrupulously: 1
+
+scum: 1
+
+sealed: 1
+
+seaports: 1
+
+searched: 1
+
+seared: 1
+
+seashores: 1
+
+season: 1
+
+seconded: 1
+
+sectarian: 1
+
+sections: 1
+
+secular: 1
+
+secularism: 1
+
+securing: 1
+
+seductive: 1
+
+seductively: 1
+
+seed: 1
+
+seek:: 1
+
+seeming: 1
+
+segment: 1
+
+segregationists: 1
+
+seized: 1
+
+selassie: 1
+
+seldom: 1
+
+selected: 1
+
+selectmen: 1
+
+self': 1
+
+selfishly: 1
+
+selfishness: 1
+
+selfless: 1
+
+sellout: 1
+
+selves: 1
+
+semitism: 1
+
+senator's: 1
+
+senatorial: 1
+
+sensation: 1
+
+senseless: 1
+
+senses: 1
+
+sentence:: 1
+
+sentenced: 1
+
+sentiment: 1
+
+sentimental: 1
+
+sentiments: 1
+
+separated: 1
+
+separates: 1
+
+separating: 1
+
+serene: 1
+
+servicemen: 1
+
+setup: 1
+
+seventeenth: 1
+
+seventh: 1
+
+severance: 1
+
+severed: 1
+
+sexist: 1
+
+shack: 1
+
+shackles: 1
+
+shade: 1
+
+shadows: 1
+
+shaft: 1
+
+shaken: 1
+
+shapers: 1
+
+shaping: 1
+
+sharecropper: 1
+
+shares: 1
+
+sharpen: 1
+
+sharper: 1
+
+sharpest: 1
+
+shattered: 1
+
+shaven: 1
+
+she'd: 1
+
+shed: 1
+
+shelters: 1
+
+shepherd: 1
+
+sherman: 1
+
+shines: 1
+
+shingle: 1
+
+shiploads: 1
+
+shipping: 1
+
+shipways: 1
+
+shirtless: 1
+
+shocks: 1
+
+shoe: 1
+
+shook: 1
+
+shoot: 1
+
+shopkeepers: 1
+
+shops: 1
+
+shortage: 1
+
+shortcoming: 1
+
+shorthand: 1
+
+shots: 1
+
+shouldered: 1
+
+shouldn: 1
+
+shouting: 1
+
+shouts: 1
+
+shovelful: 1
+
+shoveling: 1
+
+showmanship: 1
+
+shrewd: 1
+
+shrewdest: 1
+
+shriek: 1
+
+shrines: 1
+
+shuttle's: 1
+
+sick!: 1
+
+sickness: 1
+
+sidewalks: 1
+
+sie: 1
+
+siege: 1
+
+sifted: 1
+
+significantly: 1
+
+signifying: 1
+
+signing: 1
+
+silences: 1
+
+similarly: 1
+
+simpatico: 1
+
+simpleminded: 1
+
+simpletons: 1
+
+simplicity: 1
+
+simplistic: 1
+
+simply:: 1
+
+sincere: 1
+
+singled: 1
+
+singularly: 1
+
+sinister: 1
+
+sissy: 1
+
+site: 1
+
+sites: 1
+
+six:: 1
+
+sixteen: 1
+
+skeleton: 1
+
+skills: 1
+
+skinned: 1
+
+skins: 1
+
+skip: 1
+
+skull: 1
+
+slab: 1
+
+slackers: 1
+
+slaughter: 1
+
+sleeping: 1
+
+sleeve: 1
+
+slick: 1
+
+slight: 1
+
+slightly: 1
+
+slime: 1
+
+slip: 1
+
+slipped: 1
+
+slippery: 1
+
+slipping: 1
+
+sloane: 1
+
+slogan: 1
+
+slogan:: 1
+
+slogans: 1
+
+slogging: 1
+
+slope: 1
+
+slopes: 1
+
+sloping: 1
+
+slowed: 1
+
+slower: 1
+
+slowness: 1
+
+sludge: 1
+
+slum: 1
+
+slums: 1
+
+smashed: 1
+
+smelled: 1
+
+smiles: 1
+
+smith's: 1
+
+smokes: 1
+
+smother: 1
+
+snap: 1
+
+snares: 1
+
+sncc: 1
+
+sneaked: 1
+
+sneakers: 1
+
+snow: 1
+
+so:: 1
+
+soaked: 1
+
+sober: 1
+
+socialists: 1
+
+societies: 1
+
+soggy: 1
+
+sol: 1
+
+solely: 1
+
+solemnity: 1
+
+solicitation: 1
+
+soliciting: 1
+
+solitary: 1
+
+solitude: 1
+
+sometime: 1
+
+son's: 1
+
+song: 1
+
+songs: 1
+
+sonship: 1
+
+sooner: 1
+
+soothing: 1
+
+sophisticated: 1
+
+sordid: 1
+
+sorrow: 1
+
+soulless: 1
+
+sound:: 1
+
+soundest: 1
+
+sounding: 1
+
+soup: 1
+
+south:: 1
+
+southerners: 1
+
+soviets': 1
+
+sp: 1
+
+spain: 1
+
+spake: 1
+
+span: 1
+
+spaniel: 1
+
+spare: 1
+
+spat: 1
+
+speakers: 1
+
+speaks: 1
+
+specifically: 1
+
+specimen: 1
+
+spectacular: 1
+
+specter: 1
+
+speculation: 1
+
+speculations: 1
+
+speediest: 1
+
+speeding: 1
+
+spell: 1
+
+spelled: 1
+
+spells: 1
+
+spheres: 1
+
+spied: 1
+
+spirits: 1
+
+spiritual:: 1
+
+spiritually: 1
+
+spoils: 1
+
+sport: 1
+
+sports: 1
+
+spotted: 1
+
+spouse: 1
+
+spouses: 1
+
+spray: 1
+
+springboard: 1
+
+spurt: 1
+
+squabble: 1
+
+squabbles: 1
+
+squadrons: 1
+
+squandering: 1
+
+squarely: 1
+
+squeal: 1
+
+squealed: 1
+
+squeals: 1
+
+squeezers: 1
+
+squirts: 1
+
+stack: 1
+
+staebler: 1
+
+stage: 1
+
+staggered: 1
+
+staging: 1
+
+stagnate: 1
+
+stain: 1
+
+stainless: 1
+
+stairs: 1
+
+stairway: 1
+
+stakes: 1
+
+staking: 1
+
+stalin: 1
+
+stalked: 1
+
+stampeded: 1
+
+standby: 1
+
+standeth: 1
+
+standpoint: 1
+
+stanford: 1
+
+stanton: 1
+
+staring: 1
+
+stark: 1
+
+stars!: 1
+
+starve: 1
+
+stated:: 1
+
+statehouse: 1
+
+stately: 1
+
+statement:: 1
+
+statesmanship: 1
+
+static: 1
+
+stating: 1
+
+statistical: 1
+
+statistics: 1
+
+statue: 1
+
+statute: 1
+
+stays: 1
+
+steam: 1
+
+steamer: 1
+
+steamroller: 1
+
+steamship: 1
+
+stems: 1
+
+stench: 1
+
+stenographers: 1
+
+stenography: 1
+
+stephanie: 1
+
+stereotype: 1
+
+steven: 1
+
+sticking: 1
+
+stifle: 1
+
+stifled: 1
+
+stifles: 1
+
+stimulate: 1
+
+stimulating: 1
+
+stirred: 1
+
+stirs: 1
+
+stitch: 1
+
+stockholder: 1
+
+stockholm: 1
+
+stockman: 1
+
+stocks: 1
+
+stole: 1
+
+stolen: 1
+
+stomach: 1
+
+storm: 1
+
+straightforward: 1
+
+strain: 1
+
+straits: 1
+
+strangely: 1
+
+strangers: 1
+
+strata: 1
+
+streams: 1
+
+strengthening: 1
+
+strengths: 1
+
+strenuous: 1
+
+stressed: 1
+
+stretch: 1
+
+string: 1
+
+stripped: 1
+
+strives: 1
+
+structurally: 1
+
+structure:: 1
+
+struggle:: 1
+
+struts: 1
+
+students': 1
+
+stumbled: 1
+
+stunted: 1
+
+stupidity: 1
+
+style: 1
+
+subjugation: 1
+
+submerged: 1
+
+submission: 1
+
+submitted: 1
+
+subordinate: 1
+
+subordinating: 1
+
+subscribe: 1
+
+subsequent: 1
+
+subsides: 1
+
+subsidize: 1
+
+subsidized: 1
+
+subsidizing: 1
+
+substantially: 1
+
+substituted: 1
+
+subterfuge: 1
+
+subterfuges: 1
+
+suburb: 1
+
+subversion: 1
+
+subverted: 1
+
+subway: 1
+
+succeeds: 1
+
+successfully: 1
+
+succumb: 1
+
+suction: 1
+
+sudden: 1
+
+sufferings: 1
+
+sufficiently: 1
+
+suffocated: 1
+
+suggesting: 1
+
+suicide: 1
+
+suitable: 1
+
+suitcase: 1
+
+summarized: 1
+
+summit: 1
+
+sumner: 1
+
+sundays: 1
+
+sunk: 1
+
+sunlit: 1
+
+suns: 1
+
+superintending: 1
+
+supernatural: 1
+
+superstitions: 1
+
+supervise: 1
+
+supplying: 1
+
+supporters: 1
+
+supposedly: 1
+
+suppressed: 1
+
+surcharge: 1
+
+surly: 1
+
+surplus: 1
+
+surprising: 1
+
+surrounded: 1
+
+surveyed: 1
+
+susan: 1
+
+susceptible: 1
+
+suspicious: 1
+
+sustenance: 1
+
+swallowed: 1
+
+swam: 1
+
+swamp: 1
+
+swampland: 1
+
+sways: 1
+
+swearing: 1
+
+sweating: 1
+
+sweeter: 1
+
+swelled: 1
+
+swept: 1
+
+swing: 1
+
+swords: 1
+
+symbol: 1
+
+symbolic: 1
+
+symbolize: 1
+
+symbolized: 1
+
+symbolizing: 1
+
+sympathizers: 1
+
+symptom: 1
+
+symptoms: 1
+
+synagogue: 1
+
+systematic: 1
+
+systematically: 1
+
+tabletop: 1
+
+tackling: 1
+
+tactic: 1
+
+tail: 1
+
+tainted: 1
+
+taiwan: 1
+
+talented: 1
+
+talkin': 1
+
+tally: 1
+
+tango: 1
+
+tank: 1
+
+tapped: 1
+
+tarawa: 1
+
+tariffs: 1
+
+tassel: 1
+
+tasted: 1
+
+taxable: 1
+
+technical: 1
+
+technicians: 1
+
+techniques: 1
+
+tedious: 1
+
+teenage: 1
+
+teenagers: 1
+
+teirgarten: 1
+
+telecommunications: 1
+
+temperamental: 1
+
+temperate: 1
+
+tempo: 1
+
+tempt: 1
+
+tend: 1
+
+tendency: 1
+
+tent: 1
+
+tentative: 1
+
+tenth: 1
+
+tenuous: 1
+
+termed: 1
+
+terms:: 1
+
+terrify: 1
+
+terrorism: 1
+
+terrorist: 1
+
+terrorists: 1
+
+terrorization: 1
+
+terrorized: 1
+
+terrors: 1
+
+testament: 1
+
+testified: 1
+
+testing: 1
+
+textbooks: 1
+
+th:: 1
+
+thanked: 1
+
+thankful: 1
+
+thanksgiving: 1
+
+that!: 1
+
+that': 1
+
+that'll: 1
+
+that:: 1
+
+theaters: 1
+
+theocratic: 1
+
+theologians: 1
+
+theories: 1
+
+there'd: 1
+
+therein: 1
+
+thermostats: 1
+
+thervant: 1
+
+think!: 1
+
+thirsty: 1
+
+thirteen: 1
+
+thirteenth: 1
+
+thomas': 1
+
+thomas's: 1
+
+thome: 1
+
+thompson: 1
+
+thoroughfares: 1
+
+thrash: 1
+
+threads: 1
+
+thrill: 1
+
+thrilled: 1
+
+thrive: 1
+
+thrives: 1
+
+thrones: 1
+
+thrown: 1
+
+thumb: 1
+
+thundering: 1
+
+thurmond: 1
+
+thurston: 1
+
+thwarting: 1
+
+thyself: 1
+
+tidal: 1
+
+tideless: 1
+
+tiger: 1
+
+til: 1
+
+till: 1
+
+tilted: 1
+
+timber: 1
+
+time:: 1
+
+timid: 1
+
+timidity: 1
+
+timidly: 1
+
+timing: 1
+
+tin: 1
+
+tinkering: 1
+
+tinkling: 1
+
+tint: 1
+
+tipped: 1
+
+titular: 1
+
+titusville: 1
+
+tocqueville: 1
+
+tocsin: 1
+
+today:: 1
+
+together:: 1
+
+tojo: 1
+
+tokyo: 1
+
+tolerated: 1
+
+toleration: 1
+
+tones: 1
+
+tonight:: 1
+
+tool: 1
+
+tools: 1
+
+torment: 1
+
+torpedoed: 1
+
+torrential: 1
+
+tortured: 1
+
+tortures: 1
+
+totaling: 1
+
+touch:: 1
+
+touched: 1
+
+toughened: 1
+
+toughest: 1
+
+tours: 1
+
+tower's: 1
+
+town:: 1
+
+toy: 1
+
+toynbee: 1
+
+traceable: 1
+
+traced: 1
+
+trading: 1
+
+trail: 1
+
+trails: 1
+
+trait: 1
+
+traitor: 1
+
+tramples: 1
+
+tranquilizing: 1
+
+transaction: 1
+
+transactions: 1
+
+transcending: 1
+
+transcends: 1
+
+transfer: 1
+
+transferred: 1
+
+transforming: 1
+
+transgression: 1
+
+transition: 1
+
+transitional: 1
+
+transitory: 1
+
+translating: 1
+
+translation: 1
+
+transmit: 1
+
+trap: 1
+
+traumas: 1
+
+traumatic: 1
+
+travail: 1
+
+traveled: 1
+
+travelers: 1
+
+travesties: 1
+
+treasuries: 1
+
+treated: 1
+
+treaties: 1
+
+treating: 1
+
+treats: 1
+
+tremble: 1
+
+tremendously: 1
+
+trenches: 1
+
+tribulation: 1
+
+tribulations: 1
+
+trickle: 1
+
+trillions: 1
+
+trimmings: 1
+
+triplets: 1
+
+trips: 1
+
+trolley: 1
+
+trolleys: 1
+
+troop: 1
+
+trooping: 1
+
+trophies: 1
+
+tropical: 1
+
+troublemaker: 1
+
+troublesome: 1
+
+troubling: 1
+
+truck: 1
+
+truman's: 1
+
+truman:: 1
+
+trumpet: 1
+
+trusted: 1
+
+trustees: 1
+
+trustful: 1
+
+trusts: 1
+
+truthful: 1
+
+tube: 1
+
+tubercular: 1
+
+tugging: 1
+
+tuition: 1
+
+turban: 1
+
+turns: 1
+
+tutu: 1
+
+twentieth: 1
+
+twisted: 1
+
+typical: 1
+
+tyrannies: 1
+
+tyrants: 1
+
+udall: 1
+
+uhuru: 1
+
+unafraid: 1
+
+unalterable: 1
+
+unalterably: 1
+
+unanimity: 1
+
+unanimously: 1
+
+unarmed: 1
+
+unassailable: 1
+
+unaware: 1
+
+unbelievable: 1
+
+unbelievers: 1
+
+unbending: 1
+
+unbiased: 1
+
+unbounded: 1
+
+unbounding: 1
+
+unbridled: 1
+
+unbutton: 1
+
+unceasing: 1
+
+uncertain: 1
+
+uncivilized: 1
+
+unclean: 1
+
+uncomplaining: 1
+
+unconstitutional: 1
+
+unconstitutionally: 1
+
+unconventional: 1
+
+uncouth: 1
+
+und: 1
+
+undaunted: 1
+
+undeclared: 1
+
+undemocratic: 1
+
+undeniable: 1
+
+underage: 1
+
+underestimated: 1
+
+undergo: 1
+
+undergraduate: 1
+
+undermined: 1
+
+underneath: 1
+
+underpaid: 1
+
+underscore: 1
+
+understandable: 1
+
+understandings: 1
+
+undertakers: 1
+
+undertook: 1
+
+undetermined: 1
+
+undo: 1
+
+undoing: 1
+
+undue: 1
+
+unearned: 1
+
+uneasily: 1
+
+unemployed: 1
+
+unending: 1
+
+unequal: 1
+
+unequivocal: 1
+
+unfailing: 1
+
+unfaithful: 1
+
+unfashionable: 1
+
+unfathomed: 1
+
+unfilled: 1
+
+unfolding: 1
+
+unforgettable: 1
+
+unfortunately: 1
+
+ungrateful: 1
+
+unhappy: 1
+
+unheard: 1
+
+unified: 1
+
+unintelligent: 1
+
+uniquely: 1
+
+uniqueness: 1
+
+uniting: 1
+
+unknowingly: 1
+
+unlit: 1
+
+unlock: 1
+
+unlocked: 1
+
+unlocks: 1
+
+unmindful: 1
+
+unmistakable: 1
+
+unmistakably: 1
+
+unnatural: 1
+
+unpainted: 1
+
+unprepared: 1
+
+unprofitable: 1
+
+unprovoked: 1
+
+unqualified: 1
+
+unquenchable: 1
+
+unquestioned: 1
+
+unquestioning: 1
+
+unrealistic: 1
+
+unrecognized: 1
+
+unrefined: 1
+
+unremitting: 1
+
+unresolved: 1
+
+unrighteous: 1
+
+unsought: 1
+
+unsound: 1
+
+unspoken: 1
+
+untenable: 1
+
+untended: 1
+
+unthinking: 1
+
+untiring: 1
+
+unwarranted: 1
+
+unwise: 1
+
+upper: 1
+
+uprising: 1
+
+uprooted: 1
+
+ups: 1
+
+upturned: 1
+
+useless: 1
+
+usher: 1
+
+utilities: 1
+
+utility: 1
+
+utilized: 1
+
+utilizing: 1
+
+utopian: 1
+
+uttermost: 1
+
+vacantly: 1
+
+vacations: 1
+
+vague: 1
+
+vainly: 1
+
+valiant: 1
+
+valued: 1
+
+vanderbilt: 1
+
+vanished: 1
+
+vastness: 1
+
+vatican: 1
+
+vault: 1
+
+vaults: 1
+
+vc: 1
+
+veins: 1
+
+vendetta: 1
+
+venerable: 1
+
+venezuela: 1
+
+venom: 1
+
+ventures: 1
+
+verge: 1
+
+verifiable: 1
+
+verify: 1
+
+verities: 1
+
+versa: 1
+
+versailles: 1
+
+version: 1
+
+vessels: 1
+
+vested: 1
+
+veteran's: 1
+
+vibrant: 1
+
+vices: 1
+
+victor: 1
+
+victors: 1
+
+vietnamizing: 1
+
+vietnams: 1
+
+vigilance: 1
+
+vigorous: 1
+
+vindication: 1
+
+violently: 1
+
+visitor: 1
+
+visitors: 1
+
+visits: 1
+
+vista: 1
+
+visualize: 1
+
+vitality: 1
+
+vitalized: 1
+
+vividly: 1
+
+volume: 1
+
+voluntarily: 1
+
+von: 1
+
+voted: 1
+
+voter: 1
+
+vulnerable: 1
+
+waban: 1
+
+wages: 1
+
+waging: 1
+
+waitress: 1
+
+waits: 1
+
+walker: 1
+
+walker's: 1
+
+wall!: 1
+
+wallow: 1
+
+wandered: 1
+
+ward: 1
+
+warheads: 1
+
+warmest: 1
+
+warmonger: 1
+
+warmongers: 1
+
+warmth: 1
+
+warn: 1
+
+warnings: 1
+
+warrant: 1
+
+warren: 1
+
+warships: 1
+
+wartime: 1
+
+wary: 1
+
+wash: 1
+
+washstand: 1
+
+wasting: 1
+
+watchful: 1
+
+watered: 1
+
+waterhouse: 1
+
+watering: 1
+
+waterproofs: 1
+
+waterways: 1
+
+watt: 1
+
+waved: 1
+
+waver: 1
+
+waving: 1
+
+way:: 1
+
+we'd: 1
+
+weakened: 1
+
+weakening: 1
+
+weakest: 1
+
+weakly: 1
+
+weather: 1
+
+webster: 1
+
+week!: 1
+
+weekend: 1
+
+weekends: 1
+
+wehrmacht: 1
+
+weighed: 1
+
+weighs: 1
+
+weimar: 1
+
+weinberger: 1
+
+weird: 1
+
+weizsacker: 1
+
+welch's: 1
+
+welcomed: 1
+
+wellesley's: 1
+
+wells: 1
+
+wellsprings: 1
+
+welter: 1
+
+were:: 1
+
+weren: 1
+
+westmoreland: 1
+
+westward: 1
+
+wheelchair: 1
+
+wheels: 1
+
+wherein: 1
+
+whereof: 1
+
+whip: 1
+
+whirled: 1
+
+whirlwinds: 1
+
+whispers: 1
+
+whistled: 1
+
+whistling: 1
+
+whittaker: 1
+
+whittle: 1
+
+whittling: 1
+
+wholly: 1
+
+wicked: 1
+
+widen: 1
+
+widening: 1
+
+widespread: 1
+
+widows: 1
+
+wier: 1
+
+wiesel:: 1
+
+wife's: 1
+
+wildlife: 1
+
+willfulness: 1
+
+williams: 1
+
+windfall: 1
+
+wine: 1
+
+wing: 1
+
+winked: 1
+
+winter: 1
+
+winthrop: 1
+
+wired: 1
+
+wirtschaftswunder: 1
+
+wisconsin: 1
+
+wisely: 1
+
+wisest: 1
+
+wishing: 1
+
+witching: 1
+
+withdrawals: 1
+
+withdraws: 1
+
+wither: 1
+
+withering: 1
+
+withhold: 1
+
+wizard: 1
+
+wizards: 1
+
+woke: 1
+
+wonder:: 1
+
+wondrous: 1
+
+wont: 1
+
+wood: 1
+
+wooden: 1
+
+woods: 1
+
+word:: 1
+
+workmen: 1
+
+workshop: 1
+
+world!: 1
+
+worries: 1
+
+worrying: 1
+
+worse:: 1
+
+worships: 1
+
+worthington: 1
+
+worthless: 1
+
+wove: 1
+
+wreckage: 1
+
+wrenching: 1
+
+writer's: 1
+
+wrong!: 1
+
+wrong!!: 1
+
+wrongful: 1
+
+wrongly: 1
+
+wrought: 1
+
+xxiii: 1
+
+yacht: 1
+
+yalta: 1
+
+yankee: 1
+
+year's: 1
+
+yearn: 1
+
+yearnings: 1
+
+yell: 1
+
+yelled:: 1
+
+yells: 1
+
+yesteryears: 1
+
+yoked: 1
+
+yoking: 1
+
+yondah: 1
+
+yonder: 1
+
+youngest: 1
+
+yugoslavia: 1
+
+zealous: 1
+
+zimbabwe: 1
+
+zone: 1
+
+
+
+
+
+==========================================================================
+
+程序运行时间： 1019ms

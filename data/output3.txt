@@ -1,0 +1,227 @@
+==========================================================================
+
+
+
+
+
+参数：-d C:\Users\Administrator\Desktop\data -n 100 -o C:\Users\Administrator\Desktop\soft\output3.txt 
+
+
+
+==========================================================================
+
+
+
+
+
+
+
+单词的个数为: 
+
+the: 8743
+
+of: 5230
+
+and: 4827
+
+to: 4397
+
+in: 2929
+
+a: 2816
+
+that: 2628
+
+i: 2052
+
+we: 1656
+
+is: 1638
+
+for: 1391
+
+it: 1311
+
+you: 1302
+
+our: 1232
+
+this: 1176
+
+have: 1080
+
+be: 1040
+
+not: 976
+
+are: 878
+
+as: 853
+
+on: 841
+
+they: 807
+
+will: 769
+
+with: 751
+
+he: 741
+
+all: 723
+
+but: 697
+
+was: 622
+
+by: 596
+
+or: 568
+
+who: 535
+
+their: 525
+
+his: 520
+
+people: 507
+
+from: 506
+
+my: 494
+
+can: 471
+
+has: 466
+
+at: 461
+
+one: 451
+
+what: 446
+
+there: 444
+
+which: 425
+
+us: 422
+
+if: 421
+
+man: 419
+
+an: 417
+
+so: 415
+
+would: 408
+
+do: 402
+
+when: 402
+
+no: 400
+
+now: 377
+
+must: 338
+
+me: 328
+
+world: 328
+
+your: 322
+
+those: 316
+
+been: 314
+
+great: 310
+
+them: 310
+
+more: 304
+
+had: 298
+
+these: 297
+
+out: 293
+
+government: 283
+
+united: 275
+
+nation: 269
+
+s: 267
+
+than: 265
+
+were: 265
+
+war: 256
+
+years: 255
+
+time: 253
+
+american: 253
+
+know: 251
+
+states: 248
+
+peace: 248
+
+only: 246
+
+any: 243
+
+some: 240
+
+america: 237
+
+other: 237
+
+here: 234
+
+let: 232
+
+men: 232
+
+up: 229
+
+about: 229
+
+say: 228
+
+its: 225
+
+every: 224
+
+president: 221
+
+because: 220
+
+right: 218
+
+own: 207
+
+should: 200
+
+then: 198
+
+new: 198
+
+into: 197
+
+freedom: 188
+
+
+
+
+
+==========================================================================
+
+程序运行时间： 119ms

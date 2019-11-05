@@ -26,8 +26,16 @@ public class OutputResult {
             "-p num 指定num个词的短语,与-d,-d -s搭配使用\n" +
             "\n";
 
-    public OutputResult() {
-        res = "";
+    public OutputResult(String res) {
+        this.res = res;
+    }
+
+    public String getRes() {
+        return res;
+    }
+
+    public void setRes(String res) {
+        this.res = res;
     }
 
     public void setWordNum(int wordNum) {
@@ -104,7 +112,11 @@ public class OutputResult {
         }
         FileWriter fw = new FileWriter(fileName);
         BufferedWriter bw = new BufferedWriter(fw);
-        bw.write(res);
+        for(int i = 0; i < res.length(); i++){
+            if (res.charAt(i) == '\n')
+                bw.newLine();
+            bw.write(res.charAt(i));
+        }
         bw.close();
         fw.close();
     }

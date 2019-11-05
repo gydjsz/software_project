@@ -1,0 +1,499 @@
+==========================================================================
+
+
+
+
+
+参数：-d C:\Users\Administrator\Desktop\data -p 3 -o C:\Users\Administrator\Desktop\soft\output5.txt 
+
+
+
+==========================================================================
+
+
+
+
+
+
+
+短语的个数为: 
+
+the united states : 213
+
+of the united : 112
+
+the white man : 56
+
+the american people : 55
+
+the people of : 55
+
+one of the : 51
+
+of the world : 49
+
+it is a : 42
+
+in the world : 41
+
+i want to : 39
+
+there is no : 39
+
+you and i : 38
+
+the soviet union : 32
+
+i do not : 31
+
+president of the : 30
+
+this is the : 30
+
+all of us : 29
+
+and in the : 29
+
+be able to : 29
+
+in this country : 29
+
+men and women : 28
+
+part of the : 28
+
+the right to : 28
+
+the united nations : 28
+
+of the people : 27
+
+and i have : 26
+
+are going to : 26
+
+out of the : 26
+
+of human rights : 25
+
+i believe that : 24
+
+it is not : 24
+
+members of the : 24
+
+the history of : 23
+
+to be a : 22
+
+in order to : 21
+
+in the united : 21
+
+let me say : 21
+
+that we are : 21
+
+the hands of : 21
+
+this is a : 21
+
+i know that : 20
+
+is not a : 20
+
+of our nation : 20
+
+of our people : 20
+
+of south vietnam : 20
+
+the general assembly : 20
+
+these are the : 20
+
+as long as : 19
+
+going to be : 18
+
+i have a : 18
+
+i have been : 18
+
+of the nation : 18
+
+some of the : 18
+
+that we have : 18
+
+the man who : 18
+
+the right of : 18
+
+the same time : 18
+
+there is a : 18
+
+and i am : 17
+
+as well as : 17
+
+at the same : 17
+
+it is the : 17
+
+of all the : 17
+
+the south vietnamese : 17
+
+to be the : 17
+
+to the people : 17
+
+will not be : 17
+
+you and me : 17
+
+and that is : 16
+
+in south vietnam : 16
+
+of those who : 16
+
+that is the : 16
+
+the fact that : 16
+
+to tell you : 16
+
+we will not : 16
+
+believe that the : 15
+
+in new york : 15
+
+of this nation : 15
+
+the cause of : 15
+
+the end of : 15
+
+the white house : 15
+
+there was a : 15
+
+to the american : 15
+
+a lot of : 14
+
+all of our : 14
+
+i say that : 14
+
+in the hands : 14
+
+in the history : 14
+
+ladies and gentlemen : 14
+
+of the american : 14
+
+some of you : 14
+
+thank you very : 14
+
+the future of : 14
+
+the government of : 14
+
+the life of : 14
+
+the lives of : 14
+
+the purpose of : 14
+
+we are a : 14
+
+we will be : 14
+
+will be able : 14
+
+would like to : 14
+
+a man who : 13
+
+and a half : 13
+
+and i think : 13
+
+ballot or the : 13
+
+for me to : 13
+
+i have no : 13
+
+in our own : 13
+
+in the first : 13
+
+more than a : 13
+
+my fellow americans : 13
+
+or the bullet : 13
+
+that i have : 13
+
+that we can : 13
+
+the ballot or : 13
+
+the black man : 13
+
+the democratic party : 13
+
+the level of : 13
+
+the men who : 13
+
+the president of : 13
+
+there will be : 13
+
+to do so : 13
+
+we can do : 13
+
+you very much : 13
+
+all of the : 12
+
+as i have : 12
+
+but it is : 12
+
+end of the : 12
+
+i will not : 12
+
+in the last : 12
+
+in the middle : 12
+
+in the past : 12
+
+is not the : 12
+
+it has been : 12
+
+it is time : 12
+
+it is to : 12
+
+it must be : 12
+
+it will be : 12
+
+not going to : 12
+
+of black nationalism : 12
+
+of the most : 12
+
+people of the : 12
+
+that it is : 12
+
+that it was : 12
+
+that we will : 12
+
+the face of : 12
+
+the members of : 12
+
+the network news : 12
+
+the networks have : 12
+
+the war in : 12
+
+to see the : 12
+
+united states and : 12
+
+we are going : 12
+
+we have the : 12
+
+we have to : 12
+
+we must not : 12
+
+would have been : 12
+
+a number of : 11
+
+a part of : 11
+
+all of you : 11
+
+all the people : 11
+
+as a nation : 11
+
+have a dream : 11
+
+history of the : 11
+
+i did not : 11
+
+i would have : 11
+
+in the future : 11
+
+it was a : 11
+
+it would be : 11
+
+of the congress : 11
+
+of the earth : 11
+
+of the general : 11
+
+of the government : 11
+
+of the white : 11
+
+of this country : 11
+
+on both sides : 11
+
+some of them : 11
+
+the federal government : 11
+
+the great society : 11
+
+the leaders of : 11
+
+the people who : 11
+
+the problems of : 11
+
+the use of : 11
+
+to make the : 11
+
+to those who : 11
+
+war in vietnam : 11
+
+we believe in : 11
+
+a matter of : 10
+
+all over the : 10
+
+and all the : 10
+
+and i want : 10
+
+and i will : 10
+
+and of the : 10
+
+and the world : 10
+
+and those who : 10
+
+and when you : 10
+
+assembly of the : 10
+
+but i do : 10
+
+declaration of human : 10
+
+general assembly of : 10
+
+i am not : 10
+
+i would like : 10
+
+if we are : 10
+
+in his own : 10
+
+in the life : 10
+
+it in the : 10
+
+it was the : 10
+
+it would have : 10
+
+of north vietnam : 10
+
+of peace and : 10
+
+of the declaration : 10
+
+of the future : 10
+
+of the greatest : 10
+
+side of the : 10
+
+that we must : 10
+
+the basis of : 10
+
+the declaration of : 10
+
+the forces of : 10
+
+the heart of : 10
+
+the house negro : 10
+
+the middle east : 10
+
+the most important : 10
+
+the other side : 10
+
+the rest of : 10
+
+the things that : 10
+
+those who are : 10
+
+to get rich : 10
+
+to make a : 10
+
+to see that : 10
+
+way of life : 10
+
+we believe that : 10
+
+we do not : 10
+
+we want to : 10
+
+what is the : 10
+
+with the soviet : 10
+
+you have to : 10
+
+
+
+
+
+==========================================================================
+
+程序运行时间： 294ms

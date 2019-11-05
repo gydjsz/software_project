@@ -8,13 +8,22 @@ import java.util.Map;
 
 public class Main {
     private Map<String, String> operator;
+    private String command;
+    private static OutputResult outputResult;
+    private static String outputFileName;
 
+    public Main() {
+        outputFileName = "";
+    }
 
     public void getOperation(String[] args){
         operator = new HashMap<>();
+        command = "==========================================================================\n" +
+                "\n\n参数：";
         String regex = "^-.";
         String num = "^[0-9]+$";
         for(int i = 0; i < args.length; ++i){
+            command += args[i] + " ";
             if(args[i].matches(regex)){
                 if(args[i].equals("-n")) {
                     operator.put(args[i], "0");
@@ -25,18 +34,20 @@ public class Main {
             }
             operator.put(args[i - 1], args[i]);
         }
+        command += "\n\n==========================================================================\n" +
+                "\n\n\n";
     }
 
     public void achieveOperations() throws IOException {
         GetOperationContent content = new GetOperationContent();
-        OutputResult outputResult = new OutputResult();
+        outputResult = new OutputResult(command);
         List<Map.Entry<String, Integer>> letters = new ArrayList<>();
         List<Map.Entry<String, Integer>> words;
         List<String> allSentence = new ArrayList<>();
         List<String> stopWords = new ArrayList<>();
         List<Map.Entry<String, Integer>> allPhrase = new ArrayList<>();
 //        Map<String, String> normal = new HashMap<>();
-        String outputFileName = "";
+
         int wordNum = 0;
         int phraseNum = 0;
         int type = 2;
@@ -53,7 +64,7 @@ public class Main {
                 case "-s":
                     allSentence = content.allDirFileSentence(value);
                     break;
-                case "-b":
+                case "-d":
                     allSentence = content.allFileSentence(value);
                     break;
                 case "-f":
@@ -101,12 +112,19 @@ public class Main {
         else{
             outputResult.errorWarn();
         }
-        outputResult.outputFile(outputFileName);
+
     }
 
     public static void main(String[] args) throws IOException {
+        long startTime=System.currentTimeMillis();
         Main main = new Main();
         main.getOperation(args);
         main.achieveOperations();
+        long endTime=System.currentTimeMillis();
+        String s = outputResult.getRes() +"\n\n" +
+                "==========================================================================\n" +
+                "程序运行时间： "+(endTime-startTime)+"ms";
+        outputResult.setRes(s);
+        outputResult.outputFile(outputFileName);
     }
 }
